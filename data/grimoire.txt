@@ -1,160 +1,8 @@
-Table of Contents
+# ArM5e Grimoire
 
-Introduction ................................................................................................................................... 4
+## The Art of Animal
 
-The Art of Animal ......................................................................................................................... 5
-
-Creo Animal Spells ....................................................................................................................................................5
-
-Intellego Animal Spells ........................................................................................................................................... 10
-
-Muto Animal Spells ................................................................................................................................................. 12
-
-Perdo Animal Spells ................................................................................................................................................ 18
-
-Rego Animal Spells ................................................................................................................................................. 21
-
-The Art of Aquam ....................................................................................................................... 30
-
-Creo Aquam Spells .................................................................................................................................................. 30
-
-Intellego Aquam Spells............................................................................................................................................ 33
-
-Muto Aquam Spells ................................................................................................................................................. 35
-
-Perdo Aquam Spells ................................................................................................................................................ 38
-
-Rego Aquam Spells ................................................................................................................................................. 39
-
-The Art of Auram ....................................................................................................................... 44
-
-Creo Auram Spells................................................................................................................................................... 44
-
-Intellego Auram Spells ............................................................................................................................................ 48
-
-Muto Auram Spells .................................................................................................................................................. 49
-
-Perdo Auram Spells ................................................................................................................................................. 51
-
-Rego Auram Spells .................................................................................................................................................. 52
-
-The Art of Corpus ....................................................................................................................... 54
-
-Creo Corpus Spells .................................................................................................................................................. 54
-
-Intellego Corpus Spells ............................................................................................................................................ 60
-
-Muto Corpus Spells ................................................................................................................................................. 65
-
-Perdo Corpus Spells................................................................................................................................................. 75
-
-Rego Corpus Spells ................................................................................................................................................. 80
-
-The Art of Herbam ..................................................................................................................... 91
-
-Creo Herbam Spells ................................................................................................................................................. 91
-
-Intellego Herbam Spells .......................................................................................................................................... 98
-
-Muto Herbam Spells ................................................................................................................................................ 99
-
-Perdo Herbam Spells ............................................................................................................................................. 102
-
-Rego Herbam Spells .............................................................................................................................................. 104
-
-The Art of Ignem ....................................................................................................................... 115
-
-Creo Ignem Spells ................................................................................................................................................. 115
-
-Intellego Ignem Spells ........................................................................................................................................... 120
-
-Muto Ignem Spells................................................................................................................................................. 121
-
-Perdo Ignem Spells ................................................................................................................................................ 124
-
-Rego Ignem Spells ................................................................................................................................................. 128
-
-The Art of Imaginem ................................................................................................................ 132
-
-Creo Imaginem Spells............................................................................................................................................ 132
-
-Intellego Imaginem Spells ..................................................................................................................................... 138
-
-Muto Imaginem Spells ........................................................................................................................................... 141
-
-Perdo Imaginem Spells .......................................................................................................................................... 146
-
-Rego Imaginem Spells ........................................................................................................................................... 149
-
-The Art of Mentem ................................................................................................................... 151
-
-Creo Mentem Spells .............................................................................................................................................. 151
-
-Intellego Mentem Spells ........................................................................................................................................ 160
-
-Muto Mentem Spells ............................................................................................................................................. 165
-
-Perdo Mentem Spells ............................................................................................................................................. 171
-
-Rego Mentem Spells .............................................................................................................................................. 177
-
-The Art of Terram .................................................................................................................... 186
-
-Creo Terram Spells ................................................................................................................................................ 186
-
-Intellego Terram Spells.......................................................................................................................................... 194
-
-Muto Terram Spells ............................................................................................................................................... 198
-
-Perdo Terram Spells .............................................................................................................................................. 202
-
-Rego Terram Spells ............................................................................................................................................... 205
-
-The Art of Vim .......................................................................................................................... 218
-
-Creo Vim Spells..................................................................................................................................................... 218
-
-Intellego Vim Spells .............................................................................................................................................. 223
-
-Muto Vim Spells .................................................................................................................................................... 230
-
-Perdo Vim Spells ................................................................................................................................................... 234
-
-Rego Vim Spells .................................................................................................................................................... 240
-
-The Art of Aethera .................................................................................................................... 247
-
-Creo Aethera .......................................................................................................................................................... 247
-
-Intellego Aethera ................................................................................................................................................... 247
-
-Muto Aethera ......................................................................................................................................................... 247
-
-Perdo Aethera ........................................................................................................................................................ 248
-
-Rego Aethera ......................................................................................................................................................... 248
-
-Spell Index ................................................................................................................................. 249
-
-Introduction
-
-Salvete sodales!
-
-This document contains all Hermetic spells detailed in the 42 books that comprise Ars Magica Fifth Edition. This document does not include non-Hermetic spells, magic item spell effects, powers used by creatures with Might or other beings, spell-like vis (from Mythic Locations and other sources), or spell-like blights from Dies Irae.
-
-A good amount of effort was made to ensure that the entries are free of spelling, formatting, and other errors but with a work of this size, missed errors are inevitable. Every spell entry has the source of the spell listed so that the information here can be verified through comparison to the original source. An attempt was made to incorporate the Ars Magica Fifth Edition Errata (up to and including August 2021). A few extra notes have been added in some cases and these notes, hopefully, will not detract from the overall accuracy of the spell entries.
-
-A two-column format was used and most spells entries are completely within one column. Some spell entries are split across the columns to keep spells that follow on the same page. Spell entries have not been split across pages. Because of this, there are large areas of blank space on some pages.
-
-A spell index at the end of the document lists all spells in alphabetical order by name and gives the page number on which the spell appears in this document. If the spell name starts with the word “a” or “an” like A Bridge Without Wood, it will appear under “A.” Likewise, if a spell name begins with the word “the” like The Ambulatory Laboratory then the spell will appear under “T.”
-
-Finally, there is one original spell in this document that has not appeared in any other work.
-
-Enjoy!
-
-The Art of Animal
-
-Creo Animal Spells
+### Creo Animal Spells
 
 BOUNDLESS WEALTH OF THE OCEANS CrAn 20 R: Touch, D: Mom, T: Group, Ritual
 
@@ -342,7 +190,7 @@ R: Touch, D: Mom, T: Ind, Ritual This spell returns a mundane animal of up to Si
 
 9
 
-Intellego Animal Spells
+### Intellego Animal Spells
 
 A SIMPLE TEST FOR THE COMPLETENESS OF BOOKS InAn(He) 15 R: Touch, D: Mom, T: Ind
 
@@ -434,7 +282,7 @@ Source: Houses of Hermes – True Lineages, 139
 
 11
 
-Muto Animal Spells
+### Muto Animal Spells
 
 THE APPROPRIATE ATTIRE MuAn 4 R: Touch, D: Sun, T: Ind
 
@@ -604,7 +452,7 @@ R: Touch, D: Year, T: Group, Ritual Special: Requires Boosted Magic and Harnesse
 
 17
 
-Perdo Animal Spells
+### Perdo Animal Spells
 
 THE UNRAVELED SEAM PeAn(He) 5 R: Touch, D: Mom, T: Part
 
@@ -720,7 +568,7 @@ Req: Rego This spell reduces an animal to its components. A dead sheep, for exam
 
 20
 
-Rego Animal Spells
+### Rego Animal Spells
 
 WARD AGAINST THE BEASTS OF LEGEND ReAn Gen R: Touch, D: Ring, T: Circle
 
@@ -1074,9 +922,9 @@ An equivalent Herbam spell could be used to gather text written on paper or papy
 
 29
 
-The Art of Aquam
+## The Art of Aquam
 
-Creo Aquam Spells
+### Creo Aquam Spells
 
 HURLING THE DROPLET OF LYE CrAq 3 R: Touch, D: Diam, T: Ind
 
@@ -1144,7 +992,7 @@ This Ritual permanently increases the strength of an Aquam boundary in the Magic
 
 32
 
-Intellego Aquam Spells
+### Intellego Aquam Spells
 
 CALL OF THE RUSHING WATERS InAq 15 R: Arc, D: Conc, T: Ind
 
@@ -1206,7 +1054,7 @@ Req: Imaginem Turns a body of water into a scrying pool. Innately magical people
 
 34
 
-Muto Aquam Spells
+### Muto Aquam Spells
 
 AN EVENING’S ILLUMINATION MuAq 5 R: Touch, D: Sun, T: Ind
 
@@ -1288,7 +1136,7 @@ Propitiates the Queen of Winter, who then allows the Baltic Sea to thaw that yea
 
 37
 
-Perdo Aquam Spells
+### Perdo Aquam Spells
 
 CLOSING THE EARTH’S GATE PeAq 25 R: Touch, D: Mom, T: Ind
 
@@ -1334,7 +1182,7 @@ This project removes the naturally-occurring aether from within the waters of a 
 
 38
 
-Rego Aquam Spells
+### Rego Aquam Spells
 
 WARD AGAINST FAERIES OF THE WATERS ReAq Gen R: Touch, D: Ring, T: Circle
 
@@ -1546,9 +1394,9 @@ TOWER OF LAVA ReAq 50 R: Touch, D: Mom, T: Part, Ritual This spell sculpts a tow
 
 43
 
-The Art of Auram
+## The Art of Auram
 
-Creo Auram Spells
+### Creo Auram Spells
 
 AIR’S GHOSTLY FORM CrAu 5 R: Touch, D: Diam, T: Ind
 
@@ -1678,7 +1526,7 @@ This spell creates an immense storm, 40 or more miles wide, of hurricane intensi
 
 47
 
-Intellego Auram Spells
+### Intellego Auram Spells
 
 SAILOR’S FORETASTE OF THE MORROW InAu 20 R: Touch, D: Mom, T: Group
 
@@ -1716,7 +1564,7 @@ You can move about confidently in complete darkness by sensing air and its bound
 
 48
 
-Muto Auram Spells
+### Muto Auram Spells
 
 CURSE OF THE EVIL HUMORS MuAu 25 R: Voice, D: Diam, T: Part
 
@@ -1772,7 +1620,7 @@ RAIN OF OIL MuAu(Aq) 50 R: Sight, D: Sun, T: Ind, Ritual Req: Aquam Turns rain i
 
 50
 
-Perdo Auram Spells
+### Perdo Auram Spells
 
 THE CLOUDLESS SKY RETURNED PeAu 45 R: Sight, D: Mom, T: Group
 
@@ -1806,7 +1654,7 @@ In Ferramentum’s version of this spell, the clouds clear from the sky in an or
 
 51
 
-Rego Auram Spells
+### Rego Auram Spells
 
 WARD AGAINST RAIN ReAu 10 R: Per, D: Sun, T: Ind
 
@@ -1892,9 +1740,9 @@ Note that the spell is powerful enough to lift a storm across a harbor, but the 
 
 53
 
-The Art of Corpus
+## The Art of Corpus
 
-Creo Corpus Spells
+### Creo Corpus Spells
 
 BIND WOUND CrCo 10 R: Touch, D: Sun, T: Ind This spell binds the target’s wounds, so that he can undertake any activity without the risk of worsening the wounds. He still suffers from the wound penalties, however, and cannot heal naturally while under the influence of this spell.
 
@@ -2150,7 +1998,7 @@ In any case, the revived person is not truly alive and is unable to gain experie
 
 59
 
-Intellego Corpus Spells
+### Intellego Corpus Spells
 
 SIGHT OF THE TRUE FORM InCo Gen R: Per, D: Mom, T: Vision
 
@@ -2356,7 +2204,7 @@ This spell gives a brief insight into the targets’ physical condition. It appl
 
 64
 
-Muto Corpus Spells
+### Muto Corpus Spells
 
 EARS OF THE HARE MuCo(An) 4 R: Per, D: Sun, T: Ind
 
@@ -2734,7 +2582,7 @@ R: Touch, D: Year, T: Group, Ritual Req: Rego, Ignem, Terram This ritual changes
 
 74
 
-Perdo Corpus Spells
+### Perdo Corpus Spells
 
 IN CHRIST’S FOOTSTEPS PeCo 5 R: Per, D: Conc, T: Ind
 
@@ -2938,7 +2786,7 @@ Starts a plague in a city or other Boundary. Everyone within the boundary is aff
 
 79
 
-Rego Corpus Spells
+### Rego Corpus Spells
 
 FOLLOWER’S BANE ReCo 10 R: Road, D: Sun, T: Ind
 
@@ -3372,9 +3220,9 @@ Req: Intellego Cast into a flame, this ward prevents a person of a bloodline fro
 
 90
 
-The Art of Herbam
+## The Art of Herbam
 
-Creo Herbam Spells
+### Creo Herbam Spells
 
 THE APPRENTICE’S DELIGHT CrHe 3 R: Touch, D: Diam, T: Ind
 
@@ -3638,11 +3486,11 @@ Patronus summons these faeries with the waxing and waning of the moon to protect
 
 A HARVEST BY MORNING CrHe 50 R: Touch, D: Sun, T: Group
 
-Creo magic brings a thing closer to its ideal, and being a mature plant is more ideal than a sapling, so this spell brings a target group of plants to full maturity over the course of the spell’s duration, which must begin as soon as the sun goes down. While The Unexpected Blossom makes a group of trees blossom, it must have mature plants to work on, which this spell provides. (Base 15, +1 Touch, +2 Sun, +2 Group, +2 size) Source: Transforming Mythic Europe, 41
+### Creo magic brings a thing closer to its ideal, and being a mature plant is more ideal than a sapling, so this spell brings a target group of plants to full maturity over the course of the spell’s duration, which must begin as soon as the sun goes down. While The Unexpected Blossom makes a group of trees blossom, it must have mature plants to work on, which this spell provides. (Base 15, +1 Touch, +2 Sun, +2 Group, +2 size) Source: Transforming Mythic Europe, 41
 
 97
 
-Intellego Herbam Spells
+### Intellego Herbam Spells
 
 PROBE NATURE’S HIDDEN LORE InHe 4 R: Touch, D: Mom, T: Ind
 
@@ -3686,7 +3534,7 @@ The caster can see into the Twilight Void through the vestige of a wooden struct
 
 98
 
-Muto Herbam Spells
+### Muto Herbam Spells
 
 PASS THE UNYIELDING PORTAL MuHe 5 R: Touch, D: Diam, T: Ind
 
@@ -3786,7 +3634,7 @@ R: Touch, D: Year, T: Group, Ritual Req: Perdo Turns a previously normal forest 
 
 101
 
-Perdo Herbam Spells
+### Perdo Herbam Spells
 
 A SPELL TO KILL WEEDS PeHe 20 R: Touch, D: Mom, T: Group
 
@@ -3856,7 +3704,7 @@ There can be little excuse for casting this spell and even less for enchanting i
 
 103
 
-Rego Herbam Spells
+### Rego Herbam Spells
 
 A USEFUL INCULCATOR OF COMMENTS ReHe 4 R: Touch, D: Mom, T: Ind
 
@@ -4228,9 +4076,9 @@ ReHe 55 R: Touch, D: Year, T: Bound, Ritual This ritual spell keeps natural plan
 
 114
 
-The Art of Ignem
+## The Art of Ignem
 
-Creo Ignem Spells
+### Creo Ignem Spells
 
 MOONBEAM CrIg 3 R: Touch, D: Conc, T: Ind Causes a gentle light, bright enough to read by, to shine down from above and illuminate the area described by your encircled arms. Lasts as long as you hold your arms in a circle.
 
@@ -4416,7 +4264,7 @@ An early version of this spell was found in the lab notes of Flambeau himself. S
 
 119
 
-Intellego Ignem Spells
+### Intellego Ignem Spells
 
 PERCEIVE THE FIREWALKER InIg 30 R: Per, D: Conc, T: Vision
 
@@ -4460,7 +4308,7 @@ Allows you to converse with a fire, commonly very chaotic and distractible. Prom
 
 120
 
-Muto Ignem Spells
+### Muto Ignem Spells
 
 THE MANY-HUED CONFLAGRATION MuIg 5 R: Voice, D: Mom, T: Ind
 
@@ -4564,7 +4412,7 @@ R: Voice, D: Sun, T: Ind Req: Aquam Turns a fire up to the size of a small house
 
 123
 
-Perdo Ignem Spells
+### Perdo Ignem Spells
 
 A TIME FOR SLUMBER PeIg 5 R: Touch, D: Ring, T: Circle
 
@@ -4700,7 +4548,7 @@ A brief note on the specific use of this spell that should not to be mistaken fo
 
 127
 
-Rego Ignem Spells
+### Rego Ignem Spells
 
 TREMULOUS VAULT OF THE TORCH’S FLAME ReIg 5 R: Voice, D: Mom T: Ind
 
@@ -4836,9 +4684,9 @@ Req: Animal, Aquam, Corpus, Herbam This spell conglomerates other wards into a s
 
 131
 
-The Art of Imaginem
+## The Art of Imaginem
 
-Creo Imaginem Spells
+### Creo Imaginem Spells
 
 FALSE WINDOW CrIm 5 R: Touch, D: Sun (some versions use Ring), T: Ind This spell allows the magus to trace the frame of a door or window and create a miniature that seems to show something that lies beyond the frame. A Perception + Finesse roll is required to craft a convincing illusion. The Ease Factor is 9 if the image seems to show a room, 12 if it seems to show a structure, or 15 if it seems to run to the horizon. These numbers already include the reduction for limiting the viewer’s line of sight, but could be reduced or increased by familiarity with the depicted scene.
 
@@ -5052,7 +4900,7 @@ Source: Dies Irae, 69
 
 137
 
-Intellego Imaginem Spells
+### Intellego Imaginem Spells
 
 DISCERN IMAGES OF TRUTH AND FALSEHOOD InIm Gen R: Per, D: Conc, T: Vision
 
@@ -5182,7 +5030,7 @@ While using this spell, the magus can see and hear what’s happening in a dista
 
 140
 
-Muto Imaginem Spells
+### Muto Imaginem Spells
 
 A PESTILENCE OF FLEAS MuIm 4 R: Voice, D: Diam, T: Ind
 
@@ -5370,7 +5218,7 @@ SERVANT OF FIRE MuIm(Ig, Me) 45 R: Voice, D: Fire, T: Ind Req: Ignem, Mentem Thi
 
 145
 
-Perdo Imaginem Spells
+### Perdo Imaginem Spells
 
 DISPEL THE PHANTOM IMAGE PeIm Gen R: Voice, D: Mom, T: Ind
 
@@ -5486,7 +5334,7 @@ R: Touch, D: Sun, T: Bound*, Ritual Req: Rego Makes the wall, and everything wit
 
 148
 
-Rego Imaginem Spells
+### Rego Imaginem Spells
 
 COLOR EXPLOSION ReIm 15 R: Voice, D: Diam, T: Ind
 
@@ -5550,9 +5398,9 @@ Moves the image of any bounded structure or set of structures the size of a cast
 
 150
 
-The Art of Mentem
+## The Art of Mentem
 
-Creo Mentem Spells
+### Creo Mentem Spells
 
 BY HIS WORKS CrMe 5 R: Per, D: Conc, T: Ind Refreshes a specific memory within the mind of the caster; as long as some fragment of it remains, this spell will restore it. Once refreshed, the caster can hold the perfected memory as long he concentrates. Studying the memory effectively creates a new one which does not fade when the spell expires. This spell was created to allow Quaesitors to perfectly recall spell sigils they encounter. The spell can be used to recall other details of a brief event, like faces or voices. This spell is often used to double- check identification. (Base 4, +1 Concentration) Source: Houses of Hermes – True Lineages, 73
 
@@ -5870,7 +5718,7 @@ Each of the four variations of this ritual permanently increases one of the subj
 
 159
 
-Intellego Mentem Spells
+### Intellego Mentem Spells
 
 ANAT’S SEARCH IN THE MIRY ABYSS InMe 20 R: Veil, D: Diam, T: Ind
 
@@ -6046,7 +5894,7 @@ This spell was developed by a magos who wanted to hear his True Love’s voice a
 
 164
 
-Muto Mentem Spells
+### Muto Mentem Spells
 
 RECOLLECTION LIVED MuMe 4
 
@@ -6290,7 +6138,7 @@ Req: Terram This spell makes the metal accouterments for an army of ghosts, up t
 
 170
 
-Perdo Mentem Spells
+### Perdo Mentem Spells
 
 LAY TO REST THE HAUNTING SPIRIT PeMe Gen R: Voice, D: Mom, T: Ind
 
@@ -6510,7 +6358,7 @@ You curse a place, be it a valley, town, city, or covenant. The curse gradually 
 
 176
 
-Rego Mentem Spells
+### Rego Mentem Spells
 
 THE CALL TO SLUMBER ReMe 10 R: Voice D: Mom, T: Ind
 
@@ -6864,11 +6712,11 @@ A spell used on ancient battlefields to call up the pagan dead. This spell grant
 
 185
 
-The Art of Terram
+## The Art of Terram
 
 A NETWORK REMINISCENT OF ROME CrTe 20 R: Touch, D: Mom, T: Ind, Ritual
 
-Creo Terram Spells
+### Creo Terram Spells
 
 THE POOR PERFORMER’S REWARD CrTe 4 R: Touch, D: Sun, T: Ind
 
@@ -7158,7 +7006,7 @@ This ritual creates the foundations and first two levels of the tower. As the ri
 
 The time taken to develop this ritual is spent not only in learning how to draw the complex magical forces together, but also in designing the foundations and the lowest levels of the tower, which are filled with rooms, cloisters, courtyards, and arcades.
 
-Creo magic that creates artificial things, such as this huge tower, requires an Int + Finesse stress roll against an Ease Factor, in this case, of 12. If the roll fails, the tower is still successfully conjured but may require additional work to improve its appearance or to repair defects introduced by the casting. A failed Finesse roll creates a section of tower of shoddy quality, while a successful roll creates a standard quality section. If the Finesse roll botches, the foundations are not strong enough to support the tower and a stress check against damage is required each year.
+### Creo magic that creates artificial things, such as this huge tower, requires an Int + Finesse stress roll against an Ease Factor, in this case, of 12. If the roll fails, the tower is still successfully conjured but may require additional work to improve its appearance or to repair defects introduced by the casting. A failed Finesse roll creates a section of tower of shoddy quality, while a successful roll creates a standard quality section. If the Finesse roll botches, the foundations are not strong enough to support the tower and a stress check against damage is required each year.
 
 The +7 magnitudes for size creates a circular tower of two levels, 2,000 feet in diameter, standing 40 feet above ground level. The high modifier for the elaborate design is required for the precise placement of the foundations, a hugely important factor in a tower this large.
 
@@ -7174,7 +7022,7 @@ Obviously, the eruption of the volcano devastates villages, towns, monasteries, 
 
 193
 
-Intellego Terram Spells
+### Intellego Terram Spells
 
 THE MINER’S KEEN EYE InTe 20 R: Per, D: Conc, T: Vision
 
@@ -7310,7 +7158,7 @@ As Dream of the Mind that Sits, but can be used on even metal objects. The coope
 
 197
 
-Muto Terram Spells
+### Muto Terram Spells
 
 CONJURE THE OCEAN’S BREATH MuTe 15 R: Touch, D: Moon, T: Part
 
@@ -7444,7 +7292,7 @@ The stone will still be hot, even if it is solid. So, a building protected like 
 
 201
 
-Perdo Terram Spells
+### Perdo Terram Spells
 
 SHATTERING TOUCH PeTe 5 R: Touch, D: Mom, T: Ind
 
@@ -7560,7 +7408,7 @@ The base level of 5 is used as the spell is destroying only a single aspect of t
 
 204
 
-Rego Terram Spells
+### Rego Terram Spells
 
 WARD AGAINST FAERIES OF THE MOUNTAIN ReTe Gen R: Touch, D: Ring, T: Circle
 
@@ -8064,9 +7912,9 @@ HERMES’ PORTAL ReTe 75 R: Arc, D: Year, T: Ind, Ritual Creates a magical porta
 
 217
 
-The Art of Vim
+## The Art of Vim
 
-Creo Vim Spells
+### Creo Vim Spells
 
 FAERIE CHAINS OF THE FAMILIAR SLAVE CrVi Gen R: Touch, D: Until, T: Ind, Ritual
 
@@ -8242,7 +8090,7 @@ There is no way of discerning that the ritual does not work, other than by readi
 
 222
 
-Intellego Vim Spells
+### Intellego Vim Spells
 
 SCALES OF THE MAGICAL WEIGHT InVi 5 R: Touch, D: Mom, T: Ind
 
@@ -8498,7 +8346,7 @@ Used by the most experienced Quaesitors, this spell allows the magus to spot act
 
 229
 
-Muto Vim Spells
+### Muto Vim Spells
 
 DAY OF COMMUNION MuVi Gen R: Voice, D: Sun, T: Group.
 
@@ -8642,7 +8490,7 @@ When Wizard’s Communion (Ars Magica Fifth Edition, page 160) is used to assist
 
 233
 
-Perdo Vim Spells
+### Perdo Vim Spells
 
 BIND THE DEVIL’S HANDS PeVi Gen R: Touch, D: Sun, T: Room
 
@@ -8886,7 +8734,7 @@ This spell destroys the Arcane Connection between two items.
 
 239
 
-Rego Vim Spells
+### Rego Vim Spells
 
 ADJURATION OF THE HELL-SWORN SPIRIT ReVi Gen R: Arc, D: Mom, T: Ind
 
@@ -9134,15 +8982,15 @@ MAGNA CLAUSTRA ReVi 95 R: Touch, D: Year, T: Bound, Ritual The Magna Claustra (L
 
 246
 
-The Art of Aethera
+## The Art of Aethera
 
-Creo Aethera
+### Creo Aethera
 
 THE EDGE OF REASON CrAe(Co) 20 R: Sight, D: Moon, T: Ind
 
 Req: Corpus Creates an amount of intangible aether within a target person. This influences the individual’s most prominent humor, which increases the individual’s strongest Personality Trait by 3 points and grants a new +3 Personality Trait for the spell’s duration according to the character’s dominant humor.
 
-Intellego Aethera
+### Intellego Aethera
 
 THE INVISIBLE REVEALED InAe 20 R: Per, D: Conc, T: Vision
 
@@ -9172,7 +9020,7 @@ This spell creates a wall of aether, anchored to the ground, in an arc described
 
 Aether is intangible and invisible, which makes it hard for Hermetic magic to affect. This effect gives the caster the ability to see aether, which is sufficient then to target that aether with further spells and effects. (Base 1, +1 Touch, +2 Sun, +4 Vision) Source: Dies Irae, 31
 
-Muto Aethera
+### Muto Aethera
 
 AETHERIC FIRE MuAe(Ig) 35 R: Sight, D: Conc, T: Ind Req: Ignem This spell gives the target intangible aether the unnatural quality of heat. The default quality makes the aether noticeably warm, but does no damage. However, this effect increases the intensity of the heat such that it does +10 damage to those within the area of effect.
 
@@ -9182,7 +9030,7 @@ This effect has a number of advantages over the much lower level equivalent CrIg
 
 247
 
-Perdo Aethera
+### Perdo Aethera
 
 HOLD THE SKY IN THRALL PeAe 145 R: Sight, D: Mom, T: Ind, Ritual
 
@@ -9192,1513 +9040,10 @@ This ritual, given the nature of the power concerned, is unique. It has been des
 
 (Base 5, +3 Sight, +5 density, +20 size) Source: Dies Irae, 31
 
-Rego Aethera
+### Rego Aethera
 
 HEDGE OUT THE CREATURES OF LUNAR FIRE ReAe 5 R: Touch, D: Ring, T: Circle
 
 The caster inscribes a circle that no creature with the Animal Quality of Lunar can cross. Creatures with Might are not affected by this spell.
 
 (Base 2, +1 Touch, +2 Ring) Source: Dies Irae, 42
-
-248
-
-Spell Index
-
-This list is in alphabetical order by spell name with any spell name starting with the indefinite article being under “A” and any spell name starting with the definite article being under “T”.
-
-(Mental Characteristic) of the Followers ............. 157 A Spell for the Defense of the Realm Against
-
-Expected Invasion .................................................. 73
-
-(Mental Characteristic) of the Heroes .................. 159
-
-A Spell to Kill Weeds .......................................... 102
-
-(Physical Characteristic) of the Followers ............. 57
-
-A Spell to Milk Cattle ............................................ 25
-
-(Physical Characteristic) of the Heroes .................. 58
-
-A System of Narrow Canals ................................ 186
-
-A Bridge Without Wood ........................................ 82
-
-A Time For Slumber ............................................ 124
-
-A Careful Removal of a Perfect Landscape ......... 214
-
-A Useful Inculcator of Comments ....................... 104
-
-A Comparison of the Positions of the Fixed Stars ............................................................................. 224 A Visible Demand for Repair .............................. 141
-
-A Day’s Grace ..................................................... 246 A Window of Singular Direction ......................... 198
-
-A Day’s Worth of Spinning ................................... 24 Abrading Stones................................................... 211
-
-A Day’s Worth of Weaving ................................... 24 Absent Mind of the Scholar ................................. 165
-
-A Father’s Concern ................................................ 64 Abyssal Touch ..................................................... 126
-
-A Harvest By Morning .......................................... 97 Acorns for Amusement ........................................ 105
-
-A Herd By Morning .................................................8 Adjuration of the Hell-Sworn Spirit .................... 240
-
-A House Already Abandoned .............................. 145 Adoration of the Magical Isle ................................ 32
-
-A Limb Bereft ........................................................ 56 Aegis of the Hearth .............................................. 240
-
-A Mightier Channel ............................................. 203 Aegis of Unbreakable Wood .................................. 99
-
-A Moment’s Reflection ....................................... 152 Aetheric Fire ........................................................ 247
-
-A Network Reminiscent of Rome ........................ 186 Ager Belli............................................................. 132
-
-A Night’s Passion ................................................ 155 Agnosia ................................................................ 172
-
-A Pestilence of Fleas............................................ 141 Agony of the Beast ................................................ 19
-
-A Pile of Rotting Beef .............................................7 Air’s Ghostly Form ................................................ 44
-
-A Place of Recuperation ...................................... 125 Alchemist’s Revenge ............................................. 31
-
-A Pocketful of Soldiers ........................................ 100 All Heads Turn .................................................... 151
-
-A Punishment for Brigands.................................... 71 All Vows Forgotten ............................................. 173
-
-A Season’s Inning ................................................ 211 Alteration of the Birth Horoscope.......................... 73
-
-A Simple Charm for the Recovery of Misfiled Books Ambush on the Deserted Road ............................ 147
-
-............................................................................... 24
-
-An Ear for Distant Bells ....................................... 139
-
-A Simple Method for Rapid Vallation ................. 190
-
-An Enemy Awash in the Pure Sigil of the Magus133
-
-A Simple Test for the Completeness of Books ...... 10
-
-An Evening’s Illumination ..................................... 35
-
-A Song of All These Faerie Places ...................... 226
-
-An Expansive & Permanent Wall of Protecting Stone A Song of All These Infernal Places .................... 226 ............................................................................. 189
-
-A Song of All These Magical Places ................... 226 Anat’s Search in the Miry Abyss ......................... 160
-
-A Source of Tremendous Pride .............................. 73 Animate the Slumbering Corpse ............................ 86
-
-249
-
-Apollo’s Fearful Gaze .......................................... 167 Befuddled Speaker ................................................. 80
-
-Appease the Queen of Winter ................................ 37 Belittle the Ferocious Warlock ............................ 238
-
-Arachne’s Tuition .................................................. 82 Bequeathing Salome’s Request.............................. 54
-
-Arc of Fiery Ribbons ........................................... 117 Bestow the Blessing of Apollon ............................ 58
-
-Arcane Seal .......................................................... 241 Betraying Whispers of the Jealous Mind ............. 162
-
-Arm of the Infant ................................................... 67 Bind Fast ................................................................ 22
-
-Armatura Vitrea ................................................... 198 Bind the Devil’s Hands ........................................ 234
-
-Arming the Legion of the Dead ........................... 170 Bind Wound ........................................................... 54
-
-Arms of Neptune.................................................. 189 Binding the Hermetic Codex ................................. 25
-
-Arms of the Salamander ........................................ 56 Binding the Mundane Codex ................................. 21
-
-Artemis’ Fertility ................................................... 57 Bitter Taste of Betrayal ........................................ 224
-
-Assume the Stature of the Giants of Eld ................ 66 Black Anne’s Kiss ................................................. 75
-
-Aura of Beguiling Appearance ............................ 142 Black Whisper ..................................................... 175
-
-Aura of Childlike Innocence ................................ 142 Blade of the Virulent Flame................................. 116
-
-Aura of Childlike Innocence ................................ 143 Blades of Grass, Leaves of Cutting ...................... 100
-
-Aura of Inconsequence ........................................ 180 Blessed Relief of the Benighted Reins ................... 84
-
-Aura of Regal Authority ...................................... 180 Blessing of Artemis’ Fertility ................................ 59
-
-Aura of Rightful Authority .................................. 178 Blessing of Childlike Bliss .................................. 173
-
-Aura of the Ennobled Presence ............................ 143 Blessing of Mercury............................................. 220
-
-Aura of the Simple Bard ...................................... 143 Blessing the Merchant’s Lineage ......................... 145
-
-Autodictation ....................................................... 207 Blind the Insurgent Pack ........................................ 77
-
-Avalanche of Flesh and Steel ................................. 66 Blindness of Involuntary Obstinacy ..................... 175
-
-Avariciousness of the Ptolemies ............................ 21 Blissful Messenger ............................................... 167
-
-Avoiding the Blame ............................................. 165 Blissful Sensations ................................................. 56
-
-Awaken Consciousness of Plant .......................... 101 Blood of My Enemy .............................................. 67
-
-Awaken Sleeping Giant! ...................................... 216 Blunt the Viper’s Fangs ......................................... 19
-
-Awaken the Colossus ............................................. 86 Blunting the Iron’s Bite ....................................... 198
-
-Awaken the Slumbering Corpse ............................ 84 Book of Images .................................................... 133
-
-Awaken the Slumbering Dead ............................... 86 Books that Scream in Pain ..................................... 10
-
-Bag of Feathers .................................................... 101 Boreal Flames ...................................................... 121
-
-Bag of Teeth .......................................................... 35 Borrow the Eyes of Another ................................ 162
-
-Ball of Abysmal Flame ........................................ 118 Borrow the Eyes of Another ................................ 162
-
-Ball of Abysmal Music ........................................ 144 Boundless Wealth of the Oceans ............................. 5
-
-Bane of the Decrepit Body..................................... 76 Break the Oncoming Wave .................................... 39
-
-Banishment of Warmth ........................................ 125 Break the Shield ................................................... 237
-
-Basalt Cage .......................................................... 187 Break the Siege .................................................... 241
-
-Be Rid the Tell Tale Smoke ................................... 51 Breaking the Captain’s Baton .............................. 172
-
-Beast of Miniscule Proportions .............................. 13 Breaking the Shield.............................................. 239
-
-Beast of Outlandish Size ........................................ 12 Breath of the Glassworker ................................... 186
-
-250
-
-Breath of the Open Sky .......................................... 47 Champion’s Strength ...............................................8
-
-Breath of the Sleeper............................................ 160 Chaos of the Angry Waves .................................... 41
-
-Breath of Winter .................................................... 40 Charge of the Angry Winds ................................... 45
-
-Breeze from Within ............................................... 45 Charm Against Putrefaction ................................... 54
-
-Bridge of Frost ....................................................... 41 Chastise the Unruly Antagonist ............................. 75
-
-Bridge of Gnomes .................................................. 44 Chastise the Unruly Fiend.................................... 238
-
-Bridge of Wood ..................................................... 93 Cheating the Reaper ............................................... 56
-
-Brilliance of the Eagle’s Plumage ........................ 118 Chill Touch of Exposure ...................................... 124
-
-Bring Forth the Lord of Knives ........................... 190 Chill Touch of Exposure ...................................... 124
-
-Bring the Herd to Market ....................................... 29 Circle of Beast Warding ........................................ 22
-
-Broken Word Broken Sword ............................... 202 Circle of Clarity ................................................... 234
-
-Broom of the Winds ............................................... 45 Circle of Encompassing Flame ............................ 118
-
-Burn His Eyes Out ................................................. 78 Circle of Eternal Spring ......................................... 91
-
-Burning Issue of the Day ..................................... 181 Circle of Lethargy .................................................. 77
-
-Burst of the Sweeping Flames ............................. 129 Circle of Recovery ................................................. 54
-
-Bushy Tail of the Branch-Dancer .......................... 65 Circle of Undisturbed Rest .................................. 148
-
-By His Works ...................................................... 151 Circling Winds of Protection ................................. 45
-
-Cage of Bronze .................................................... 135 Circular Wall of Shields ...................................... 213
-
-Call of the Rushing Waters .................................... 33 Circular Ward Against Demons ........................... 241
-
-Call the Dream ..................................................... 178 Circular Ward Against Faerie Spirits ................... 241
-
-Call the Fallen Eagles from the Mist ................... 185 Circular Ward Against Magical Spirits ................ 241
-
-Call to Arms ......................................................... 182 Clarion Call of the Warhorse ............................... 165
-
-Calling the Council of the Trees .......................... 113 Claw of the Gladiator ............................................. 75
-
-Calling the Odious Drought ................................... 38 Cleanse the Verminous Vis .................................. 245
-
-Calm Mind of Resolute Behavior ........................ 173 Clear Breath of the Consummate Liar ................. 233
-
-Calm the Motion of the Heart .............................. 172 Clear Sight of the Naiad......................................... 33
-
-Canals that Accommodate Seagoing Vessels ...... 187 Clenching Grasp of the Crushed Heart .................. 78
-
-Captured by Höðr’s Shackles................................. 40 Cloak of Black Feathers ......................................... 69
-
-Cargo of Angel’s Wings ...................................... 216 Cloak of Darkness................................................ 125
-
-Carnivorous House .............................................. 112 Cloak of Fins and Scales ........................................ 70
-
-Carve Domain ...................................................... 203 Cloak of Mist ......................................................... 71
-
-Carved Assassin ................................................... 109 Cloak of Nessus ..................................................... 15
-
-Cascade of Rocks ................................................. 204 Cloak of the Duck’s Feathers ................................. 39
-
-Catapult of the Mighty Winds................................ 46 Close the Black Gate.............................................. 75
-
-Catching the Eye .................................................. 151 Closed Mouth of the Nightwalker........................ 175
-
-Chamber of Invisibility ........................................ 147 Closing the Campfire ........................................... 124
-
-Chamber of Muffled Passing ............................... 146 Closing the Earth’s Gate ........................................ 38
-
-Chamber of Spring Breezes ................................... 44 Clothe the Naked Form .......................................... 92
-
-Chamber of Summer Breezes ................................ 44 Clouds of Obscuring Sand ..................................... 46
-
-251
-
-Clouds of Rain and Thunder .................................. 45 Conjure the Sturdy Vine ........................................ 91
-
-Clouds of Summer Snow ....................................... 45 Conjure the Walking Dead .................................... 58
-
-Clouds of Thunderous Might ................................. 53 Conjuring the Great Tower .................................. 193
-
-Coat of Flame ...................................................... 117 Conjuring the House of God ................................ 192
-
-Coat of Prometheus.............................................. 115 Conjuring the Magical Wolf ....................................9
-
-Coerce Ghosts ...................................................... 178 Conjuring the Mystic Tower ................................ 190
-
-Coerce the Spirit of Anger ................................... 178 Consecration of Mercury’s House ....................... 221
-
-Coerce the Spirit of Earth .................................... 209 Constraint of the Strangling Vestments ................. 28
-
-Coerce the Spirit of Fire....................................... 129 Construct the Memory Palace .............................. 152
-
-Coerce the Spirit of Fire....................................... 129 Control the Dead Army.......................................... 88
-
-Coerce the Spirit of Illusion ................................. 149 Control the Dead Army.......................................... 89
-
-Coerce the Spirits of the Night............................. 178 Control the Dead Turb ........................................... 87
-
-Coils of the Entangling Plants.............................. 107 Controlled Growth ............................................... 109
-
-Color Explosion ................................................... 149 Convergence of Birth ............................................. 61
-
-Comeliness of the Crone ...................................... 143 Convergence of Place ............................................ 60
-
-Comfort of the Drenched Traveler ......................... 38 Converse with Plant and Tree ................................ 98
-
-Command of the Forest........................................ 113 Convince a Man he has an Enemy ....................... 153
-
-Command the Living Fire .................................... 129 Cool the Lover’s Ardor ........................................ 178
-
-Command the Vile Spirit ..................................... 245 Covenant of the Dragon ......................................... 74
-
-Commanding the Harnessed Beast ........................ 28 Craft the Mechanism ............................................ 191
-
-Commune with Mercury ...................................... 224 Create a Dead Turb ................................................ 54
-
-Commune with the Fire Soul ............................... 195 Create a Human Corpse ......................................... 54
-
-Comprehending the Mystic Doorway .................... 98 Create the Flowers of the Moon............................. 92
-
-Conflagration of Light ......................................... 119 Creating an Empty Book From a Filled One ......... 18
-
-Conflagratious Lanyard ....................................... 123 Creation of a Legion of Appointed Cottages ....... 189
-
-Conflagrative Servant .......................................... 119 Creation of a Well-Appointed Town ................... 189
-
-Confound the Rival Singer .................................. 142 Creation of an Undeserved Reputation ................ 153
-
-Confusion of the Insane Vibrations ..................... 150 Creation of the Simile .......................................... 153
-
-Confusion of the Numb Will................................ 177 Creation of the Walls of Simple Cottages ............ 187
-
-Conjuration of Bread ............................................. 95 Creeping Chasm................................................... 215
-
-Conjuration of the Indubitable Cold .................... 126 Creeping Earth ..................................................... 212
-
-Conjuration of the Seaworthy Cog ........................ 96 Creeping Oil........................................................... 30
-
-Conjuration of Wild Thyme ................................... 93 Crest of the Earth Wave ....................................... 209
-
-Conjure a Dead Army ............................................ 55 Cripple the Howling Wolf ..................................... 19
-
-Conjure From the Mist ........................................... 49 Crystal Rain ......................................................... 213
-
-Conjure the Colossus ............................................. 54 Curse of Circe ........................................................ 69
-
-Conjure the Horde of the Dead .............................. 56 Curse of the Baby’s Bladder .................................. 80
-
-Conjure the Mighty Barn ....................................... 94 Curse of the Blasted Heath .................................. 102
-
-Conjure the Ocean’s Breath ................................. 198 Curse of the Desert ................................................ 38
-
-252
-
-Curse of the Evil Humors ...................................... 49 Dive of the Dying Phoenix .................................. 119
-
-Curse of the Haunted Forest ................................ 101 Diverting the River .............................................. 216
-
-Curse of the Leprous Flesh .................................... 77 Divide the Gathered Essence ............................... 246
-
-Curse of the Ravenous Swarm .................................8 Divine Heaven’s Aspect ...................................... 226
-
-Curse of the Rotted Wood ................................... 102 Divining the True Heir ........................................... 62
-
-Curse of the Unportended Plague .......................... 79 Division According to Blood ................................. 84
-
-Curse of the Unruly Tongue .................................. 80 Domain of Darkness ............................................ 127
-
-Curse of the Werewolf ........................................... 73 Dominance Over the Infernal............................... 241
-
-Cutting the Cords ................................................. 234 Donning the Mask of Another ............................. 168
-
-Dagger of Ice ......................................................... 30 Doppelganger ....................................................... 136
-
-Dance of the Spidery Ink ..................................... 106 Doublet of Impenetrable Silk ................................. 12
-
-Dance of the Staves.............................................. 105 Doublet of Silk, That’s Impenetrable ..................... 12
-
-Dancing Mania..................................................... 181 Dragon’s Blood ...................................................... 74
-
-Danibus’ Favor ...................................................... 42 Draw on Diana’s Hounds ....................................... 63
-
-Day of Communion ............................................. 230 Drawing Up the Siege Ladder.............................. 106
-
-Decay Fur and Hide ............................................... 18 Dreadful Bane of the Fae ..................................... 234
-
-Defend Me ........................................................... 153 Dreadful Bane of the Fae ..................................... 238
-
-Deluge of Rushing and Dashing ............................ 31 Dream of the Artifice ........................................... 197
-
-Demon’s Eternal Oblivion ................................... 234 Dream of the Forged ............................................ 197
-
-Deny Them the Bridge ......................................... 214 Dream of the Mind that Sits ................................. 196
-
-Despair of the Quivering Manacles ....................... 81 Dressing the Human Form in Wool ....................... 22
-
-Destroy the Herbam Miasma ................................. 51 Duplicate the Mechanism .................................... 191
-
-Detect the Gift...................................................... 225 Dust to Dust ........................................................... 76
-
-Determine the Location of the Absent Volume ..... 11 Ear of Truth.......................................................... 162
-
-Disarm the Warrior .............................................. 206 Early Punishment for the Sinful Witch ................ 234
-
-Discern Images of Truth and Falsehood .............. 138 Ears of a Grateful Father ...................................... 147
-
-Discern Own Illusions ......................................... 139 Ears of the Hare ..................................................... 65
-
-Discourse of Glowing Tongues ........................... 128 Earth Shock.......................................................... 214
-
-Discriminating Flames ......................................... 130 Earth that Breaks No More .................................. 199
-
-Disenchant ........................................................... 234 Ease the Suffering of Childbirth ............................ 67
-
-Disguise of the New Visage ................................... 67 Edge of the Razor ................................................ 199
-
-Disguise of the New Visage ................................... 67 Efficient & Permanent Wall of Protecting Stone . 187
-
-Disguise of the Putrid Aroma ................................ 22 Embrace of Boethius ............................................ 174
-
-Disguise of the Transformed Image ..................... 143 Embracing the Downy Arms of the Nephelae ....... 52
-
-Dispel the Phantom Image ................................... 146 Embroidering the Wizard’s Robes ....................... 107
-
-Dissolving the Wall of Shields ............................ 173 Enchantment of Detachment ................................ 172
-
-Distillation of the Purest Stream .......................... 245 Enchantment of my Lover’s Eye ......................... 178
-
-Distraction of the Magpie .................................... 165 Enchantment of the Pedestrian Pigeon................. 166
-
-Distraction of the Weakened Mind ...................... 171 Enchantment of the Scrying Pool .......................... 34
-
-253
-
-End of the Mighty Castle ..................................... 203 Faerie Flute .......................................................... 141
-
-Endless Laughter ................................................. 181 False Prophecy ..................................................... 167
-
-Endurance of the Berserkers .................................. 81 False Window ...................................................... 132
-
-Endurance of the Lion............................................ 26 Familial Secrets ................................................... 162
-
-Endurance of the Witch Moon ............................. 221 Family Gathering ................................................. 169
-
-Enduring Flame ................................................... 121 Fanning the Infernal Flames ................................ 218
-
-Enemies All Aquiver ........................................... 105 Fashion the Ancient Worm ......................................9
-
-Energy Sense ......................................................... 62 Fast Grow .............................................................. 95
-
-Enhance the Memory Palace ................................ 153 Fasting Hearth ...................................................... 117
-
-Enslave the Mortal Mind ..................................... 183 Fatal Register ......................................................... 14
-
-Enter the Domain of Eir ......................................... 56 Feeding the Font of the Covenant ........................ 218
-
-Epona’s Bane ......................................................... 27 Fill the Capacious Silo ........................................... 93
-
-Eternal Repetition in a Bottomless Pool .............. 136 Fingers for Eyes ................................................... 138
-
-Evaluate the Facing Opponent ............................... 61 Fist of Crippling ..................................................... 76
-
-Evening’s Comfort............................................... 115 Fist of Shattering.................................................. 202
-
-Everlasting Music ................................................ 107 Flame Tongue ........................................................ 41
-
-Evisceration of a Thousand Knives ....................... 77 Flames of Sculpted Ice ......................................... 123
-
-Exactly to Scale ..................................................... 39 Flash of the Scarlet Flames .................................. 116
-
-Exchange of the Two Minds ................................ 184 Flaws of the Weaponsmith .................................. 203
-
-Exorcise the Filthy Spirit ..................................... 235 Flesh Crawls at the Intangible Touch .................. 227
-
-Extinguish the Abhorrent Flame .......................... 125 Flight Divorced ........................................................ 6
-
-Extracting the False Confession........................... 183 Flight Perfected ........................................................ 6
-
-Eyes for the Lurking Assassin ............................. 228 Fog of Confusion ................................................... 50
-
-Eyes for the Prince ............................................... 224 Follow the Route I Command .............................. 212
-
-Eyes from the Wizard Torn.................................... 67 Follower’s Bane ..................................................... 80
-
-Eyes of Danibus ..................................................... 33 Fooling the Eye .................................................... 133
-
-Eyes of the Bat ....................................................... 48 Footsteps of Slippery Oil ....................................... 30
-
-Eyes of the Cat ....................................................... 65 Footsteps on the Sacred Way ................................. 61
-
-Eyes of the Eagle ................................................. 140 For they are life to those who find them, and healing
-
-to all their flesh ...................................................... 54
-
-Eyes of the Eons .................................................. 194
-
-Foras Vim ............................................................ 207
-
-Eyes of the Fish ..................................................... 65
-
-Forcing the Undecided’s Decision ....................... 182
-
-Eyes of the Flame ................................................ 120
-
-Forging the Bone Cover ......................................... 65
-
-Eyes of the Hawk ................................................... 65
-
-Form of the (Temperament) Heartbeast ................. 14
-
-Eyes of the Housecats ............................................ 68
-
-Form of the Aquatic Predator ................................ 70
-
-Eyes of the Treacherous Terrain .......................... 194
-
-Form of the Zephyr ................................................ 72
-
-Face of Molded Clay.............................................. 68
-
-Form the Hermetic Boundary .............................. 189
-
-Facilitate the Stifled (Form) Spell........................ 230
-
-Fortification of the Memory Palace ..................... 177
-
-Fading Star of Evening ........................................ 219
-
-Fortress of Oak ...................................................... 96
-
-Faerie Chains of the Familiar Slave ..................... 218
-
-254
-
-Free the Crawling Vine ........................................ 107 Haunt of the Living Ghost ................................... 136
-
-Freeing the Striding Tree ..................................... 110 Heal Thy Broken Voice ......................................... 93
-
-From This Line Descended .................................... 64 Hearing the Silent Chorus .................................... 139
-
-Frosted Timber..................................................... 125 Heart of the Lion .................................................. 151
-
-Frosty Breath of the Spoken Lie .......................... 160 Heat of the Searing Forge .................................... 116
-
-Fumigant of Minor Demons ................................ 235 Hedge Out the Creatures of Lunar Fire ................ 248
-
-Funding the Blackmailer’s Purse ......................... 162 Heighten the Mind ............................................... 174
-
-Fury of the Charging Bull ...................................... 26 Heights of the Great Tower.................................. 192
-
-Garden of Eden .................................................... 137 Hermes’ Portal ..................................................... 217
-
-Gather the Essence of the Beast ........................... 245 Hibernation of the Slumbering Turb .................... 182
-
-Gathering of the Stormy Might .............................. 53 Hide to Parchment ................................................. 25
-
-Gentle Caress of Aesclepius .................................. 57 Hiding In The Crowd ........................................... 146
-
-Gentle Touch of the Purified Body ........................ 54 Hiding the Ill-Bred Bard ...................................... 147
-
-Gift of Man’s Fortitude .......................................... 12 Hiding the Mystic Key ......................................... 198
-
-Gift of Reason ...................................................... 157 High Tree or Small Boulder ................................... 68
-
-Gift of the Bear’s Fortitude .................................... 68 Hold Chur .............................................................. 85
-
-Gift of the Frog’s Legs........................................... 81 Hold the Sky in Thrall ......................................... 248
-
-Gift of the Minotaur ............................................... 69 Hornet Fire ........................................................... 121
-
-Gift of the Oneiropomp........................................ 207 House Arrest of the Unruly Child .......................... 85
-
-Gift of the Tortured Bowels ................................... 80 How God Created Them ........................................ 99
-
-Gigantic Growth .................................................... 99 Human Figment of the Waking Mind .................. 155
-
-Glass Broom ........................................................ 214 Hunt for the Wild Herb .......................................... 98
-
-Gleam of the Freshly-Polished Glass ................... 203 Hunter’s Lethal Arrow ........................................... 20
-
-Gloom of Evening................................................ 124 Hunter’s Sense ....................................................... 11
-
-Glowing Footprints of the Thief .......................... 144 Hurling the Droplet of Lye .................................... 30
-
-Gossip of the Marketplace ................................... 154 Hypnotic Gaze ..................................................... 177
-
-Gossip of the Marketplace ................................... 154 I Was Never Here ................................................ 171
-
-Grip of the Choking Hand ..................................... 77 Icarus’ Folly ........................................................... 16
-
-Group Wizard’s Boost (Form) ............................. 230 Ice of Drowning ..................................................... 42
-
-Grow the Bountiful Feast ....................................... 91 Ignite the Inflammable Item................................. 116
-
-Growth of the Creeping Things ............................. 13 Illusion of Cool Flames........................................ 146
-
-Guttering of the Home-Fires ................................ 242 Illusion of the Misplaced Castle .......................... 150
-
-Halt the Piercing Shafts ....................................... 109 Illusion of the Shifted Image................................ 149
-
-Hand of the Antiquarian ...................................... 208 Image from the Wizard Torn ............................... 150
-
-Hands of the Grasping Earth ................................ 208 Image of the Beast ................................................. 10
-
-Hardness of Adamantine ...................................... 199 Image of the Lady ................................................ 137
-
-Harmonic Metamorphosis of the Beast ....................7 Image Phantom .................................................... 144
-
-Harnessing the Essential Power of (Form) .......... 230 Impede the Impertinent Interloper ....................... 235
-
-Hauberk of Sublime Lightness............................. 203 Impression of the Faded Sigil .............................. 227
-
-255
-
-Imprison a Ghost in a Vessel ............................... 180 Let the Sun Not Bother Me This Day .................. 124
-
-In Christ’s Footsteps .............................................. 75 Let This Fire Sing You to Sleep .......................... 122
-
-Incantation of Putrid Wine ..................................... 35 Licking the Blade ................................................... 88
-
-Incantation of Summoning the Dead ................... 183 Lifting the Dangling Puppet................................... 81
-
-Incantation of Summoning the Dead ................... 183 Lifting the Storm.................................................... 53
-
-Incantation of the Body Made Whole .................... 57 Light Shaft of the Night ....................................... 129
-
-Incantation of the Milky Eyes ................................ 78 Links of Stone ...................................................... 194
-
-Incantation of the Warriors Made Whole .............. 58 Lion of Outlandish Size ......................................... 13
-
-Infernal Smoke of Death ........................................ 50 Listen to the Bells ................................................ 196
-
-Ink of Noblest Metals .......................................... 199 Living Fire ........................................................... 144
-
-Inmost Companion............................................... 169 Locked Storehouse............................................... 101
-
-Inner Darkness Unleashed ..................................... 76 Locus of the Literatus .......................................... 134
-
-Instant Loyalty of the Rebellious Turb ................ 158 Look at Me........................................................... 151
-
-Intuition of the Forest ............................................ 98 Lord of the Trees ................................................. 109
-
-Invisibility of the Standing Wizard ...................... 147 Loss of a Lasting Day’s Memory......................... 173
-
-Invisible Arms ..................................................... 148 Loss of But a Moment’s Memory ........................ 172
-
-Invisible Hand of the Thief .................................. 209 Lost in the Memory.............................................. 168
-
-Invisible Sling of Vilano ...................................... 206 Love’s Unfaithful Witness ................................... 196
-
-Invocation of the Giant’s Weariness ...................... 77 Lungs of Drowning ................................................ 30
-
-Invocation of Weariness ........................................ 76 Lungs of the Fish ................................................... 35
-
-Invoke the Pact of Zelos ...................................... 242 Madder, Woad, and Weld ...................................... 14
-
-It will be health to your flesh, and strength to you Magna Claustra .................................................... 246
-
-bones ...................................................................... 83
-
-Maintaining the Demanding Spell ....................... 242
-
-It’s Raining Men .................................................... 85
-
-Marking the Territory ............................................ 81
-
-Jump of the Lynx ................................................... 83
-
-Masking the Odor of Magic ................................. 235
-
-Jupiter’s Resounding Blow .................................... 44
-
-Master the Airy Spirit of Air.................................. 53
-
-Jupiter’s Tears ........................................................ 44
-
-Master the Airy Spirit of Earth ............................ 214
-
-Kiss of Aging ......................................................... 76
-
-Master the Airy Spirit of Fire............................... 130
-
-Kiss of the Enigma............................................... 219
-
-Master the Airy Spirit of Water ............................. 41
-
-Know the Moon’s Influence ................................ 160
-
-Mastering the Unruly Beast ................................... 28
-
-Know the Quality of the Man ................................ 64
-
-Meet Me at Midnight ........................................... 152
-
-Ladder Of Ivy ........................................................ 92
-
-Memory of the Distant Dream ............................. 154
-
-Lamp without Flame ............................................ 116
-
-Memory Palace of the Sage ................................. 155
-
-Lash of the Chastened Servant ............................. 237
-
-Mend the Broken Figure ..........................................8
-
-Lash the Wayward Spirit ..................................... 238
-
-Mend Thy Broken Strings.................................... 108
-
-Last Flight of the Phoenix .................................... 119
-
-Mercury’s Blessing .............................................. 220
-
-Lay to Rest the Haunting Spirit ........................... 171
-
-Mercury’s Winged Sandals .................................... 83
-
-Lay Your Burdens on Me .................................... 179
-
-Midwife’s Eye ....................................................... 60
-
-Leap of the Fire .................................................... 128
-
-Mien of Helios ..................................................... 116
-
-256
-
-Mighty Torrent of Water........................................ 31 Orpheus’ Ballad ................................................... 154
-
-Mimic the Christ’s Miracle .................................... 35 Pages of the Unfinished Story................................ 29
-
-Mind Cleansed of Treachery ................................ 175 Pains of the Perpetual Worry ............................... 154
-
-Mind of the Beast ................................................. 168 Palm of Flame ...................................................... 115
-
-Miniaturist of Venice ........................................... 200 Palm of Hearing ................................................... 139
-
-Mirror of Opposition (Form) ............................... 231 Palm of Odorous Flame ....................................... 115
-
-Missive of Memory.............................................. 158 Palm of Seeing ..................................................... 139
-
-Mists of Change ..................................................... 74 Palm of Speaking ................................................. 151
-
-Mold the Earth within Sight................................. 212 Panic of the Elephant’s Mouse .............................. 25
-
-Moonbeam ........................................................... 115 Panic of the Trembling Heart ............................... 152
-
-Movement Within the Sirocco ............................... 52 Paralysis of The Gift ............................................ 238
-
-Moving the Herbam Miasma ................................. 52 Parching Wind ....................................................... 38
-
-Murderous Woodland .......................................... 113 Parental Inquisitiveness ......................................... 61
-
-Music of the Unwanted Attention ........................ 161 Parting of the Waves .............................................. 41
-
-My New Best Friend ............................................ 156 Pass the Unyielding Portal ..................................... 99
-
-My Old and Dear Friend ...................................... 166 Passage to the Place Pictured ................................. 89
-
-Nails of Iron ......................................................... 237 Passing the Reins of Corpus ................................ 231
-
-Nature’s Kindest Seat .......................................... 212 Passion’s Lost Feeling ......................................... 174
-
-Necessary Monolith ............................................. 191 Past of Another .................................................... 168
-
-Neptune’s Imprisoning Arms ................................. 36 Patch of Drought .................................................... 38
-
-Neptune’s Imprisoning Arms ................................. 36 Peering into the Mortal Mind ............................... 162
-
-Neptune’s Wrath .................................................... 43 Penetrate the Regio Skin ...................................... 220
-
-Nordic Triumph ................................................... 170 Perceive the Eyes of Knives ................................ 160
-
-Notes of a Delightful Sound ................................ 143 Perceive the Firewalker ....................................... 120
-
-Numbering the Flock ............................................. 10 Perception of the Conflicting Motives ................. 160
-
-Numbering the Host ............................................... 62 Perfection of the Well-Designed Chamber .......... 210
-
-Numbness of The Gift.......................................... 225 Permanent Wall of Protecting Stone .................... 187
-
-Numbness of The Gift.......................................... 225 Pests of a Colossal Size ......................................... 15
-
-Numbness of The Gift.......................................... 225 Petite Phoenix ...................................................... 130
-
-Oath Breaker’s Confession .................................. 163 Phantasm of the Human Form ............................. 134
-
-Object of Increased Size ...................................... 199 Phantasm of the Talking Head ............................. 133
-
-Obliteration of the Metallic Barrier ..................... 203 Phantasmal Animal .............................................. 134
-
-Odor of Lingering Magic ..................................... 227 Phantasmal Fire ................................................... 134
-
-Ogre’s Stench....................................................... 144 Phantasmal Horse ................................................ 135
-
-Ominous Evitation of the Weighty Stone ........... 208 Phantasmal Troupe .............................................. 133
-
-Opening the Intangible Tunnel ............................ 242 Physician’s Eye ...................................................... 60
-
-Opening the Tome of the Animal’s Mind .............. 11 Physician’s Sense ................................................... 60
-
-Opinions of the Masses ........................................ 164 Piercing Lance of Bone............................................5
-
-Orb of Darkness ................................................... 125 Piercing Shaft of Wood.......................................... 99
-
-257
-
-Piercing the Faerie Veil ....................................... 225 Rapacious Hand of the Highwayman................... 215
-
-Pilum of Fire ........................................................ 117 Rapid Excavations ............................................... 200
-
-Pit of the Gaping Earth ........................................ 202 Rarefy the Crude Water ......................................... 31
-
-Pitsdim’s Downfall .............................................. 216 Razor Thorns ....................................................... 100
-
-Plague of Frogs ...................................................... 26 Recollection of Memories Never Quite Lived ..... 165
-
-Plant the Bountiful Feast........................................ 93 Recollection of Memories Never Quite Lived ..... 165
-
-Plant’s Withering Bane ........................................ 102 Recruiting A Tiny Phalanx ......................................6
-
-Plucking the Hair from the Billy Goat’s Chin ..... 220 Remain Within Those Walls .................................. 83
-
-Plunder of the Twenty Geese ................................. 13 Remake the Tailor’s Craft...................................... 13
-
-Poisoning the Will ............................................... 176 Remembered Messages........................................ 166
-
-Portage of the Eagles ........................................... 216 Removal of the Conspicuous Sigil ....................... 147
-
-Pose Clotho‘s Question .......................................... 60 Removing the Hearth’s Keystone ........................ 235
-
-Pose Nona’s Question ............................................ 61 Reorder the Contents of the Armarius ................... 25
-
-Posing the Silent Question ................................... 161 Repair Cracks and Tears ..........................................5
-
-Preternatural Growth and Shrinking ...................... 67 Reparation of the Wounded Vessel ........................ 96
-
-Prison Floral......................................................... 110 Repel the Wooden Shafts ..................................... 105
-
-Prison of Flames .................................................. 122 Repel Winter’s Clutches ...................................... 115
-
-Probe for Pure Silver............................................ 194 Repose of the Eternal Moment .............................. 78
-
-Probe Nature’s Hidden Lore .................................. 98 Restoration of the Defiled Body ............................ 55
-
-Prune Plant ........................................................... 102 Restore the Faded Threads ................................... 218
-
-Prying Eyes .......................................................... 138 Restore the Moved Image .................................... 149
-
-Pull of Blood .......................................................... 63 Retreat As Flying Vermin ...................................... 15
-
-Pull of the Skybound Winds .................................. 46 Retreat Into the Shell of Shadow ........................... 81
-
-Pull of the Watery Grave ....................................... 42 Retrieve the Bloodied Arrow ............................... 208
-
-Purification of the Festering Wounds .................... 55 Return to the Flow ................................................. 88
-
-Purification ............................................................ 57 Reveal the Lingering Spirit .................................. 161
-
-Push of the Gentle Wave ....................................... 40 Reveal the Lurking Watchers............................... 227
-
-Put on the whole armor of God, that you may be able Reveal the magical Deception ............................. 226
-
-to stand against the schemes of the Devil .............. 68
-
-Revealed Flaws of Mortal Flesh ............................ 61
-
-Quell the Scent ..................................................... 146
-
-Revelation of a Hundred Sinful Thoughts ........... 163
-
-Quench the Raging Conflagration ....................... 126
-
-Revenge of the Bitten Toad ................................... 19
-
-Quiet the Cursing Tongue .................................... 242
-
-Revoke the Protection of (Form) ......................... 236
-
-Quiet the Raging Winds ......................................... 51
-
-Revoke the Protection of (Realm)........................ 236
-
-Rain of Oil ............................................................. 50
-
-Revoke the Protection of Bonisagus .................... 235
-
-Rain of Stones ........................................................ 49
-
-Revoke the Protection of Bonisagus .................... 238
-
-Rainbow Bridge ..................................................... 49
-
-Rewriting the Mind .............................................. 170
-
-Raise the Siege ..................................................... 181
-
-Rickety Shack ...................................................... 105
-
-Raise the Veronese Flag ...................................... 135
-
-Ring of Ever Bloom ............................................. 106
-
-Raising the Auxiliaries for a Day ......................... 157
-
-Ring of Warding Against Spirits.......................... 177
-
-258
-
-Rise of the Feathery Body ..................................... 80 Seed of Betrayal ................................................... 166
-
-Rising Ire ............................................................. 152 Seeking the Thread of Power ............................... 225
-
-Rising Passion ...................................................... 152 Self Immolation ................................................... 118
-
-Robed in Angelic Beauty ..................................... 156 Sense of Magical Power ...................................... 223
-
-Rock of Viscid Clay ............................................. 198 Sense of the Lingering Magic .............................. 228
-
-Room of Stale Air .................................................. 51 Sense of the Lodestone .......................................... 60
-
-Rope of Bronze ...................................................... 99 Sense of the Lodestone .......................................... 61
-
-Rough-Hewn Servant........................................... 106 Sense of the Moon’s Presence ............................. 247
-
-Running Repairs .................................................... 95 Sense the Feet that Tread the Earth ...................... 196
-
-Rusted Decay of Ten-Score Years ....................... 202 Sense the Hearts of Fire ....................................... 120
-
-Safe Haven ........................................................... 144 Sense the Hour ..................................................... 224
-
-Safeguard the Clandestine Conversation ............. 143 Sense the Nature of Vis ....................................... 223
-
-Sail With the Tide .................................................. 42 Sense the Sleeping Hound ..................................... 10
-
-Sailor’s Foretaste of the Morrow ........................... 48 Sense the Tide’s Boundaries .................................. 33
-
-Sap the Griffon’s Strength ................................... 236 Sense the True Path.............................................. 194
-
-Saving the Apprentice’s Time ............................. 202 Sense the Weight of Divine Power ...................... 223
-
-Scales of the Magical Weight .............................. 223 Servant of Fire ..................................................... 145
-
-Scales of the Scorpions .......................................... 16 Seven League Travel Circle ................................... 87
-
-Scattering Like Light ........................................... 200 Seven Leagues Travel ............................................ 87
-
-Scent of Ash ........................................................... 48 Seven-League Stride .............................................. 86
-
-Scent of Loose Purses .......................................... 163 Sever the Connection ........................................... 238
-
-Scent of Peaceful Slumber ................................... 179 Sever the Unwanted Limb ..................................... 85
-
-Scent of the Gift ................................................... 226 Shackles of the Frozen Ice ..................................... 40
-
-Scent of the Predator ............................................ 154 Shade the Scorched Earth ...................................... 93
-
-Scorn of Aphrodite’s Tears .................................. 217 Shadows of the Fires Past .................................... 120
-
-Scraping Razor of Memory .................................. 171 Shape of the Ancient Kite ...................................... 72
-
-Scribe the Perfect Circle ...................................... 205 Shape of the Creeping Ivy ..................................... 70
-
-Scribe the Perfect Circle ...................................... 205 Shape of the Siren .................................................. 72
-
-Sculpt the Living Water ......................................... 35 Shape of the Woodland Prowler ............................ 69
-
-Sculpt the Stone Machine .................................... 188 Shattering the Malicious (Rune) .......................... 236
-
-Seal the Breach .................................................... 188 Shattering Touch .................................................. 202
-
-Seal the Earth ....................................................... 186 Shearing the Unseen Sheep ......................................5
-
-Sealing the Lips ..................................................... 80 Shell of False Determinations .............................. 219
-
-Searching the Haystack for a Needle ................... 179 Shell of Opaque Mysteries ................................... 219
-
-Searing Touch ...................................................... 115 Shiver of the Lycanthrope ...................................... 10
-
-Securing the Harvest .............................................. 21 Short Step of the Ghost ........................................ 199
-
-See the Light of Magic......................................... 227 Show of the Flames and Smoke ........................... 121
-
-See the Paths through the Void .............................. 48 Shriek of the Impending Shafts.............................. 98
-
-Seed of Betrayal ................................................... 166 Shroud Magic....................................................... 231
-
-259
-
-Sight of the Active Magics .................................. 228 Stench of Hate...................................................... 163
-
-Sight of the Astrological Hour ............................. 225 Stench of Magic ................................................... 226
-
-Sight of the Blossom, Ears of the Oak ................. 140 Stench of the Twenty Corpses ............................... 44
-
-Sight of the Lazy Parens ...................................... 228 Step Sideways ........................................................ 81
-
-Sight of the Molting Magus ................................... 63 Still the Raging Waters .......................................... 40
-
-Sight of the Sigil .................................................. 229 Stillness of the Dead .............................................. 85
-
-Sight of the Transparent Motive .......................... 160 Stir the Slumbering Tree ...................................... 100
-
-Sight of the True Form........................................... 60 Stockade of Infernos ............................................ 118
-
-Sight of the Warm Surface................................... 144 Stolen Moments ................................................... 174
-
-Silence of the Smothered Sound .......................... 147 Stone Tell of the Mind that Sits ........................... 196
-
-Silent Shout.......................................................... 133 Stone to Falling Dust ........................................... 203
-
-Silvery Scales of the Knight ................................ 190 Story of Legend ................................................... 136
-
-Singlemindedness of the Concentrating Wizard .. 180 Strange Tricks Using Canal Contents .................... 36
-
-Sinister Road ........................................................ 179 Stratifying the Subtle Realities ............................ 219
-
-Slap of Absent Magic .......................................... 172 Strength Extinguished ..............................................6
-
-Slap of Awakening............................................... 177 Strength Renewed ....................................................7
-
-Slave of Charity ................................................... 182 Strike of the Angered Branch .............................. 106
-
-Slime of the Muck-Dweller ................................... 65 Strings of the Unwilling Marionette ...................... 85
-
-Smoke of Escaping .............................................. 132 Stripping the Superfluous Realities ..................... 239
-
-Snap of Awakening.............................................. 177 Sturdy Mantle of the Traveler ..................................6
-
-Snatched Voice .................................................... 146 Sublimation of Flame........................................... 123
-
-Snipping the Thread of Power ............................. 239 Substance Over Form........................................... 188
-
-Solidity of Stone .................................................. 201 Subsume the Apparent Dominion ........................ 246
-
-Soothe Pains of the Beast.........................................5 Subtle Taste of Poison and Purity .......................... 33
-
-Soothe the Ferocious Bear ..................................... 25 Sudden Well......................................................... 204
-
-Soothe the Raging Flames ................................... 126 Suleiman’s Wrath on the Oath-Forsaken Jinni .... 236
-
-Soothing Voice of the Stableman .......................... 26 Sulfurous Membrane.............................................. 49
-
-Spasms of the Uncontrolled Hand ......................... 80 Sulfurous Whispers .............................................. 228
-
-Spectral Quinreme ............................................... 170 Summer’s Blessing .............................................. 123
-
-Speech of the Warding Ring ................................ 196 Summon the Airy Spirit of Air .............................. 53
-
-Spirit of the Bull of Minos ..................................... 68 Summon the Airy Spirit of Earth ......................... 215
-
-Sprouting Out of Season ........................................ 93 Summon the Airy Spirit of Fire ........................... 130
-
-Spy the Approaching Grog .................................. 138 Summon the Airy Spirit of Water .......................... 42
-
-Stance of the Firm-Buttocked Knight .................... 83 Summon the Eldritch Bond .................................... 28
-
-Stance of the Patient Tree ...................................... 71 Summon the Spirit of Earth ................................. 215
-
-Statim Sessio .......................................................... 92 Summon the Spirit of Fire ................................... 131
-
-Steed of Vengeance ............................................... 16 Summon the Spirit of Illusion .............................. 150
-
-Steed of Vesuvius .................................................. 16 Summon the Spirit of Man................................... 184
-
-Steering A Vast Stone Dish ................................. 215 Summoning the Ancestor Spirit ............................. 89
-
-260
-
-Summoning the Creeping Death ..............................6 The Blinded Sentry .............................................. 171
-
-Summoning the Distant Image............................. 140 The Blinded Sentry .............................................. 171
-
-Summoning the Spirit of Anger ........................... 183 The Bountiful Feast ............................................... 95
-
-Summoning the Spirit of Fire .............................. 130 The Breath of Life Returned ....................................9
-
-Supple Iron and Rigid Rope................................. 198 The Brushstrokes Revealed.................................. 139
-
-Suppressing the Wizard’s Handiwork.................. 243 The Call to Slumber ............................................. 177
-
-Sure-Footedness of the Crag-Leaper...................... 66 The Captive Voice ............................................... 149
-
-Sustain a Spell of (Form) ..................................... 243 The Carpenter’s Keen Eye ..................................... 98
-
-Suture Gaia’s Wound ........................................... 221 The Chameleon Cat ............................................... 12
-
-Swallowed by the Mist .......................................... 41 The Chariot of Zeus ............................................... 70
-
-Swift Knives, Invisible .......................................... 20 The Chirurgeon’s Healing Touch .......................... 55
-
-Swift Wings of Timeless Days ............................ 245 The Chokeweed Incantation .................................. 92
-
-Sword from the Unseen Scabbard ........................ 186 The Clandestine Mask ......................................... 141
-
-Sword Ward ......................................................... 210 The Clean Slate .................................................... 175
-
-Swords of Silver and Moonlight .......................... 169 The Cleric’s Pate .................................................... 75
-
-Synthemata of (X)................................................ 231 The Clothier’s Craft Done in an Instant ............... 104
-
-Tales of the Ashes ................................................ 120 The Cloudless Sky Returned .................................. 51
-
-Talons of the Winds ............................................... 49 The Command of Every Beast ............................... 26
-
-Tangle of Wood and Thorns ................................ 106 The Cook’s Revenge............................................ 102
-
-Taste of the Dulled Tongue.................................. 146 The Copyist’s Critical Eye ................................... 139
-
-Taste of the Spices and Herbs .............................. 142 The Copyist’s Puissant Quill ................................. 39
-
-Tear the Earth Asunder ........................................ 193 The Creation of a Forest ........................................ 96
-
-Teeth of the Earth Mother .................................... 200 The Creation of Acorns Aplenty ............................ 94
-
-Tell of the Forged ................................................ 196 The Creation of Verdant Grassland ....................... 92
-
-Test of the Flames ................................................ 117 The Crystal Dart .................................................. 198
-
-Testing of Fastness and Fading .............................. 33 The Curse of Diana ................................................ 18
-
-That I may come unto you with joy by the will of The Cursèd Day ................................................... 243
-
-God, and may with you be refreshed ..................... 85
-
-The Dancer’s Dame ............................................. 105
-
-Thaumaturgical Transformation of Plants to Iron .. 99
-
-The Demand of the Frustrated Scholar Soothed .... 28
-
-The Ambulatory Laboratory ................................ 217
-
-The Desert Wanderer ............................................. 69
-
-The Animate Attire .............................................. 108
-
-The Discerning Eye ............................................. 138
-
-The Apple That Etches .......................................... 93
-
-The Distracted Turb ............................................. 158
-
-The Apprentice’s Delight....................................... 91
-
-The Ear for Distant Voices .................................. 139
-
-The Appropriate Attire........................................... 12
-
-The Earth Split Asunder ...................................... 214
-
-The Armorer’s Art ............................................... 208
-
-The Earth’s Carbuncle ......................................... 208
-
-The Balm of St Francis ............................................7
-
-The Edge of Reason ............................................. 247
-
-The Beast Remade ................................................. 15
-
-The Elfin Baker.................................................... 108
-
-The Becalmed Harbor ............................................ 38
-
-The End of Hatred.................................................. 78
-
-The Blessing of Starkad ......................................... 69
-
-The Enigma’s Gift ............................................... 220
-
-261
-
-The Envenomed Thorns ......................................... 94 The Impassable River ............................................ 90
-
-The Even Hand of The Determined Weaver .......... 23 The Incantation of Lightning ................................. 46
-
-The Ever-Watchful Turb ...................................... 174 The Inexorable Search ........................................... 63
-
-The Evil Eye ........................................................ 243 The Instant Harvest .............................................. 113
-
-The Eye of the Sage ............................................... 64 The Instant Ring Fort ........................................... 208
-
-The Eyes of Every Beast ........................................ 11 The Invisible Eye Revealed ................................. 223
-
-The Face in the Mirror ......................................... 184 The Invisible Glass-worker .................................. 205
-
-The Factor’s Roll Call.......................................... 161 The Invisible Predator .......................................... 174
-
-The Falcon’s Hood................................................. 19 The Invisible Revealed ........................................ 247
-
-The Fall ................................................................ 247 The Irresistible Pressgang .................................... 158
-
-The False Dune .................................................... 142 The Jongleur’s Steps .............................................. 21
-
-The Far-Speaking Voice ...................................... 154 The Key of Theodorus ......................................... 206
-
-The Fate of Carthage............................................ 204 The Kiss of Death .................................................. 78
-
-The Field of Millstones ........................................ 215 The Laboratory of Bonisagus............................... 192
-
-The First Furrow Guides the Second ................... 135 The Lamb Lies Down With the Lion ..................... 28
-
-The First Furrow Guides the Second ................... 135 The Lasting Synthemata of (X)............................ 231
-
-The Forgiving Earth ............................................. 210 The Laundress’ Clothesline ................................... 38
-
-The Frozen Womb ................................................. 71 The Leap of Homecoming ..................................... 87
-
-The Fur That Turns Blades .................................... 14 The Lost City ....................................................... 148
-
-The Generous Patron ........................................... 166 The Lucid Dreamer .............................................. 166
-
-The Genethlialogical Investigation ........................ 62 The Lurker in the Rushes ....................................... 72
-
-The Gentle Beast.................................................... 27 The Maculate Noblewoman ................................... 62
-
-The Gentle Herd .................................................... 27 The Magic Flute ..................................................... 91
-
-The Giant’s Beanstalk ............................................ 92 The Mania of Others ............................................ 181
-
-The Gift of Moonlight.......................................... 117 The Many-Hued Conflagration ............................ 121
-
-The Gift of Vigor ................................................... 83 The Master’s Message ......................................... 243
-
-The Good Witness ............................................... 156 The Mended Tear ................................................. 105
-
-The Great Discord................................................ 222 The Messenger’s Shortcut ..................................... 89
-
-The Great Rot ...................................................... 102 The Miner’s Keen Eye ......................................... 194
-
-The Griffin Reborn ................................................ 16 The Miniature of Immortality ................................ 94
-
-The Guardian of the Tombs ................................... 36 The Minute of Reckoning .................................... 243
-
-The Hammer Falls ................................................. 78 The Mistaken Step ................................................. 86
-
-The Hands of Phereclus ....................................... 112 The Mobile Infantry ............................................... 89
-
-The Heady Rush of Magic ................................... 219 The Morphean Gate ............................................... 88
-
-The Healthy Vine ................................................... 91 The Mystical Carpenter ....................................... 109
-
-The Heart That Could Move Stone ...................... 213 The Neriusian Portal ............................................ 222
-
-The Heathen Witch Reborn ................................. 236 The Night-Badgers’ Burrow .................................. 27
-
-The Heathen Witch Reborn ................................. 236 The Ob of Mot ..................................................... 156
-
-The Hidden Warren ............................................. 204 The Obedient Fire ................................................ 129
-
-262
-
-The Oneiropomp’s Treasure ................................ 135 The Spell of Wrought Iron ................................... 209
-
-The Path to Lemnos ............................................. 168 The Spell of Wrought Iron ................................... 209
-
-The Patient Spell .................................................. 244 The Strengthening Tide ......................................... 43
-
-The Penitent’s Confession ................................... 181 The Studious Doppleganger ................................. 132
-
-The Perfected Structure ....................................... 210 The Stultified Peasant .......................................... 174
-
-The Petrine Deception ......................................... 144 The Subtle Burn of Desire ................................... 155
-
-The Phantom Blacksmith ..................................... 211 The Succubus’s Trick ............................................ 66
-
-The Phantom Gift ................................................ 219 The Swordsmith’s Art .......................................... 206
-
-The Poet’s Bust .................................................... 205 The Tessa and Damen Wards ................................ 90
-
-The Poor Performer’s Reward ............................. 186 The Thirsty Dagger .............................................. 188
-
-The Private Speech of Eros and Psyche ............... 164 The Tireless Flight ................................................. 84
-
-The Prodigal Returns ........................................... 213 The Transformed Folio .......................................... 17
-
-The Promenade of Caesar ...................................... 82 The Travelers’ Fortress of Cloth ............................ 94
-
-The Protesting Adversary Held Still ...................... 84 The Treacherous Cloak .......................................... 23
-
-The Quarryman’s Gift of (Stone) ......................... 191 The Treacherous Spear ........................................ 110
-
-The Racing Rot ...................................................... 18 The Tremere Trench ............................................ 211
-
-The Resolute Mind of the Tireless Researcher .... 179 The Twice-Gifted Coin ........................................ 173
-
-The Reward Delivered ......................................... 205 The Twisted Spine ................................................. 68
-
-The Riches of Carthage........................................ 188 The Unbidden Task.............................................. 167
-
-The Riches That are Rightfully Mine(d) .............. 191 The Unbidden Task.............................................. 167
-
-The Rite of Healing................................................ 58 The Unerring Lance ............................................. 211
-
-The Road to Lemnos ............................................ 169 The Unexpected Blossom .................................... 113
-
-The Roar That Induces Terror.............................. 154 The Unfaithful Favor ............................................. 29
-
-The Rooster’s Crow ............................................. 236 The Unraveled Clothes .......................................... 19
-
-The Scribe’s Touch ................................................ 21 The Unraveled Seam .............................................. 18
-
-The Scrying Pool ................................................. 140 The Unruffled Traveler .......................................... 52
-
-The Second Remove of the Giant’s Dance .......... 215 The Unseen Arm .................................................. 205
-
-The Severed Limb Made Whole ............................ 55 The Unseen Barrier .............................................. 247
-
-The Shadow of Human Life................................. 137 The Unseen Porter ............................................... 207
-
-The Shadow of Life Renewed................................ 59 The Unseen Shipwright ....................................... 111
-
-The Shadow on the Sand ....................................... 70 The Unwelcoming Room ..................................... 157
-
-The Shattered Goblet ........................................... 188 The Verminous Infestation .................................... 27
-
-The Shroud Cut of Winter’s Cloth ....................... 137 The Visage of Mot ............................................... 182
-
-The Shrouded Glen .............................................. 184 The Voice of the Bjornaer Magus .......................... 13
-
-The Significance of the Group ............................... 61 The Walking Corpse .............................................. 87
-
-The Silent Vigil...................................................... 73 The Wealth of Croesus ........................................ 190
-
-The Smokeless Campfire ..................................... 121 The Weaver’s Subtle Art ....................................... 23
-
-The Soothing Balm of Telesphorus ....................... 55 The Wedding Ring of Gaea ................................. 191
-
-The Sorcerer’s Fork ............................................. 231 The Weightless Menhir ........................................ 199
-
-263
-
-The Weightless Transportation of Books............... 20 Touch of Midas .................................................... 189
-
-The Welcome Addition of False Sunlight ............ 117 Touch of the Blessed Virgin .................................. 55
-
-The Welcome Stranger ........................................ 152 Touch of the Goose Feather ................................... 75
-
-The Well Tended Vine ........................................... 91 Touch of the Pearls ................................................ 33
-
-The Well-Trodden Path ....................................... 207 Touch of the Wild .................................................. 14
-
-The Whole from the Part ....................................... 63 Tower of Lava........................................................ 43
-
-The Wicked Jar .................................................... 232 Tower of Whirling Water ...................................... 42
-
-The Wisdom of Sleep .......................................... 195 Track By Scent ...................................................... 65
-
-The Wizard’s Chevauchee ................................... 103 Trackless Step ...................................................... 206
-
-The Wizard’s Mount ................................................8 Tracks of the Faerie Glow ................................... 195
-
-The Wizard’s Parry .............................................. 206 Trail of Ember...................................................... 194
-
-The Wizard’s Spindle ............................................ 21 Traitor’s Coin......................................................... 76
-
-The Wooden Horde................................................ 97 Transform to Water ................................................ 72
-
-The Wound that Wails ........................................... 77 Transformation of Flesh to Spirit ......................... 222
-
-The Wound that Weeps.......................................... 76 Transformation of the Ravenous Beast to the Torpid
-
-Toad ....................................................................... 15
-
-Then I was the craftsman at his side. I was filled with delight day after day ............................................ 107 Transformation of the Thorny Staff ....................... 99
-
-This Heart of Darkness ........................................ 225 Transmutation of Fire .......................................... 201
-
-Thought Distinctly Burned .................................... 40 Trap for the Thief in the Night ............................... 77
-
-Thoughts Within Babble ...................................... 161 Trap of Amber ....................................................... 82
-
-Thoughts Within Babble ...................................... 163 Trap of the Entwining Vines .................................. 92
-
-Thoughts Within Speech ...................................... 163 Trapping the Fire ................................................. 122
-
-Tie the Threads that Bind..................................... 244 Traveler’s Foresight ............................................. 138
-
-Tilled Soil ............................................................ 209 Traveler’s Respite .................................................. 57
-
-Tip of the Tongue ................................................ 171 Tread of Fellow Travelers.................................... 163
-
-Tire the Bounding Stag .......................................... 18 Treading the Ashen Path ...................................... 103
-
-Tire the Strident Destrier ....................................... 19 Tree Falling in the Forest ..................................... 103
-
-To Mark With Umbrage ...................................... 136 Tree Top Walk ..................................................... 110
-
-To See as Others See ............................................. 11 Tremulous Vault of the Torch’s Flame ................ 128
-
-To See As Though a Plethron Distant .................. 140 Trigger the Distant Power .................................... 132
-
-To See What Binds this Magical Place ................ 228 True Rest of the Injured Brute .................................5
-
-To Sing of Good Meat and Drink ........................ 157 True Sight of the Air .............................................. 48
-
-Told Story ............................................................ 134 Trust Me .............................................................. 180
-
-Tomb of Kaineus ................................................. 108 Trust of Childlike Faith........................................ 172
-
-Tongue of the Fishes .............................................. 10 Turb of Giants ........................................................ 69
-
-Topple the Brutish Band ........................................ 86 Twinning the Tome..................................................9
-
-Torch of the Realm-bound Reveler...................... 122 Twist of the Tongue ............................................... 78
-
-Tossing the Brawling Brute ................................... 84 Twist the Living Tree .......................................... 110
-
-Touch of Falling Feathers .................................... 177 Undoing the Stonemason’s Handiwork ............... 202
-
-264
-
-Unified Flame ...................................................... 131 Ward Against the Curious Scullion ....................... 86
-
-Universal Poultice .................................................. 58 Ward Against the Sirocco ...................................... 52
-
-Unmake This Cloth ................................................ 18 Ward against Unnatural Imbalances of Nutrition 104
-
-Unravelling the Fabric of (Form) ......................... 237 Ward Against Water .............................................. 41
-
-Unseen Arm ......................................................... 205 Ward Against Wood ............................................ 110
-
-Unyielding Earth .................................................. 211 Ward Against Woodland Spirits .......................... 111
-
-Veil of Haunting Terror ....................................... 183 Ward the Cruel Touch of Pestilence ...................... 55
-
-Veil of Invisibility................................................ 147 Warmth of the Wood ........................................... 116
-
-Veneficus Enigma ................................................ 134 Watching Ward .................................................... 244
-
-Venomous Velites ....................................................8 Waves of Drowning and Smashing ........................ 42
-
-Verifying the Presence of Artemis’ Blessing ......... 62 Weather Made Good .............................................. 36
-
-Vessel of the Clouds ............................................ 111 Weaver’s Trap of Threads ..................................... 94
-
-Viewing the Herbam Miasma .............................. 225 Weaver’s Trap of Webs ...........................................8
-
-Vile Water of Sterility............................................ 36 Webbed Toes of the Pond-Dweller ........................ 66
-
-Viper’s Gaze .......................................................... 26 Weight of a Thousand Hells ................................ 157
-
-Vision of Heat’s Light ......................................... 120 Well Without Light .............................................. 126
-
-Vision of the Haunting Spirits ............................. 170 When Fortuna Blinks ............................................. 76
-
-Visions of Olympus ............................................. 168 Whispering Fingers .............................................. 151
-
-Visions of the Infernal Terrors ............................. 182 Whispering Winds ................................................. 48
-
-Voice of the King................................................... 29 Whispers Through the Black Gate ......................... 62
-
-Voice of the Lake................................................... 34 Widening the River Styx........................................ 55
-
-Voice of the Leucrota .......................................... 141 Wielding the Invisible Sling ................................ 206
-
-Voices from Hollow Spaces................................. 180 Wilt ...................................................................... 103
-
-Voices From Hollow Spaces ................................ 183 Wind at the Back ................................................... 52
-
-Wall of Living Wood ............................................. 95 Wind of Mundane Silence ................................... 237
-
-Wall of Protecting Stone ...................................... 189 Wings of the Soaring Wind ................................... 46
-
-Wall of Thorns ....................................................... 94 Winter’s Icy Touch .............................................. 124
-
-Ward Against Faeries of the Air ............................ 52 Wizard’s Autumn................................................. 102
-
-Ward Against Faeries of the Mountain ................ 205 Wizard’s Boost (Form) ........................................ 232
-
-Ward Against Faeries of the Waters ...................... 39 Wizard’s Breath Stolen .......................................... 52
-
-Ward Against Faeries of the Wood ...................... 104 Wizard’s Communion .......................................... 232
-
-Ward Against Faeries Which Creep and Crawl ..... 27 Wizard’s Communion .......................................... 233
-
-Ward Against Flame ............................................ 128 Wizard’s Communion .......................................... 233
-
-Ward Against Heat and Flames ........................... 130 Wizard’s Communion .......................................... 233
-
-Ward Against Immolation ................................... 131 Wizard’s Eclipse .................................................. 126
-
-Ward Against Mundane Intrusions ...................... 131 Wizard’s Expansion (Form) ................................. 232
-
-Ward against Natural Imbalances of Nutrition .... 114 Wizard’s Flood ...................................................... 31
-
-Ward Against Rain................................................. 52 Wizard’s Icy Grip ................................................ 126
-
-Ward Against the Beasts of Legend ....................... 21 Wizard’s Initiation ............................................... 222
-
-265
-
-Wizard’s Leap ........................................................ 82 Wrath of Whirling Winds and Water ..................... 47
-
-Wizard’s Reach (Form) ....................................... 232 Wreaths of Foul Smoke ......................................... 44
-
-Wizard’s Sidestep ................................................ 149 Wringing Free the Tears of Zeus ........................... 43
-
-Wizard’s Siege ..................................................... 244
-
-Wizard’s Vigil ..................................................... 233
-
-Wizard’s Vigil ..................................................... 233
-
-Woolen Steed of Araby.......................................... 27
-
-Words of the Flickering Flame ............................ 120
-
-Words of the Unbroken Silence ........................... 151
-
-Work of a Hundred Querns .................................. 107
-
-Worm of the Soil .....................................................5
-
-Wrappings of Metaphysical Iron ......................... 245
-
-266
-
-Finally, all published spells for Ars Magica Fifth Edition are in one book! Organized like the core rulebook and containing a spell index, The Grand Grimoire of Hermetic Spells is a valuable and indispensable reference for your troupe.
-
-267
-
