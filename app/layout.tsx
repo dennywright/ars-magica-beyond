@@ -26,20 +26,14 @@ export default function RootLayout({ children }: Props) {
 
             <footer>
               <p>
-                Created for the{' '}
+                Forked from the{' '}
                 <Link href="https://fireship.io">
-                  Fireship Next.js 13 Full Course
+                  Fireship Next.js 14 Full Course
                 </Link>
               </p>
               <ul>
                 <li>
                   <Link href={'/about'}>About</Link>
-                </li>{' '}
-                |
-                <li>
-                  <Link href={'https://www.youtube.com/@Fireship'}>
-                    YouTube
-                  </Link>
                 </li>{' '}
                 |
                 <li>
