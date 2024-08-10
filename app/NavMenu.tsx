@@ -12,18 +12,24 @@ export default function NavMenu() {
           src="/logo.svg" // Route of the image file
           width={216}
           height={30}
-          alt="NextSpace Logo"
+          alt="Ars Magica Logo"
         />
       </Link>
       <ul className={styles.links}>
         <li>
-          <Link href={'/about'}>About</Link>
+          <Link href={'/characters'}>Characters</Link>
         </li>
         <li>
-          <Link href={'/blog'}>Blog</Link>
+          <Link href={'/sagas'}>Sagas</Link>
         </li>
         <li>
-          <Link href={'/users'}>Users</Link>
+          <Link href={'/rules'}>Spells</Link>
+        </li>
+        <li>
+          <Link href={'/tools'}>Tools</Link>
+        </li>
+        <li>
+          <Link href={'/sources'}>Sources</Link>
         </li>
         <li>
           <SignInButton />
