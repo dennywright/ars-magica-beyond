@@ -18,7 +18,9 @@ Creates a sharpened lance of hardened animal bone in the caster’s hand; this w
 
 REPAIR CRACKS AND TEARS CrAn 20 R: Touch, D: Mom, T: Ind, Ritual
 
-This spell allows a magus to heal cracks and tears in the parchment and leather of a book. It is a comparatively expensive way to repair books, so it is only used when the covenant lacks skilled craftsmen, or on books of such historical significance that their owners prefer they are not repaired by human hands. For example, if one of the holographic diaries of Bonisagus is damaged, it is repaired in this way, rather than by having a scribe create a replacement page, because it preserves the handwriting of the Founder. (Base 5 [one hide], +2 treated animal product [parchment] +1 Touch) Source: Covenants, 99
+This spell allows a magus to heal cracks and tears in the parchment and leather of a book. It is a comparatively expensive way to repair books, so it is only used when the covenant lacks skilled craftsmen, or on books of such historical significance that their owners prefer they are not repaired by human hands. For example, if one of the holographic diaries of Bonisagus is damaged, it is repaired in this way, rather than by having a scribe create a replacement page, because it preserves the handwriting of the Founder. 
+
+(Base 5 [one hide], +2 treated animal product [parchment] +1 Touch) Source: Covenants, 99
 
 SHEARING THE UNSEEN SHEEP CrAn 20 R: Touch, D: Sun, T: Ind
 
@@ -70,9 +72,9 @@ Creates a pair of bird wings, joined at their base. The wings flap frantically i
 
 This spell provided Marcus with a breakthrough in the first of the two seasons it took him to invent it.
 
-(Base 10, +1 Touch, +2 Sun, +1 Part) Source: Magi of Hermes, 83
+(Base 10, +1 Touch, +2 Sun, +1 Part) Source: Magi of Hermes, 83 Req: Rego 
 
-Req: Rego This spell allows Alexander to create a swarm of scorpions. The swarm, combined, has the mass of a human being. The spell has a Rego requisite, which allows Alexander to command the swarm to do things other than chase beetles and run from larger creatures. In dangerous areas, he often casts two Circles of Beast Warding, one slightly larger than the other, around the area where his party is going to camp. He then pours scorpions into the ring this creates, and orders them to attack anyone else that crosses the ring, casting the spell multiple times if he feels it is necessary. This technique also has the advantage that if he botches the spell, and creates a swarm of enraged and uncontrollable scorpions, he need only wait safe behind his inner Circle of Beast Warding for them to disappear.
+This spell allows Alexander to create a swarm of scorpions. The swarm, combined, has the mass of a human being. The spell has a Rego requisite, which allows Alexander to command the swarm to do things other than chase beetles and run from larger creatures. In dangerous areas, he often casts two Circles of Beast Warding, one slightly larger than the other, around the area where his party is going to camp. He then pours scorpions into the ring this creates, and orders them to attack anyone else that crosses the ring, casting the spell multiple times if he feels it is necessary. This technique also has the advantage that if he botches the spell, and creates a swarm of enraged and uncontrollable scorpions, he need only wait safe behind his inner Circle of Beast Warding for them to disappear.
 
 Scorpion venom is painful, but individual stings are rarely fatal for healthy people. In areas where scorpions are common, the allergy that causes their sting to be fatal may be taken as a Minor Flaw. An attacking swarm of scorpions does +10 damage automatically each round, but this can be Soaked normally.
 
@@ -144,7 +146,9 @@ Ierimyra seems to sculpt the animal’s flesh during the spell, as if it were ma
 
 (Base 35, +1 Touch) Source: Calebais – The Broken Covenant, 61
 
-A HERD BY MORNING CrAn 45 R: Touch, D: Sun, T: Group This spell brings the target group of up to a hundred base individual animals to full maturity over the course of the spell’s duration, which must begin as soon as the sun goes down.
+A HERD BY MORNING CrAn 45 R: Touch, D: Sun, T: Group 
+
+This spell brings the target group of up to a hundred base individual animals to full maturity over the course of the spell’s duration, which must begin as soon as the sun goes down.
 
 (Base 15, +1 Touch, +2 Sun, +2 Group, +1 size) Source: Transforming Mythic Europe, 42
 
@@ -242,15 +246,9 @@ Req: Herbam This spell allows the magus to check every book in a room for a phys
 
 DETERMINE THE VOLUME In(Cr)An(Im) 25
 
-LOCATION
+LOCATION OF THE ABSENT R: Arc, D: Conc, T: Ind Req: Imaginem, Creo (the latter optional) 
 
-OF
-
-THE
-
-ABSENT
-
-R: Arc, D: Conc, T: Ind Req: Imaginem, Creo (the latter optional) This spell allows the caster to determine the location of a missing book by having the magus’s sigil appear on a map. Library floor plans on tablets are often used in conjunction with this spell. With a Creo requisite, the magus can project an image of the book’s location on a mirror, and hand-held magic items using this variant are often employed in libraries that encourage visitors.
+This spell allows the caster to determine the location of a missing book by having the magus’s sigil appear on a map. Library floor plans on tablets are often used in conjunction with this spell. With a Creo requisite, the magus can project an image of the book’s location on a mirror, and hand-held magic items using this variant are often employed in libraries that encourage visitors.
 
 (Based on The Inexorable Search, +1 requisite) Source: Covenants, 100
 
@@ -382,31 +380,31 @@ The target animal reverts to a feral form and throws off all its training and do
 
 14
 
-THE BEAST REMADE MuAn(Co) 25
+THE BEAST REMADE MuAn(Co) 25 R: Touch, D: Sun, T: Ind Req: Corpus 
 
-R: Touch, D: Sun, T: Ind Req: Corpus Gives one land beast a human form, though its intellect remains the same. Some feature of the animal is retained in the human form. A former dog might have an exceptionally hairy human body, and a former cat might let loose an occasional “meow.” Once transformed, the beast is disoriented for a while before it becomes used to its new body.
+Gives one land beast a human form, though its intellect remains the same. Some feature of the animal is retained in the human form. A former dog might have an exceptionally hairy human body, and a former cat might let loose an occasional “meow.” Once transformed, the beast is disoriented for a while before it becomes used to its new body.
 
 (Base 10, +1 Touch, +2 Sun, no addition for requisite) Source: Ars Magica Fifth Edition, 119
 
-TRANSFORMATION OF THE RAVENOUS BEAST TO THE TORPID TOAD
+TRANSFORMATION OF THE RAVENOUS BEAST TO THE TORPID TOAD MuAn 25 R: Voice, D: Sun, T: Ind 
 
-MuAn 25 R: Voice, D: Sun, T: Ind Turns any animal into a toad. A newly created toad will hold a certain terror for peasants and serfs, because many believe toads exude a poisonous substance from their skin.
+Turns any animal into a toad. A newly created toad will hold a certain terror for peasants and serfs, because many believe toads exude a poisonous substance from their skin.
 
 (Base 5, +2 Voice, +2 Sun) Source: Ars Magica Fifth Edition, 119
 
-PESTS OF A COLOSSAL SIZE MuAn 30
+PESTS OF A COLOSSAL SIZE MuAn 30 R: Voice, D: Sun, T: Group 
 
-R: Voice, D: Sun, T: Group While experimenting with Beast of Outlandish Size, an unforeseen side effect gave birth to this unusual, but peculiarly effective, spell. Pests of a Colossal Size causes the ordinary pests on the target (such as lice, fleas, ticks, etc.) to grow to an enormous size. Being covered in enormous and often hostile insects is disconcerting to say the least, as the pests themselves tend to revert to their basic fight or flight instincts. (Base 4, +2 Sun. +2 Group, +2 Voice) Source: Magi of Hermes, 28
+While experimenting with Beast of Outlandish Size, an unforeseen side effect gave birth to this unusual, but peculiarly effective, spell. Pests of a Colossal Size causes the ordinary pests on the target (such as lice, fleas, ticks, etc.) to grow to an enormous size. Being covered in enormous and often hostile insects is disconcerting to say the least, as the pests themselves tend to revert to their basic fight or flight instincts. (Base 4, +2 Sun. +2 Group, +2 Voice) Source: Magi of Hermes, 28
 
-CLOAK OF NESSUS MuAn 35
+CLOAK OF NESSUS MuAn 35 R: Voice, D: Diam, T: Part 
 
-R: Voice, D: Diam, T: Part The targeted item of clothing partially converts into poison. The wearer suffers terrible agony as the poison touches his skin, and must make a Stamina roll against an Ease Factor of 9 to avoid taking a Light Wound. This Stamina roll must be repeated every round that the wearer is in contact with the robe, or until the Duration ends. The spell is named after the cloak dipped in the blood of the centaur Nessus in Greek myth.
+The targeted item of clothing partially converts into poison. The wearer suffers terrible agony as the poison touches his skin, and must make a Stamina roll against an Ease Factor of 9 to avoid taking a Light Wound. This Stamina roll must be repeated every round that the wearer is in contact with the robe, or until the Duration ends. The spell is named after the cloak dipped in the blood of the centaur Nessus in Greek myth.
 
 Since creating a poison of this strength has a base level of 15 (if it were an Aquam effect), two magnitudes are added for this effect, although since the poison is of Animal origin an Aquam requisite is not needed. (Base 5, +2 Voice, +1 Diameter, +1 Part, +2 poison effect) Source: Magi of Hermes, 56
 
-RETREAT AS FLYING VERMIN MuAn(Co) 35
+RETREAT AS FLYING VERMIN MuAn(Co) 35 R: Voice, D: Sun, T: Circle Req: Corpus 
 
-R: Voice, D: Sun, T: Circle Req: Corpus This spell allows Alexander to turn a group of people, and their Animal-based equipment, into bats. It was designed to be used as a spell that would allow his grogs to rapidly retreat from danger, but the effect Alexander desired is slightly beyond his skill, so he needs to draw a circle before the spell can be used. He plans to use it only in emergencies, because his grogs will lose those items of equipment that are not based on animal products when it is used, which includes their weapons. If forced to use this spell to flee a foe, Alexander plans to use Clouds of Obscuring Sand, and perhaps Ward Against the Sirocco first. He has a piece of bat leather in a small bag of trinkets he always carries, to use as a physical prop if this spell is cast. (Base 20, +1 Touch, +2 Sun) Source: Magi of Hermes, 13
+This spell allows Alexander to turn a group of people, and their Animal-based equipment, into bats. It was designed to be used as a spell that would allow his grogs to rapidly retreat from danger, but the effect Alexander desired is slightly beyond his skill, so he needs to draw a circle before the spell can be used. He plans to use it only in emergencies, because his grogs will lose those items of equipment that are not based on animal products when it is used, which includes their weapons. If forced to use this spell to flee a foe, Alexander plans to use Clouds of Obscuring Sand, and perhaps Ward Against the Sirocco first. He has a piece of bat leather in a small bag of trinkets he always carries, to use as a physical prop if this spell is cast. (Base 20, +1 Touch, +2 Sun) Source: Magi of Hermes, 13
 
 15
 
@@ -432,9 +430,9 @@ SCALES OF THE SCORPIONS MuAn 40 R: Voice, D: Diam, T: Group
 
 Alexander uses this ability to plate friendly animals, including his grogs when transformed, in chitinous armor. These plates are enormous versions of the armor that protect scorpions. This grants +3 Soak. (Base 15, +2 Voice, +1 Diameter, +2 Group) Source: Magi of Hermes, 12
 
-STEED OF VESUVIUS MuAn(Ig) 45 R: Touch, D: Sun, T: Ind
+STEED OF VESUVIUS MuAn(Ig) 45 R: Touch, D: Sun, T: Ind Req: Ignem 
 
-Req: Ignem This spell magically transforms a horse so that he is able to gallop across molten lava as if it were a cobbled road. The horse also has no fear of the heat or fumes expelled by the lava, and he does not suffer from the heat of the lava or the toxicity of the fumes. The rider of the horse does not receive any protection from this spell.
+This spell magically transforms a horse so that he is able to gallop across molten lava as if it were a cobbled road. The horse also has no fear of the heat or fumes expelled by the lava, and he does not suffer from the heat of the lava or the toxicity of the fumes. The rider of the horse does not receive any protection from this spell.
 
 When the spell expires, the horse suffers a Long-Term Fatigue level.
 
@@ -444,17 +442,15 @@ The requisite is free because it is part of the guideline and required for the e
 
 16
 
-THE TRANSFORMED FOLIO MuAn 45
+THE TRANSFORMED FOLIO MuAn 45 R: Touch, D: Year, T: Group, Ritual Special: Requires Boosted Magic and Harnessed Magic or Mutantum Magic 
 
-R: Touch, D: Year, T: Group, Ritual Special: Requires Boosted Magic and Harnessed Magic or Mutantum Magic This changes all the pages of a book into those of a different book for the duration of the spell. You must touch both books when casting the spell, and because the spell is harnessed, you may end it at any time by concentrating. If the original book is damaged or altered, the contents of the duplicate will change to match it. Milvi occasionally use this spell to lend the same book to several different magi, or to communicate with each other over a long journey by linking a central book to a Redcap's travel journal. The spell also allows for vis boosting, so that you may copy a book using an Arcane Connection from wherever you happen to be.
+This changes all the pages of a book into those of a different book for the duration of the spell. You must touch both books when casting the spell, and because the spell is harnessed, you may end it at any time by concentrating. If the original book is damaged or altered, the contents of the duplicate will change to match it. Milvi occasionally use this spell to lend the same book to several different magi, or to communicate with each other over a long journey by linking a central book to a Redcap's travel journal. The spell also allows for vis boosting, so that you may copy a book using an Arcane Connection from wherever you happen to be.
 
 (Base 1, +1 Touch, +4 Year, +2 Group, +5 intricacy; Boosted, Harnessed) Source: Houses of Hermes – True Lineages, 102
 
 17
 
 ### Perdo Animal Spells
-
-THE UNRAVELED SEAM PeAn(He) 5 R: Touch, D: Mom, T: Part
 
 CREATING AN EMPTY BOOK FROM A FILLED ONE PeAn 3 R: Touch, D: Mom, T: Ind
 
@@ -475,6 +471,8 @@ THE RACING ROT PeAn 4 R: Voice, D: Mom, T: Ind
 This spell causes leather goods to crack and wear, marring their appearance and bringing them closer to eventually breaking.
 
 (Base 2, +2 Voice) Source: Apprentices, 47
+
+THE UNRAVELED SEAM PeAn(He) 5 R: Touch, D: Mom, T: Part
 
 Req: Herbam The touch of the caster causes a thread of animal or plant origin to decay, making the cloth it is holding together to come apart. The pieces of cloth can be sewn together again, so this is counted as damaging the garment rather than destroying it.
 
@@ -554,15 +552,15 @@ This spell makes the books within a chest almost weightless. This allows library
 
 (Base 5, +1 Touch, +2 Sun, +2 Group) Source: Covenants, 100
 
-HUNTER’S LETHAL ARROW PeAn 40 R: Touch, D: Diam, T: Ind
+HUNTER’S LETHAL ARROW PeAn 40 R: Touch, D: Diam, T: Ind Special: Requires Tethered Magic or Mutantum Magic 
 
-Special: Requires Tethered Magic or Mutantum Magic This spell causes an animal to suffer a fatal wound, just as if it had been pierced through the heart. Casting this spell while intending to touch the animal is dangerous, as it may take several minutes to die, during which time it may thrash around wildly or strike the caster. For this reason, Milvi usually tether the spell to an arrow or javelin (though any sort of tether may be used), allowing them to cast it in secret from a safe distance. The beast will die after it is struck, and the increased duration ensures the caster has time to fire the arrow after casting the spell.
+This spell causes an animal to suffer a fatal wound, just as if it had been pierced through the heart. Casting this spell while intending to touch the animal is dangerous, as it may take several minutes to die, during which time it may thrash around wildly or strike the caster. For this reason, Milvi usually tether the spell to an arrow or javelin (though any sort of tether may be used), allowing them to cast it in secret from a safe distance. The beast will die after it is struck, and the increased duration ensures the caster has time to fire the arrow after casting the spell.
 
 (Base 30, +1 Touch, +1 Diam; Tethered) Source: Houses of Hermes – True Lineages, 102
 
-SWIFT KNIVES, INVISIBLE Pe(Re)An 40 R: Eye, D: Mom, T: Ind
+SWIFT KNIVES, INVISIBLE Pe(Re)An 40 R: Eye, D: Mom, T: Ind Req: Rego 
 
-Req: Rego This spell reduces an animal to its components. A dead sheep, for example, becomes a pile of unwashed wool, a hide, a collection of boned joins of meat, a stack of organs, and a skeleton. The contents of the alimentary tract vanish.
+This spell reduces an animal to its components. A dead sheep, for example, becomes a pile of unwashed wool, a hide, a collection of boned joins of meat, a stack of organs, and a skeleton. The contents of the alimentary tract vanish.
 
 (Base 30, +1 Eye, +1 destruction of alimentary contents, +0 cosmetic requisite) Source: Covenants, 96
 
