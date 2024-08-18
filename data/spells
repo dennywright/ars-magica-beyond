@@ -1,0 +1,76 @@
+{
+  "folder": "MKAKUqyEDo5eASiU",
+  "name": "The Crystal Dart",
+  "type": "spell",
+  "img": "systems/arm5e/assets/magic/an.png",
+  "system": {
+    "description": "<p>Pg. 154</p>",
+    "source": "true",
+    "page": 0,
+    "technique": {
+      "value": "mu"
+    },
+    "technique-req": {
+      "cr": false,
+      "in": false,
+      "mu": false,
+      "pe": false,
+      "re": true
+    },
+    "form": {
+      "value": "te"
+    },
+    "form-req": {
+      "an": false,
+      "aq": false,
+      "au": false,
+      "co": false,
+      "he": false,
+      "ig": false,
+      "im": false,
+      "me": false,
+      "te": false,
+      "vi": false
+    },
+    "range": {
+      "value": "voice"
+    },
+    "duration": {
+      "value": "moment"
+    },
+    "target": {
+      "value": "ind"
+    },
+    "targetSize": 0,
+    "complexity": 0,
+    "enhancingRequisite": 1,
+    "general": false,
+    "levelOffset": 0,
+    "baseLevel": 3,
+    "baseEffectDescription": "",
+    "applyFocus": false,
+    "ritual": false,
+    "bonus": 0,
+    "bonusDesc": "",
+    "xp": 0,
+    "masteryAbilities": "",
+    "indexKey": ""
+  },
+  "effects": [],
+  "flags": {
+    "exportSource": {
+      "world": "ars-magica",
+      "system": "arm5e",
+      "coreVersion": "12.331",
+      "systemVersion": "2.3.0.9"
+    }
+  },
+  "_stats": {
+    "systemId": "arm5e",
+    "systemVersion": "2.3.0.9",
+    "coreVersion": "12.331",
+    "createdTime": 1692648641682,
+    "modifiedTime": 1724018998212,
+    "lastModifiedBy": "mPHTVuMvtkaROvSz"
+  }
+}
