@@ -1,0 +1,2942 @@
+BOUNDLESS WEALTH OF THE OCEANS CrAn 20 R: Touch, D: Mom, T: Group, Ritual
+
+PIERCING LANCE OF BONE CrAn 20 R: Touch, D: Diam, T: Ind
+
+REPAIR CRACKS AND TEARS CrAn 20 R: Touch, D: Mom, T: Ind, Ritual
+
+SHEARING THE UNSEEN SHEEP CrAn 20 R: Touch, D: Sun, T: Ind
+
+SOOTHE PAINS OF THE BEAST CrAn 20 R: Touch, D: Mom, T: Ind, Ritual
+
+TRUE REST OF THE INJURED BRUTE CrAn 20 R: Touch, D: Moon, T: Ind
+
+WORM OF THE SOIL CrAn 20 R: Touch, D: Sun, T: Ind
+
+RECRUITING A TINY PHALANX Cr(Re)An 30 R: Touch, D Sun, T: Group
+
+FLIGHT PERFECTED CrAn 25 R: Touch, D: Sun, T: Ind
+
+SUMMONING THE CREEPING DEATH Cr(Re)An 25 R: Touch, D: Diam, T: Ind
+
+FLIGHT DIVORCED CrAn 30 R: Touch, D: Sun, T: Part
+
+STRENGTH EXTINGUISHED CrAn 30 R: Touch, D: Sun, T: Part
+
+STURDY MANTLE OF THE TRAVELER CrAn 30 R: Touch, D: Sun, T: Ind
+
+A PILE OF ROTTING BEEF CrAn 35 R: Touch, D: Sun, T: Group
+
+HARMONIC METAMORPHOSIS OF THE BEAST Cr(Mu)An 35 R: Touch, D: Mom, T: Ind, Ritual
+
+STRENGTH RENEWED CrAn 35 R: Touch, D: Sun, T: Part
+
+THE BALM OF ST FRANCIS CrAn 35 R: Touch, D: Mom, T: Ind, Ritual
+
+WEAVER’S TRAP OF WEBS CrAn 35 R: Voice, D: Sun, T: Group
+
+THE WIZARD’S MOUNT CrAn 35 R: Touch, D: Sun, T: Ind
+
+CHAMPION’S STRENGTH CrAn 40 R: Touch, D: Mom, T: Ind, Ritual
+
+MEND THE BROKEN FIGURE CrAn 40 R: Touch, D: Mom, T: Ind, Ritual
+
+A HERD BY MORNING CrAn 45 R: Touch, D: Sun, T: Group 
+
+VENOMOUS VELITES Cr(Re)An 45 R: Sight, D: Sun, T: Group
+
+CURSE OF THE RAVENOUS SWARM Cr(Re)An 50 R: Touch, D: Moon, T: Group, Ritual
+
+TWINNING THE TOME Cr(In)An(Te) 50
+
+R: Touch, D: Mom, T: Group, Ritual Req: Intellego, Terram Special: Requires Boosted Magic or Mutantum Magic This spell creates a nearly perfect copy of the binding and every page of a book you are touching, including illumination, creases, and damages. It requires an Intellego requisite to determine the shape and size of the pages, and a Terram requisite to create the ink. While an effective method of quickly copying the contents of a book, the vis cost is generally considered prohibitive; Milvi instead use it to recover valuable books that have been stolen or lost, or to copy ancient works that are too fragile to move. Thus, this version of the spell also allows for vis boosting, so that you can accommodate an Arcane Connection to the book without requiring you to learn another spell.
+
+CONJURING THE MAGICAL WOLF CrAn(Me, Vi) 60
+
+R: Touch, D: Mom, T: Ind, Ritual Req: Mentem, Vim This ritual spell creates a magical wolf, as described in Ars Magica Fifth Edition, page 193. Once created, the wolf is not naturally friendly with the caster, and instantly reacts according to its own motivations. (Base 50, +1 Touch, +1 Mentem requisite) Source: Hermetic Projects, 126
+
+FASHION THE ANCIENT WORM CrAn(Co, Ig, Me, Vi) 80
+
+R: Touch, D: Mom, T: Ind, Ritual Req: Corpus, Ignem, Mentem, Vim This spell creates a dragon, which has the same statistics and powers as Stellatus (Ars Magica Fifth Edition, page 194). This dragon is not actually Stellatus, who is an individual, but the creature mirrors his powers and Abilities.
+
+THE BREATH OF LIFE RETURNED CrAn 80
+
+R: Touch, D: Mom, T: Ind, Ritual This spell returns a mundane animal of up to Size +1 to life.
+
+A SIMPLE TEST FOR THE COMPLETENESS OF BOOKS InAn(He) 15 R: Touch, D: Mom, T: Ind
+
+IMAGE OF THE BEAST InAn 5 R: Arc D: Mom, T: Ind
+
+SENSE THE SLEEPING HOUND InAn 5 R: Voice, D: Mom, T: Ind
+
+SHIVER OF THE LYCANTHROPE InAn 10 R: Per, D: Conc, T: Touch
+
+NUMBERING THE FLOCK InAn 20 R: Per, D: Mom, T: Sight
+
+TONGUE OF THE FISHES InAn 20 R: Eye, D: Conc, T: Ind
+
+BOOKS THAT SCREAM IN PAIN InAn 25 R: Touch, D: Mom, T: Room
+
+DETERMINE THE VOLUME In(Cr)An(Im) 25
+
+LOCATION OF THE ABSENT R: Arc, D: Conc, T: Ind Req: Imaginem, Creo (the latter optional) 
+
+OPENING THE TOME OF THE ANIMAL’S MIND InAn 25 R: Touch, D: Conc, T: Ind
+
+HUNTER’S SENSE InAn 30 R: Per, D: Sun, T: Hearing
+
+THE EYES OF EVERY BEAST InAn 40 R: Touch, D: Conc., T: Bound*, Ritual
+
+A level 45 version lasts a day.
+
+TO SEE AS OTHERS SEE In(Re)An 40 R: Arc, D: Sun, T: Ind
+
+THE APPROPRIATE ATTIRE MuAn 4 R: Touch, D: Sun, T: Ind
+
+THE CHAMELEON CAT MuAn 5 R: Touch, D: Diam T: Ind
+
+BEAST OF OUTLANDISH SIZE MuAn 15 R: Touch, D: Sun, T: Ind
+
+DOUBLET OF IMPENETRABLE SILK MuAn 15 R: Touch, D: Sun, T: Ind.
+
+DOUBLET OF SILK, THAT’S IMPENETRABLE MuAn 15 R: Touch, D: Sun, T: Ind.
+
+GIFT OF MAN’S FORTITUDE MuAn 15 R: Per, D: Sun, T: Ind
+
+GROWTH OF THE CREEPING THINGS MuAn 15 R: Touch, D: Sun, T: Ind
+
+LION OF OUTLANDISH SIZE MuAn 15 R: Per, D: Sun, T: Ind (+1 Size)
+
+PLUNDER OF THE TWENTY GEESE Mu(Re)An 15 R: Touch, D: Sun, T: Group
+
+REMAKE THE TAILOR’S CRAFT MuAn 15 R: Touch, D: Sun, T: Group
+
+THE VOICE OF THE BJORNAER MAGUS MuAn 15 R: Per, D: Sun, T: Ind
+
+BEAST OF MINISCULE PROPORTIONS MuAn 20 R: Voice, D: Sun, T: Ind
+
+FATAL REGISTER Mu(Re, In)An 20 R: Per, D: Diam, T: Ind
+
+FORM OF THE (TEMPERAMENT) HEARTBEAST MuAn 20 R: Per, D: Sun, T: Ind
+
+MADDER, WOAD, AND WELD MuAn(He) 20 R: Touch, D: Month, T: Group
+
+THE FUR THAT TURNS BLADES MuAn 20 R: Per, D: Sun, T: Ind (+1 Size)
+
+TOUCH OF THE WILD MuAn 20 R: Touch, D: Moon, T: Ind
+
+THE BEAST REMADE MuAn(Co) 25 R: Touch, D: Sun, T: Ind Req: Corpus 
+
+TRANSFORMATION OF THE RAVENOUS BEAST TO THE TORPID TOAD MuAn 25 R: Voice, D: Sun, T: Ind 
+
+PESTS OF A COLOSSAL SIZE MuAn 30 R: Voice, D: Sun, T: Group 
+
+CLOAK OF NESSUS MuAn 35 R: Voice, D: Diam, T: Part 
+
+RETREAT AS FLYING VERMIN MuAn(Co) 35 R: Voice, D: Sun, T: Circle Req: Corpus 
+
+STEED OF VENGEANCE MuAn 35 R: Touch, D: Sun, T: Ind
+
+THE GRIFFIN REBORN MuAn 35 R: Touch, D: Moon, T: Pair, Ritual
+
+ICARUS’ FOLLY MuAn 40 R: Touch, D: Sun, T: Ind The targeted animal is given a pair of wings. It does not immediately know how to fly, but just like a fledging bird it succeeds after the first few attempts. Unfortunately, a flaw introduced in the experimental process makes the duration of this spell unreliable; at the end of every hour of the duration, roll a simple die. If the result is equal or lower than the number of hours that have passed, the spell’s duration ends prematurely. After the precipitous death of the first few test subjects, Marcus named the spell after the legendary inventor of wings who himself plummeted to death after flying too close to the sun. As if in compensation for the flawed spell, the second season of invention resulted in a breakthrough.
+
+SCALES OF THE SCORPIONS MuAn 40 R: Voice, D: Diam, T: Group
+
+STEED OF VESUVIUS MuAn(Ig) 45 R: Touch, D: Sun, T: Ind Req: Ignem 
+
+THE TRANSFORMED FOLIO MuAn 45 R: Touch, D: Year, T: Group, Ritual Special: Requires Boosted Magic and Harnessed Magic or Mutantum Magic 
+
+CREATING AN EMPTY BOOK FROM A FILLED ONE PeAn 3 R: Touch, D: Mom, T: Ind
+
+THE CURSE OF DIANA PeAn 4 R: Touch, D: Mom, T: Ind
+
+THE RACING ROT PeAn 4 R: Voice, D: Mom, T: Ind
+
+THE UNRAVELED SEAM PeAn(He) 5 R: Touch, D: Mom, T: Part
+
+DECAY FUR AND HIDE PeAn 10 R: Voice, D: Mom, T: Ind
+
+TIRE THE BOUNDING STAG PeAn 10 R: Voice, D: Mom, T: Ind
+
+UNMAKE THIS CLOTH PeAn(He) 10 R:Touch, D: Mom, T: Ind
+
+REVENGE OF THE BITTEN TOAD PeAn 20 R: Per, D: Diam, T: Flavor
+
+AGONY OF THE BEAST PeAn 15 R: Voice, D: Conc, T: Ind
+
+THE UNRAVELED CLOTHES PeAn(He) 15 R: Voice, D: Mom, T: Group
+
+BLUNT THE VIPER’S FANGS PeAn 20 R: Voice, D: Mom, T: Ind
+
+TIRE THE STRIDENT DESTRIER PeAn 20 R: Voice, D: Mom, T: Ind
+
+THE FALCON’S HOOD PeAn 25 R: Touch, D: Mom, T: Ind
+
+CRIPPLE THE HOWLING WOLF PeAn 25 R: Voice, D: Mom, T: Ind
+
+THE WEIGHTLESS TRANSPORTATION OF BOOKS PeAn 30 R: Touch, D: Sun, T: Group
+
+HUNTER’S LETHAL ARROW PeAn 40 R: Touch, D: Diam, T: Ind Special: Requires Tethered Magic or Mutantum Magic 
+
+SWIFT KNIVES, INVISIBLE Pe(Re)An 40 R: Eye, D: Mom, T: Ind Req: Rego 
+
+WARD AGAINST THE BEASTS OF LEGEND ReAn Gen R: Touch, D: Ring, T: Circle
+
+THE SCRIBE’S TOUCH ReAn 3 R: Touch, D: Mom, T: Ind
+
+AVARICIOUSNESS OF THE PTOLEMIES ReAn 4 R: Touch, D: Ring, T: Circle
+
+BINDING THE MUNDANE CODEX ReAn 4 R: Touch, D: Mom, T: Group
+
+SECURING THE HARVEST ReAn 4 R: Touch, D: Ring, T: Circle
+
+THE JONGLEUR’S STEPS ReAn 4 R: Voice, D: Conc, T: Ind
+
+THE WIZARD’S SPINDLE ReAn 4 R: Touch, D: Mom, T: Group
+
+DISGUISE OF THE PUTRID AROMA ReAn 5 R: Voice, D: Conc, T: Ind
+
+BIND FAST ReAn(He) 5 R: Voice, D: Mom, T: Group Req: Herbam The targets’ clothes seek out and bind themselves to the nearest other object, moving or not. If the members of a group are standing sufficiently close, this spell binds them together. The magic lasts just long enough for the clothes to bind themselves into knots, and then dissipates allowing the targets to free themselves by undoing or cutting the knotted cloth.
+
+DRESSING THE HUMAN FORM IN WOOL ReAn 5 R: Touch, D: Mom, T: Ind
+
+CIRCLE OF BEAST WARDING ReAn 5 R: Touch, D: Ring, T: Circle
+
+THE EVEN HAND OF THE DETERMINED WEAVER Re(Cr)An 5 R: Touch, D: Mom, T: Part
+
+A Herbam casting requisite is required for tapestries that include plant-based cloth or yarn.
+
+THE TREACHEROUS CLOAK ReAn 5 R: Sight, D: Conc, T: Ind
+
+THE WEAVER’S SUBTLE ART ReAn 5 R: Touch, D: Mom, T: Part
+
+A Herbam casting requisite is required for tapestries using plant-based thread.
+
+A DAY’S WORTH OF WEAVING ReAn 10
+
+A DAY’S WORTH OF SPINNING ReAn 10
+
+R:Touch, D: Mom, T: Group One of the first spells taught to Petalichus by his mater, this spell cleans, cards, and spins a whole fleece, or a bale of cotton or flax, into thread in a matter of moments. If dye is available when the spell is cast, the thread can be dyed as the caster directs. A Herbam casting requisite is required for plant-based cloth. This is an Average task for a mundane spinner, so the caster must make a Perception + Finesse (precision) + stress die roll against an Ease Factor of 12 (Craft Ease Factor 9 + 3 for using Craft Magic).
+
+R:Touch, D: Mom, T: Group This spell is exceptionally good at making simple cloth, but casters may find it difficult to create cloth of any great quality or highly patterned tapestries. The table below lists the base Ease Factors for weaving bolts of cloth in a single casting. Treat each bolt of cloth as being two paces in length by one pace wide. Successive castings can extend the current bolt of cloth rather than creating a new item. Members of Petalichus’ lineage have traditionally used this spell in practicing their Finesse.
+
+A SIMPLE CHARM FOR THE RECOVERY OF MISFILED BOOKS
+
+HIDE TO PARCHMENT ReAn 10 R: Touch, D: Mom, T: Group
+
+A Perception + Finesse roll is treated as a Craft: Percamenarius roll to determine the quality of the vellum created.
+
+REORDER THE CONTENTS OF THE ARMARIUS Re(In)An(Me) 10 R: Touch, D: Mom, T: Room
+
+SOOTHE THE FEROCIOUS BEAR ReAn 10 R: Voice, D: Mom, T: Ind
+
+A SPELL TO MILK CATTLE ReAn 15 R: Touch, D: Conc, T: Group
+
+BINDING THE HERMETIC CODEX ReAn 15 R: Touch, D: Mom, T: Group
+
+PANIC OF THE ELEPHANT’S MOUSE ReAn 15 R: Eye, D: Conc, T: Ind
+
+SOOTHING VOICE OF THE STABLEMAN ReAn 15 R: Voice D: Sun, T: Ind
+
+VIPER’S GAZE ReAn 15 R: Eye, D: Conc, T: Ind Holds an animal rigid as long as you maintain eye contact with it and concentrate on it.
+
+ENDURANCE OF THE LION ReAn 20 R: Per, D: Diam, T: Ind (+1 Size)
+
+FURY OF THE CHARGING BULL ReAn 20 R: Voice, D: Mom, T: Ind
+
+PLAGUE OF FROGS ReAn 20 R: Touch, D: Mom, T: Group
+
+A swarm of frogs spontaneously generates in a pool of water touched by the caster. A pool five paces across and two paces deep can produce one thousand frogs; for every ten-fold increase in volume, ten times as many frogs are produced up to a maximum of 20,000 (which is a mass of frogs equal to that of ten pigs). Likewise, a smaller pool produces fewer frogs: a pool one tenth the size produces a hundred frogs, and one that is a hundredth of the size (about one pace across and half a pace deep) spawns just 10 frogs. The water in the pool is not diminished by this spell.
+
+THE COMMAND OF EVERY BEAST ReAn 20 R: Touch, D: Conc., T: Bound*, Ritual
+
+A level 25 version has D: Sun.
+
+THE GENTLE HERD ReAn 20 R: Touch, D: Conc, T: Group A group of animals are rendered calm and placid, even while unusual events occur, such as invisible hands milking them.
+
+THE NIGHT-BADGERS’ BURROW ReAn(Te) 20 R: Touch, D: Mom, T: Group
+
+THE VERMINOUS INFESTATION Re(Pe)An(Co) 20 R: Eye, D: Mom, T: Ind
+
+WARD AGAINST FAERIES WHICH CREEP CRAWL ReAn 20
+
+AND
+
+R: Touch, D: Ring, T: Circle No faerie animal whose Faerie Might is equal or less to the level of the spell can affect the targeted Group as long as they remain within the ring. Julia commonly employs this spell every night along with a Circle of Beast Warding — after carefully sweeping the area to ensure that no spiders become trapped in the ring with her. (As ward guideline) Source: Magi of Hermes, 57
+
+WOOLEN STEED OF ARABY ReAn 20 R: Touch, D: Sun, T: Ind
+
+EPONA’S BANE ReAn 25 R: Voice, D: Mom, T: Group Created as a defense against the eastern horseman, Epona’s Bane startles and panics up to a small unit of cavalry horses. The riders of these horses must roll Strength + Ride against an Ease Factor of 12, or be thrown to the ground and risk being trampled. Even those who manage to keep themselves on their mounts must bring their horses back under control before continuing forward.
+
+THE GENTLE BEAST ReAn 25 R: Eye, D: Conc, T: Ind
+
+MASTERING THE UNRULY BEAST ReAn 25 R: Touch, D: Conc, T: Ind
+
+COMMANDING THE HARNESSED BEAST ReAn 30 R: Touch, D: Sun, T: Ind
+
+THE LAMB LIES DOWN WITH THE LION ReAn 30 R: Per, D: Sun, T: Spectacle
+
+CONSTRAINT OF THE STRANGLING VESTMENTS ReAn 35 R: Voice, D: Diam, T: Group
+
+SUMMON THE ELDRITCH BOND ReAn 35 R: Voice, D: Sun, T: Ind.
+
+A fine preparation to a Wizard’s War, this spell commands a biting insect, such as a mosquito or flea, to bite a specific target and then return. A canny magus can then harvest the blood and its Arcane Connection from the insect. Of course, this needs to be cast fairly close to the target for the insect to have a chance of catching him. However, combining this spell with Pests of a Colossal Size greatly extends its effective range, as well as the intimidation factor. It does rather reduce its subtlety, however; a magus who would ignore a normal mosquito is unlikely to do the same for a giant one.
+
+THE DEMAND SOOTHED ReAn 40
+
+OF
+
+THE FRUSTRATED SCHOLAR
+
+R: Arc, D: Mom, T: Ind This spell makes a book that is within 500 paces materialize by the hand of the caster. The spell requires an Arcane Connection to the book, which is usually the library catalog. There are higher-level versions of this spell that draw a book from up to seven leagues away.
+
+VOICE OF THE KING ReAn 40 R: Voice, D: Diam, T: Group
+
+BRING THE HERD TO MARKET ReAn 45 R: Touch, D: Mom, T: Group
+
+THE UNFAITHFUL FAVOR ReAn 45 R: Touch, D: Sun T: Ind
+
+PAGES OF THE UNFINISHED STORY Re(In)An 45 R: Touch, D: Mom, T: Str
+
+HURLING THE DROPLET OF LYE CrAq 3 R: Touch, D: Diam, T: Ind
+
+FOOTSTEPS OF SLIPPERY OIL CrAq 5 R: Touch, D: Diam, T: Ind
+
+DAGGER OF ICE Cr(Re)Aq 10 R: Voice, D: Mom, T: Ind Req: Rego Creates a foot-long, sharp icicle and hurls it at a target. The icicle always hits, provided it penetrates Magic Resistance. It inflicts +5 damage (partly because of its sharp point). After impact, the icicle shatters to tiny fragments, which promptly disappear.
+
+CREEPING OIL CrAq 15 R: Voice, D: Sun, T: Ind
+
+LUNGS OF DROWNING CrAq(Co) 20 R: Touch, D: Diam, T: Part
+
+MIGHTY TORRENT OF WATER CrAq 20 R: Voice, D: Mom, T: Ind
+
+A 3-foot-diameter jet of water sprays from your outstretched arms towards your target. The target of this gusher of water takes +10 damage and must make a Strength + Size stress roll of 9+ or be sent flying back.
+
+ALCHEMIST’S REVENGE CrAq 25 R: Voice, D: Mom, T: Ind
+
+RAREFY THE CRUDE WATER CrAq 30 R: Touch, D: Mom, T: Ind, Ritual
+
+WIZARD’S FLOOD CrAq 35 R: Touch, D: Mom, T: Ind, Ritual This ritual, when cast in a river, causes it to rapidly rise and burst its banks. This floods the terrain about half a mile from either bank, for a length of about 20 miles, to a depth of two paces. The area inundated depends on the local geography (cliffs, gorges and dams may direct the flow, for example). The flood waters are natural, cannot be resisted by Magic Resistance, and may take days to recede, evaporate, and drain. The flood drowns people and animals, ruins crops, and washes away most wooden structures (and ruins the lower level of stone ones). This ritual is Trajan’s master work. He is well known for it in the Rhine. (Base 3, +1 Touch, +7 size) Source: Hooks, 79
+
+DELUGE OF RUSHING AND DASHING CrAq 40 R: Voice, D: Conc, T: Ind
+
+ADORATION OF THE MAGICAL ISLE CrAq 50 R: Touch, D: Mom, T: Bound, Ritual
+
+CALL OF THE RUSHING WATERS InAq 15 R: Arc, D: Conc, T: Ind
+
+CLEAR SIGHT OF THE NAIAD InAq 5 R: Per, D: Mom, T: Vision
+
+SUBTLE TASTE OF POISON AND PURITY InAq 5 R: Per, D: Conc, T: Taste
+
+TESTING OF FASTNESS AND FADING InAq 5 R: Touch, D: Mom, T: Part
+
+TOUCH OF THE PEARLS InAq 5 R: Touch, D: Conc, T: Ind
+
+EYES OF DANIBUS InAq(Im) 20 R: Arc, D: Conc, T: Ind
+
+SENSE THE TIDE’S BOUNDARIES InAq 25 R: Touch, D: Sun, T: Ind
+
+VOICE OF THE LAKE InAq 25 R: Touch, D: Conc, T: Ind
+
+ENCHANTMENT OF THE SCRYING POOL InAq(Im) 30 R: Touch, D: Year, T: Ind, Ritual
+
+AN EVENING’S ILLUMINATION MuAq 5 R: Touch, D: Sun, T: Ind
+
+MIMIC THE CHRIST’S MIRACLE MuAq 5 R: Touch, D: Sun, T: Ind
+
+INCANTATION OF PUTRID WINE MuAq 15 R: Touch, D: Sun, T: Room
+
+BAG OF TEETH MuAq(An) 20 R: Touch, D: Moon, T: Ind Req: Animal Transforms a pool of water into an animal tooth. When on expedition, Alexander often carries several of these teeth. They are not a perfect solution to water shortage, because Alexander, while young, cannot dispel this effect, so the water only becomes available when the spell expires. If forced to use his emergency water, Alexander prefers to first create a sanctuary using A Place of Recuperation and A Time for Slumber, then ration his water by keeping his servants, and himself, in diminutive animal forms until the Bag of Teeth reverts to gallons of water Each tooth may become just under a hundred cubic feet of water. This means that the teeth destroy any closed container they are stored within when they change back. They are able to cause explosions, but Alexander has never considered their military potential.
+
+LUNGS OF THE FISH MuAq(Au) 20 R: Touch, D: Sun, T: Part
+
+SCULPT THE LIVING WATER MuAq 20 R: Voice, D: Sun, T: Ind
+
+THE GUARDIAN OF THE TOMBS MuCo(An) 20 R: Per, D: Sun, T: Ind
+
+STRANGE TRICKS USING CANAL CONTENTS MuAq 25 R: Touch, D: Sun, T: Bound*, Ritual.
+
+NEPTUNE’S IMPRISONING ARMS MuAq 30 R: Voice, D: Sun, T: Group
+
+NEPTUNE’S IMPRISONING ARMS MuAq 30 R: Voice, D: Sun, T: Group
+
+WEATHER MADE GOOD MuAq 40 R: Touch, D: Moon, T: Bound*, Ritual This spell prevents rain falling on the island for a month. It may prove particularly useful when first settling the island, as it allows peasants and supplies to lie unprotected without suffering damage.
+
+VILE WATER OF STERILITY MuAq 45 R: Touch, D: Year, T: Group, Ritual
+
+APPEASE THE QUEEN OF WINTER MuAq 65 R: Voice, D: Year, T: Bound, Ritual
+
+CLOSING THE EARTH’S GATE PeAq 25 R: Touch, D: Mom, T: Ind
+
+THE LAUNDRESS’ CLOTHESLINE PeAq 4 R: Per, D: Mom, T: Ind
+
+COMFORT OF THE DRENCHED TRAVELER PeAq 5 R: Touch, D: Mom, T: Ind
+
+PATCH OF DROUGHT PeAq 10 R: Voice D: Mom, T: Ind
+
+PARCHING WIND PeAq 20 R: Voice, D: Mom, T: Part
+
+CURSE OF THE DESERT PeAq 25 R: Voice, D: Mom, T: Part
+
+CALLING THE ODIOUS DROUGHT PeAq(Au) 50 R: Touch, D: Year, T: Bound, Ritual
+
+THE BECALMED HARBOR PeAq 55 R: Touch, D: Moon, T: Part, Ritual
+
+WARD AGAINST FAERIES OF THE WATERS ReAq Gen R: Touch, D: Ring, T: Circle
+
+CLOAK OF THE DUCK’S FEATHERS ReAq 5 R: Touch, D: Sun, T: Ind
+
+THE COPYIST’S PUISSANT QUILL ReAq 5 R: Voice, D: Mom, T: Group
+
+BREAK THE ONCOMING WAVE ReAq 10 R: Per, D: Conc, T: Ind
+
+EXACTLY TO SCALE ReAq(Me) 10 R: Touch, D: Mom, T: Ind
+
+THOUGHT DISTINCTLY BURNED ReAq 10 R: Voice, D: Ring, T: Ind
+
+BREATH OF WINTER ReAq 15 R: Touch, D: Sun, T: Part
+
+PUSH OF THE GENTLE WAVE ReAq 15 R: Voice, D: Conc T: Ind
+
+A low wave is formed to propel a small boat slowly through the water. When casting this spell, you commonly make a pushing gesture.
+
+STILL THE RAGING WATERS ReAq 15 R: Voice, D: Conc, T: Ind
+
+CAPTURED BY HÖÐR’S SHACKLES ReAq 20 R: Voice, D: Sun, T: Part
+
+SHACKLES OF THE FROZEN ICE ReAq 20 R: Voice, D: Sun, T: Part
+
+SWALLOWED BY THE MIST ReAq 20 R: Voice, D: Mom, T: Part
+
+WARD AGAINST WATER ReAq 20 R: Touch, D: Ring, T: Circle
+
+FLAME TONGUE ReAq(Ig) 25 R: Voice, D: Mom, T: Part Req: Ignem This spell causes a glutinous glob of lava (from a lake or river of magma) to leap out and hit something. The volume of lava moved is about 2 cubic feet, and it can be moved to hit any location within Voice range. Whatever the lava hits takes between +15 and +60 damage, depending on how much of it is covered by the lava. The lava sticks to whatever it hits and continues to inflict damage each round. It takes several days for the lava to cool naturally.
+
+BRIDGE OF FROST ReAq 30 R: Voice, D: Sun, T: Part
+
+CHAOS OF THE ANGRY WAVES ReAq 30 R: Voice, D: Conc, T: Part
+
+MASTER THE AIRY SPIRIT OF WATER ReAq 30 R: Voice, D: Moon, T: Ind
+
+PARTING OF THE WAVES ReAq 30 R: Touch, D: Conc, T: Group
+
+WAVES OF DROWNING AND SMASHING ReAq 30 R: Sight, D: Mom, T: Ind
+
+DANIBUS’ FAVOR ReAq 35 R: Touch, D: Sun, T: Str
+
+ICE OF DROWNING ReAq 35 R: Voice, D: Conc, T: Part
+
+PULL OF THE WATERY GRAVE ReAq 35 R: Sight, D: Conc, T: Ind
+
+SAIL WITH THE TIDE ReAq 35 R: Voice, D: Conc, T: Part
+
+SUMMON THE AIRY SPIRIT OF WATER ReAq 35 R: Arc, D: Mom, T: Ind
+
+TOWER OF WHIRLING WATER ReAq 35 R: Voice, D: Conc, T: Group
+
+WRINGING FREE THE TEARS OF ZEUS ReAq 35 R: Touch, D: Conc, T: Group
+
+NEPTUNE’S WRATH ReAq 40 R: Sight, D: Mom, T: Ind, Ritual A gigantic wave is created in a very large body of water. The wave, which is only 20 feet high but up to a mile wide, is capable of capsizing ships at sea, smashing and drowning people near shore, and seriously damaging coastline communities. The tidal wave needs 5 miles of water surface to build itself up to proper proportions. The magus cannot control the wave without casting another spell.
+
+THE STRENGTHENING TIDE ReAq 40 R: Touch, D: Moon, T: Part
+
+TOWER OF LAVA ReAq 50 R: Touch, D: Mom, T: Part, Ritual This spell sculpts a tower out of hot bubbling lava. The resulting tower is solid and rigid, but if its foundations remain in lava, then the tower will dissolve back into the bulk within a day. The Part target is required, because the spell does not use all the available lava. The tower is about the same size and dimensions as the one created by the spell Conjuring the Mystic Tower (see Ars Magica Fifth Edition, page 153). A Finesse roll against an Ease Factor of 15 is required to ensure that the tower is well made; failure means that the lava takes a solid but malformed shape.
+
+AIR’S GHOSTLY FORM CrAu 5 R: Touch, D: Diam, T: Ind
+
+A thick fog forms around the magus, extending outwards for several paces. A breeze can push the fog around. The fog dissipates at its natural rate, and may be too thin to restrict sight within a minute.
+
+CHAMBER OF SPRING BREEZES CrAu 5 R: Touch, D: Sun, T: Ind
+
+JUPITER’S TEARS CrAu 5 R: Sight, D: Conc, T: Ind
+
+CHAMBER OF SUMMER BREEZES CrAu(Ig) 10 R: Touch, D: Sun, T: Ind
+
+JUPITER’S RESOUNDING BLOW CrAu 10 R: Voice, D: Mom, T: Ind
+
+STENCH OF THE TWENTY CORPSES CrAu 10 R: Voice, D: Diam, T: Ind
+
+WREATHS OF FOUL SMOKE CrAu 10 R: Voice, D: Diam, T: Ind
+
+BRIDGE OF GNOMES CrAu 15 R: Touch, D: Sun, T: Ind
+
+BROOM OF THE WINDS CrAu 15 R: Voice, D: Mom, T: Ind
+
+CHARGE OF THE ANGRY WINDS CrAu 15 R: Voice, D: Conc, T: Ind
+
+A wall of wind roars away from you, starting up to 10 paces away and continuing until it dissipates naturally. The wind is confined by any existing barriers, but if unconfined it can be up to a hundred paces wide. All within the area must make a Dexterity + Size stress roll of 9+ or fall down and be blown along by the winds. The rolls must be made at the start of the gale and each subsequent round that the wind is maintained. You must concentrate on the gale. Missile fire into or out of the gale is futile, and marching against the gale requires a Strength + Size stress roll of 15+. Failure in this attempt mandates another Dexterity + Size stress roll of 12+ to keep from falling.
+
+BREEZE FROM WITHIN CrAu 20 R: Touch, D: Sun, T: Ind
+
+A very minor breeze is generated in the nose of the target, allowing him access to all of the air that he requires for breathing. While underwater, the target of this spell exhales a constant stream of bubbles that cannot be stopped by the target for more than a second by holding their mouth and nose closed. The breeze cannot be halted without the spell being dispelled or expiring. The breeze makes the manipulation of especially small and light objects by the target difficult.
+
+CIRCLING WINDS OF PROTECTION Cr(Re)Au 20 R: Touch, D: Conc, T: Ind
+
+CLOUDS OF RAIN AND THUNDER CrAu 25 R: Sight, D: Conc, T: Group
+
+CLOUDS OF SUMMER SNOW CrAu 25 R: Sight, D: Conc, T: Group
+
+PULL OF THE SKYBOUND WINDS CrAu 30 R: Voice, D: Conc, T: Ind
+
+CATAPULT OF THE MIGHTY WINDS Cr(Re)Au 30 R: Voice, D: Mom, T: Ind
+
+CLOUDS OF OBSCURING SAND CrAu 30 R: Sight, D: Sun, T: Group
+
+WINGS OF THE SOARING WIND Cr(Re)Au 30 R: Touch, D: Conc, T: Ind
+
+THE INCANTATION OF LIGHTNING CrAu 35 R: Voice, D: Mom, T: Ind
+
+A lightning bolt shoots forth from your outstretched hand in the direction you are pointing, doing +30 damage to a single target it hits. There must be nothing between you and the target. Those near the target must make Size stress rolls of 6+ to remain standing. (Base 5, +2 Voice, +4 unnatural) Source: Ars Magica Fifth Edition, 126
+
+BREATH OF THE OPEN SKY CrAu 40 R: Touch, D: Conc, T: Ind, Ritual
+
+WRATH OF WHIRLING WINDS AND WATER CrAu 65 R: Sight, D: Sun, T: Group, Ritual
+
+SAILOR’S FORETASTE OF THE MORROW InAu 20 R: Touch, D: Mom, T: Group
+
+SCENT OF ASH InAu 15 R: Per, D: Conc, T: Smell The caster can smell and identify, on the breath of the air, the ash that has carried from volcanoes. This is enough information for the caster to determine the approximate direction and distance to each of the volcanoes he detects. A dormant volcano can be detected in this way from within one league (three miles), a volcano that has erupted within the last 100 years can be detected from within seven leagues (21 miles), and a volcano that has erupted in the last season can be detected from within 100 miles. Dormant volcanoes are detectable in this way because ash from their violent eruption is still present in the environment. The ash may have fallen to the ground, but some small (but detectable via Hermetic magic) fraction has been blown up into the air again.
+
+TRUE SIGHT OF THE AIR InAu 15 R: Per, D: Sun, T: Vision
+
+WHISPERING WINDS InAu 15 R: Sight, D: Conc, T: Ind
+
+SEE THE PATHS THROUGH THE VOID InAu 20 R: Per, D: Conc, T: Vision
+
+EYES OF THE BAT InAu 25 R: Per, D: Sun, T: Hearing
+
+CURSE OF THE EVIL HUMORS MuAu 25 R: Voice, D: Diam, T: Part
+
+SULFUROUS MEMBRANE MuAu(Co) 10 R: Touch, D: Sun, T: Part
+
+RAIN OF STONES MuAu(Te) 20 R: Voice, D: Sun, T: Ind Req: Terram Turns rain into stones as it falls, causing +0 damage every two rounds (they’re small stones), and maybe less if the rain is very light. People under cover are not affected. The stones revert to water when the spell expires. If it stops raining before the spell ends, no more rain is transformed, even if a different rain storm starts.
+
+TALONS OF THE WINDS Mu(Re)Au 20 R: Voice, D: Diam, T: Ind
+
+RAINBOW BRIDGE MuAu 30 R:Touch, D: Sun, T: Ind
+
+CONJURE FROM THE MIST MuAu(Te) 40 R: Voice, D: Sun, T: Part
+
+INFERNAL SMOKE OF DEATH MuAu 40 R: Voice, D: Conc, T: Ind
+
+FOG OF CONFUSION Mu(Re)Au(Im) 45 R: Touch, D: Year, T: Bound, Ritual Req: Rego, Imaginem Turns a bank of fog up to six miles across into a silvery mist too thick to see through. Random screams, thumps, hisses, and other noises harass and confuse anyone within the fog, perhaps even leading them into danger. People have extreme difficulty navigating through the fog, especially through unknown territory. No more than seven people, who must be present at the ritual, can see normally through the fog. The fog does not dissipate until the spell expires.
+
+RAIN OF OIL MuAu(Aq) 50 R: Sight, D: Sun, T: Ind, Ritual Req: Aquam Turns rain into droplets of oil. The rain of oil continues as long as the storm does, drenching the landscape with flammable liquid. The oil will evaporate at a natural rate after the rain ceases. A Creo Ignem spell can ignite the storm so that the oil burns as it falls, but this requires a Group target large enough to catch all the raindrops. Lighting the oil after it has landed is much easier.
+
+THE CLOUDLESS SKY RETURNED PeAu 45 R: Sight, D: Mom, T: Group
+
+ROOM OF STALE AIR PeAu 15 R: Voice, D: Mom, T: Room
+
+BE RID THE TELL TALE SMOKE PeAu 20 R: Touch, D: Ring, T: Circle
+
+QUIET THE RAGING WINDS PeAu 20 R: Touch, D: Mom, T: Group
+
+DESTROY THE HERBAM MIASMA PeAu(He, Vi) 35 R: Voice, D: Mom, T: Ind
+
+WARD AGAINST RAIN ReAu 10 R: Per, D: Sun, T: Ind
+
+WARD AGAINST FAERIES OF THE AIR ReAu Gen R: Touch, D: Ring, T: Circle
+
+THE UNRUFFLED TRAVELER ReAu 4 R: Per, D: Sun, T: Ind
+
+WIZARD’S BREATH STOLEN ReAu 4 R: Touch, D: Mom, T: Ind
+
+WIND AT THE BACK ReAu 5 R: Touch, D: Special, T: Ind
+
+EMBRACING THE DOWNY ARMS OF THE NEPHELAE ReAu 25 R: Sight, D: Conc, T: Ind
+
+MOVEMENT WITHIN THE SIROCCO ReAu 25 R: Touch, D: Sun, T: Ind
+
+MOVING THE HERBAM MIASMA ReAu (He) 25 R: Voice, D: Conc, T: Ind
+
+WARD AGAINST THE SIROCCO ReAu 25 R: Touch, D: Ring, T: Circle
+
+CLOUDS OF THUNDEROUS MIGHT ReAu 30 R: Sight, D: Conc, T: Group
+
+MASTER THE AIRY SPIRIT OF AIR ReAu 30 R: Voice, D: Moon, T: Ind
+
+SUMMON THE AIRY SPIRIT OF AIR ReAu 35 R: Arc, D: Mom, T: Ind
+
+GATHERING OF THE STORMY MIGHT ReAu 40 R: Sight, D: Conc, T: Group
+
+LIFTING THE STORM ReAu 45 R: Voice, D: Sun, T: Group
+
+BIND WOUND CrCo 10 R: Touch, D: Sun, T: Ind This spell binds the target’s wounds, so that he can undertake any activity without the risk of worsening the wounds. He still suffers from the wound penalties, however, and cannot heal naturally while under the influence of this spell.
+
+CHARM AGAINST PUTREFACTION CrCo 10 R: Touch, D: Moon, T: Ind
+
+BEQUEATHING SALOME’S REQUEST CrCo 20 R: Touch, D: Mom, T: Part, Ritual
+
+CIRCLE OF RECOVERY CrCo 20 R: Touch, D: Ring, T: Circle
+
+CONJURE THE COLOSSUS CrCo 20 R: Touch, D: Mom, T: Ind, Ritual
+
+CREATE A DEAD TURB CrCo 20 R: Touch, D: Mom, T: Group, Ritual This ritual creates ten human corpses. (Base 5, +1 Touch, +2 Group) Source: Hermetic Projects, 116
+
+CREATE A HUMAN CORPSE CrCo 20 R: Touch, D: Mom, T: Ind, Ritual
+
+FOR THEY ARE LIFE TO THOSE WHO FIND THEM, AND HEALING TO ALL THEIR FLESH CrCo 20
+
+R: Touch, D: Mom, T: Ind, Ritual Special: Requires Holy Magic Resolves successfully a Minor Aging Crisis.
+
+GENTLE TOUCH OF THE PURIFIED BODY CrCo 20 R: Touch, D: Mom, T: Ind, Ritual
+
+PURIFICATION OF THE FESTERING WOUNDS CrCo 20 R: Touch, D: Moon, T: Ind
+
+THE CHIRURGEON’S HEALING TOUCH CrCo 20 R: Touch, D: Mom, T: Ind, Ritual
+
+THE SOOTHING BALM OF TELESPHORUS CrCo 20 R: Touch, D: Sun, T: Ind
+
+TOUCH OF THE BLESSED VIRGIN CrCo 20 R: Touch, D: Mom, T: Ind, Ritual
+
+WARD THE CRUEL TOUCH OF PESTILENCE CrCo 20 R: Touch, D: Moon, T: Ind
+
+WIDENING THE RIVER STYX CrCo 20 R: Touch, D: Mom, T: Ind, Ritual
+
+CONJURE A DEAD ARMY CrCo 25 R: Touch, D: Mom, T: Group, Ritual
+
+RESTORATION OF THE DEFILED BODY CrCo 25 R: Touch, D: Mom, T: Ind, Ritual
+
+THE SEVERED LIMB MADE WHOLE CrCo 25 R: Touch, D: Mom, T: Ind, Ritual
+
+A limb that has been detached from the body can be reattached, but any decay that has occurred on the severed limb remains after the limb is reattached. After a day of decomposition, a limb is weak. After seven days, it is nearly useless and infects the character on whom it is replaced (Stamina stress roll of 6+ or take a Medium Wound). If it’s been severed for more than two weeks, the limb is completely useless.
+
+BLISSFUL SENSATIONS CrCo 30 R: Touch, D: Sun, T: Ind
+
+A LIMB BEREFT Cr(Re)Co 30 R: Touch, D: Sun, T: Part Req: Rego Creates a human leg that is animated and able to move by hopping. Through a quirk in the experimentation process, the leg has an inclination to kick anything it comes near; while there is little danger of serious damage, it is a grisly distraction. If its chosen target decides not to attack the limb directly, he takes a –3 penalty to all rolls and 2 extra botch dice.
+
+ARMS OF THE SALAMANDER CrCo 30 R: Touch, D: Mom, T: Ind, Ritual
+
+CHEATING THE REAPER CrCo 30 R: Touch, D: Mom, T: Ind, Ritual
+
+CONJURE THE HORDE OF THE DEAD CrCo 30 R: Touch, D: Mom, T: Ind, Ritual
+
+ENTER THE DOMAIN OF EIR CrCo 30 R: Touch, D: Mom, T: Circle, Ritual
+
+GENTLE CARESS OF AESCLEPIUS CrCo 30 R: Touch, D: Mom, T: Ind, Ritual
+
+TRAVELER’S RESPITE CrCo 30 R: Touch, D: Mom, T: Group, Ritual
+
+ARTEMIS’ FERTILITY CrCo 40 R: Touch, D: Moon, T: Ind
+
+INCANTATION OF THE BODY MADE WHOLE CrCo 40 R: Touch, D: Mom, T: Ind, Ritual
+
+PURIFICATION CrCo 40 R: Touch, D: Mom, T: Ind, Ritual
+
+INCANTATION OF THE WARRIORS MADE WHOLE CrCo 50 R: Touch, D: Mom, T: Room, Ritual
+
+BESTOW THE BLESSING OF APOLLON CrCo 50 R: Touch, D: Year, T: Room, Ritual
+
+CONJURE THE WALKING DEAD CrCo(Au, Te, Vi) 50 R: Touch, D: Mom, T: Ind, Ritual
+
+THE RITE OF HEALING CrCo 50 R: Touch, D: Mom, T: Group, Ritual
+
+UNIVERSAL POULTICE CrCo 50 R: Touch, D: Mom, T: Group, Ritual
+
+BLESSING OF ARTEMIS’ FERTILITY CrCo 65 R: Touch, D: Year, T: Bound, Ritual
+
+THE SHADOW OF LIFE RENEWED CrCo(Me) 75 R: Touch, D: Mom, T: Ind, Ritual
+
+SIGHT OF THE TRUE FORM InCo Gen R: Per, D: Mom, T: Vision
+
+CONVERGENCE OF PLACE InCo 4 R: Touch, D: Mom, T: Ind
+
+PHYSICIAN’S SENSE InCo 4 R: Per, D: Mom, T: Ind
+
+MIDWIFE’S EYE InCo 5 R: Touch, D: Mom, T: Unborn Child Special: Requires Fertility Ritual Magic Virtue This spell indicates the general health and sex of an unborn child. A Perception + Fertility Lore roll against an Ease Factor of 3 indicates the expected date of birth. (Base 4, +1 Touch) Note: This spell is listed as a possible laboratory project that may be produced from Insights gained from researching Fertility Magic.
+
+PHYSICIAN’S EYE InCo 5 R: Touch, D: Mom, T: Ind
+
+POSE CLOTHO‘S QUESTION InCo 5 R: Touch, D: Mom, T: Ind
+
+SENSE OF THE LODESTONE InCo 5 R: Touch, D: Conc, T: Ind
+
+A Momentary duration version of this spell would actually be sufficient to determine the distance and direction of the target. However, by concentrating for several rounds, the caster can also use this spell to estimate the speed and direction of the target (if the target is in motion).
+
+SENSE OF THE LODESTONE InCo 5 R: Touch, D: Conc, T: Ind
+
+CONVERGENCE OF BIRTH InCo 10 R: Touch, D: Mom, T: Ind
+
+EVALUATE THE FACING OPPONENT InCo 10 R: Eye, D: Mom, T: Ind
+
+FOOTSTEPS ON THE SACRED WAY InCo 10 R: Road, D: Conc, T: Ind
+
+PARENTAL INQUISITIVENESS InCo 10 R: Touch, D: Mom, T: Part
+
+POSE NONA’S QUESTION InCo 10 R: Touch, D: Mom, T: Ind
+
+REVEALED FLAWS OF MORTAL FLESH InCo 10 R: Touch, D: Mom, T: Ind
+
+THE SIGNIFICANCE OF THE GROUP InCo 10 R: Voice, D: Mom, T: Group
+
+WHISPERS THROUGH THE BLACK GATE InCo(Me) 15 R: Touch, D: Conc, T: Ind
+
+NUMBERING THE HOST InCo 15 R: Per, D: Mom, T: Sight
+
+THE GENETHLIALOGICAL INVESTIGATION InCo 15 R: Voice, D: Mom, T: Ind
+
+THE MACULATE NOBLEWOMAN InCo 15 R: Touch, D: Mom, T: Ind
+
+VERIFYING THE PRESENCE OF ARTEMIS’ BLESSING InCo 15 R: Touch, D: Sun, T: Ind
+
+DIVINING THE TRUE HEIR InCo 20 R: Touch, D: Mom, T: Group
+
+ENERGY SENSE InCo(Me) 20 R: Voice, D: Mom, T: Ind Req: Mentem The caster senses the Fatigue status of the target (winded, weary, tired, etc.).
+
+PULL OF BLOOD InCo 20 R: Touch, D: Mom, T: Bloodline, Faerie This spell informs the caster of the direction and distance to each living descendant of the target. Lambert frequently casts this spell upon himself to keep track of his large family.
+
+THE INEXORABLE SEARCH InCo 20 R: Arc, D: Conc, T: Ind
+
+THE WHOLE FROM THE PART InCo 20 R: Touch, D: Conc, T: Ind
+
+SIGHT OF THE MOLTING MAGUS InCo 25 R: Per, D: Conc, T: Vision
+
+DRAW ON DIANA’S HOUNDS InCo 30 R: Unlimited, D: Conc, T: Ind, Ritual
+
+A Dexterity + Craft roll of 9 is required to create the figurine depicting the quarry. The figurine created is approximately three inches tall. To determine the location of the target more precisely, the caster may create a smaller figurine. For each halving of the size of the figurine, increase the Ease Factor by 3.
+
+FROM THIS LINE DESCENDED InCo 30 R: Arc, D: Mom, T: Ind
+
+THE EYE OF THE SAGE InCo(Im) 30 R: Arc, D: Conc, T: Ind
+
+KNOW THE QUALITY OF THE MAN InCo 35 R: Touch, D: Year, T: Ind, Ritual
+
+A FATHER’S CONCERN InCo 40 R: Adelphixis, D: Mom, T: Group
+
+EARS OF THE HARE MuCo(An) 4 R: Per, D: Sun, T: Ind
+
+EYES OF THE HAWK MuCo(An) 4 R: Per, D: Sun, T: Ind
+
+TRACK BY SCENT MuCo(An) 4 R: Per, D: Sun, T: Ind Req: Animal For the duration of the spell, the caster’s sense of smell is as sensitive as a staghound’s. Being a hunter through-and-through, Tolides frequently employs this spell to track down those who try to escape the punishment he has decided to deal them.
+
+BUSHY TAIL OF THE BRANCH-DANCER MuCo(An) 5 R: Touch, D: Sun, T: Ind
+
+EYES OF THE CAT MuCo(An) 5 R: Touch, D: Sun, T: Ind
+
+EYES OF THE FISH MuCo 5 R: Touch, D: Sun, T: Ind
+
+FORGING THE BONE COVER MuCo 5 R: Touch, D: Conc, T: Ind
+
+SLIME OF THE MUCK-DWELLER MuCo(An) 5 R: Touch, D: Sun, T: Ind
+
+SURE-FOOTEDNESS OF THE CRAG-LEAPER MuCo(An) 5 R: Touch, D: Sun, T: Ind
+
+THE SUCCUBUS’S TRICK MuCo 5 R: Per, D: Sun, T: Ind
+
+WEBBED TOES OF THE POND-DWELLER MuCo(An) 5 R: Touch, D: Sun, T: Ind
+
+ASSUME THE STATURE OF THE GIANTS OF ELD MuCo 10 R: Per, D: Diam, T: Ind
+
+AVALANCHE OF FLESH AND STEEL MuCo 10 R: Touch, D: Conc, T: Group
+
+BLOOD OF MY ENEMY MuCo 10 R: Per, D: Sun, T: Part
+
+DISGUISE OF THE NEW VISAGE MuCo 10 R: Per, D: Sun, T: Part
+
+DISGUISE OF THE NEW VISAGE MuCo 15 R: Touch, D: Sun, T: Part
+
+EASE THE SUFFERING OF CHILDBIRTH MuCo 15 R: Touch, D: Sun, T: Part
+
+EYES FROM THE WIZARD TORN Mu(In, Re)Co(Im) 15 R: Per, D: Conc, T: Part
+
+PRETERNATURAL GROWTH AND SHRINKING MuCo 15 R: Touch, D: Sun, T: Ind
+
+ARM OF THE INFANT MuCo 20 R: Voice, D: Sun, T: Part
+
+EYES OF THE HOUSECATS MuCo(An) 20 R: Voice, D: Sun, T: Group
+
+FACE OF MOLDED CLAY Mu(Pe)Co 20 R: Touch, D: Sun, T: Part
+
+HIGH TREE OR SMALL BOULDER MuCo 20 R: Voice, D: Sun, T: Ind
+
+PUT ON THE WHOLE ARMOR OF GOD, THAT YOU MAY BE ABLE TO STAND AGAINST THE SCHEMES OF THE DEVIL
+
+SPIRIT OF THE BULL OF MINOS MuCo(An) 20 R: Touch, D: Year, T: Ind, Ritual
+
+THE TWISTED SPINE Mu(Pe)Co 20 R: Voice, D: Sun, T: Ind
+
+GIFT OF THE BEAR’S FORTITUDE MuCo 25 R: Per, D: Sun, T: Ind
+
+SHAPE OF THE WOODLAND PROWLER MuCo(An) 25 R: Touch, D: Sun, T: Ind
+
+THE BLESSING OF STARKAD MuCo 25 R: Touch, D: Sun, T: Part
+
+THE DESERT WANDERER MuCo(An) 25 R: Per, D: Sun, T: Ind
+
+TURB OF GIANTS MuCo 25 R: Touch, D: Diam, T: Group
+
+CLOAK OF BLACK FEATHERS MuCo(An) 30 R: Per, D: Sun, T: Ind
+
+CURSE OF CIRCE MuCo(An) 30 R: Voice, D: Sun, T: Ind Req: Animal Turns a person into a pig.
+
+GIFT OF THE MINOTAUR MuCo(An) 30 R: Touch, D: Sun, T: Part
+
+THE CHARIOT OF ZEUS MuCo(Au) 30
+
+R: Per, D: Mom, T: Ind Req: Auram Transforms the caster into a thunderbolt (equivalent to an insubstantial object). In this form he can move literally at the speed of lightning to any location he can see. There must be an unobstructed path between the caster and his destination. Upon arrival the caster transforms back into his normal shape with a mighty crack of thunder. Anyone within 2 paces of his destination must make a Size stress roll against an Ease Factor of 6 to remain standing. The caster can choose the location of another person as his destination, in which case he inflicts +30 damage to that individual and arrives standing next to her. If he strikes a building he arrives on the roof, and the building must make a stress check (City & Guild, page 77) or take six damage levels; wooden buildings catch fire even if they survive.
+
+THE SHADOW ON THE SAND MuCo(An) 30
+
+R: Per, D: Sun, T: Ind Req: Animal The ability to take the shape of a vulture allows Alexander to forage for food, and travel swiftly over areas that do not interest him. Vultures have exceptionally keen eyesight, so he is able to observe distant events on the ground in this form. Vultures are also considered birds of ill-omen, and he has occasionally used this shape to unnerve mundanes. Alexander has a strand of vulture feathers that he uses as a physical prop to allow this spell to be canceled at will.
+
+CLOAK OF FINS AND SCALES MuCo(An) 35
+
+R: Touch, D: Sun, T: Ind Req: Animal The caster hangs a small cape of fish scales on the back of the target and the target transforms into a naturally occurring fish of the same approximate size as the original target. The target may choose to change back to human form at any time, but doing so ends the spell. Fish and other naturally aquatic creatures do not suffer any penalties due to pressure.
+
+FORM OF THE AQUATIC PREDATOR MuCo(An) 35
+
+R: Per, D: Sun, T: Ind Req: Animal The caster hangs a small cape of shark scales on his back and transforms into a large shark of size +2 as described in the accompanying sidebar (found in Legends of Hermes). The caster may choose to change back to human form at any time but doing so ends the spell. Fish and other naturally aquatic creatures do not suffer any penalties due to pressure.
+
+SHAPE OF THE CREEPING IVY MuCo(He) 35
+
+R: Per, D: Sun, T: Ind Req: Herbam You turn yourself into an ivy plant about 12 feet long or high. You can sense only the most basic things, such as night and day, strong winds, and things that can affect a plant. You can resume human form at will, but doing so ends the spell. While in ivy form, you do not heal any wounds or restore any Fatigue levels. The ivy leaf you use to let yourself change back determines the kind of ivy the target becomes, and you cannot cast the spell without the leaf.
+
+STANCE OF THE PATIENT TREE MuCo(He) 35
+
+R: Per, D: Sun, T: Ind Req: Herbam You turn yourself into a tree about 12 feet high, with a trunk about a foot thick. You can sense only the most basic things, such as night and day, strong winds, and things that can affect a tree. You can resume human form at will, but doing so ends the spell. While in tree form, you do not heal any wounds or restore any Fatigue levels. The tree branch you use to let yourself change back determines the kind of tree the target becomes, and you cannot cast the spell without the branch.
+
+THE FROZEN WOMB MuCo 35
+
+R: Touch, D: Year, T: Unborn Child, Ritual Special: Requires Fertility Ritual Magic Virtue This Ritual spell freezes the development of an unborn child for a year. The spell does not damage either the child or the mother — although the mother may be seriously inconvenienced by a delayed late-term pregnancy — but both mother and child gain Warping Points due to being under the influence of a constant, high-power mystical effect (see Ars Magica Fifth Edition, page 167).
+
+A PUNISHMENT FOR BRIGANDS MuCo(An) 40
+
+R: Voice, D: Sun, T: Ind Req: Animal This spell transforms a human into a mouse. While in mouse form, the victim of this spell may be affected by Circle of Beast Warding, which prevents him or her from fleeing if cast swiftly enough. This allows the mouse to be gathered into a bag and transferred to a place of confinement, or casually destroyed.
+
+CLOAK OF MIST MuCo(Au) 40
+
+R: Per, D: Sun, T: Ind Req: Auram You turn yourself into a thick, cohesive mist of approximately human size. You can float through the air at walking speed and can see and hear what is going on around you. You can also seep through cracks, but cannot move through solid objects. You may return to human form at any time, but doing so ends the spell. As mist, you are subject to the forces of the wind. In order to cast this spell, you must inhale some mist, and you keep the mist in your “mouth” until you want to end the spell.
+
+FORM OF THE ZEPHYR MuCo(Au) 40
+
+R: Per, D: Sun, T: Ind Req: Auram Transforms the caster into a strong gale wind. She flies at 50 miles an hour, but can increase this speed to that of a violent storm wind — 75 miles per hour — by expending a Long Term Fatigue level. She can travel at this increased speed for no more than an hour without expending another Fatigue level. This ability to gust is intrinsic to the type of wind into which the caster turns, much as the Cloak of Mist (Ars Magica Fifth Edition, page 131) allows the caster to seep through cracks like natural mist. Note that because this spell turns the caster into a gale wind, she cannot travel any more slowly than 50 miles an hour. A different spell (of the same level) is needed to turn into a more gentle wind. The caster inhales a gust of wind to cast this spell, and can end the spell and transform back into human form by letting this captured wind free. While in the form of a wind, she can attempt to bowl over any object her size or smaller; this requires making roll of Strength + Concentration + stress die against the target’s Stamina + stress die. The defender may add Athletics to their roll if they are braced for the attack. If the caster’s roll exceeds her opponent’s, then the target is knocked off his feet and flung backwards one foot for every point of the difference. As a violent storm wind, the target is instead flung three feet per point of the difference. Falling damage (Ars Magica Fifth Edition page 181) is inflicted on those knocked over; hitting an obstruction before the full distance flung back is reached counts as falling onto a hard surface (such as a wall) or a soft surface (such as a haystack). Knocking over inanimate objects has an Ease Factor of 9 + (3 x its Size).
+
+SHAPE OF THE ANCIENT KITE MuCo(An) 40
+
+R: Touch, D: Moon, T: Ind Req: Animal You transform the target into a hawk, kite, or other small raptor, and any books carried by the target or clothing made of animal products that the target is wearing are also transformed. The spell is harnessed and tethered, so that the target has control of the spell and can end the effect at will, returning easily to human form when necessary.
+
+SHAPE OF THE SIREN MuCo(An) 40
+
+R: Per, D: Sun, T: Part Req: Animal The caster’s body from the hips down is transformed into the tail of a large fish, keeping the same approximate size. The caster also develops gills on his throat allowing him to breathe water but inhibiting his ability to speak, imposing a –3 modifier on all rolls to communicate verbally and a –5 to spell casting totals, as if the character were speaking quietly. While in this form, the caster can move at full speed underwater and does not suffer any penalties due to pressure.
+
+THE LURKER IN THE RUSHES MuCo(An) 40
+
+R: Touch, D: Sun, T: Ind Req: Animal This spell transforms Alexander, or someone he touches, into a crocodile. Crocodiles are fearsome foes in combat around water, and the stealth of the crocodile makes grogs that have experience with the form into useful amphibious or aquatic scouts. Alexander has a crocodile skin dagger scabbard, which he uses to cancel the spell at will.
+
+TRANSFORM TO WATER MuCo(Aq) 40
+
+R: Per, D: Sun, T: Ind Req: Aquam You turn yourself into water, one pint for every pound of your weight. As water, you can hold yourself together unless someone makes an effort to separate part of you from the rest. You can roll slowly across the ground, but cannot move uphill. You can hear sounds, feel things that touch you, and can sense temperature. You can resume human form at will, but doing so ends the spell. You cannot resume human form if a significant part of your body/water is separated from the rest. You pour a small amount of water into your hands when you cast the spell.
+
+A SOURCE OF TREMENDOUS PRIDE MuCo(An) 45
+
+R: Voice, D: Sun, T: Group Req: Animal Used to transform the covenant’s servants into a pride of lions. Medieval bestiaries recognize three varieties of lion. Male lions of the straight-maned type, which this spell produces, are lazier than female ones, and this has led to the formation of a small cadre of female warriors in the covenant, who are skilled in unarmed combat. A few carry bone weapons. Alexander sometimes uses a tail spur he carries in his trinket pouch as a physical prop to allow this spell to be canceled at will.
+
+CURSE OF THE WEREWOLF MuCo(An, Me) 45
+
+R: Touch, D: Year, T: Ind, Ritual Req: Animal, Mentem Over the course of a year, the target suffers from lycanthropy: the curse of the werewolf. With each full moon, the target transforms into the semblance of a wolf, losing both human body and mind to be replaced by lupine savagery. The effect goes beyond Hermetic understanding through the continued response to the moon without recourse to a device effect or linked trigger.
+
+THE SILENT VIGIL MuCo(Te) 45
+
+R: Per, D: Moon, T: Ind Req: Terram You can move into and become part of a rock formation that’s at least twice your size. While in the stone, you can hear what’s going on around you, but you can’t use other senses. The spell lasts until you come out, and you must come out where you went in. You have no need for food or drink, though you do age. Rolls to recover from Fatigue or wounds take twice as long to make while you are in the stone. Casting requisites are required for items you take with you into the stone.
+
+A SPELL FOR THE DEFENSE OF THE REALM AGAINST EXPECTED INVASION
+
+ALTERATION OF THE BIRTH HOROSCOPE MuCo(Vi) 55
+
+R: Touch, D: Year, T: Ind, Ritual Req: Vim Using insight from the observations of three-score horoscopes, this spell masks the essential birth horoscope for the given target, altering the effects of the heavens upon the target. Horoscopes created for this individual fail unless calculated using new birth information defined during the ritual, including the place, date, and time of birth, among other factors. Effects that derive a horoscope from a magical understanding of the target function as normal, but any information gained relates to the altered birth information.
+
+MISTS OF CHANGE MuCo(An) 60
+
+R: Voice, D: Sun & Year, T: Bound, Ritual Req: Animal As this spell is cast, a whipping wind arises and patches of mist begin to roll across the landscape. Sometimes, a patch of mist suddenly envelops a person for a few seconds, during which time the victim cannot move. When the mist blows away, continuing its course, the person is left transformed into a random creature. Roll a simple die to determine the result:
+
+DRAGON’S BLOOD Mu(Re)Co(Ig, Te) 70
+
+R: Per, D: Year, T: Part, Ritual Req: Rego, Ignem, Terram This ritual changes the blood of the caster into lava. This does no harm to the caster himself, and his superheated blood means that he is immune to any heatbased damage that causes +15 or less damage (which includes lava).
+
+COVENANT OF THE DRAGON Mu(Re)Co(Ig, Te) 85
+
+R: Touch, D: Year, T: Group, Ritual Req: Rego, Ignem, Terram This ritual changes the blood of a Group of up to 100 individuals into lava. This has the same effect on each member of the Group as the ritual Dragon’s Blood. This is an efficient way (in terms of vis) of protecting an entire covenant from the heat hazards of living in a covenant located in a volcano — although each person will take 6 Warping points every year (see Ars Magica Fifth Edition, page 168).
+
+IN CHRIST’S FOOTSTEPS PeCo 5 R: Per, D: Conc, T: Ind
+
+THE CLERIC’S PATE PeCo 5 R: Touch, D: Mom, T: Part
+
+TOUCH OF THE GOOSE FEATHER PeCo 5 R: Voice, D: Mom, T: Ind
+
+BLACK ANNE’S KISS PeCo 10 R: Touch, D: Mom, T: Unborn Child Special: Requires Fertility Ritual Magic Virtue This spell wounds an unborn child, causing the fetus to abort. A Stamina stress roll against an Ease Factor of 6 must be made for the mother; if it fails she suffers a Medium Wound.
+
+CHASTISE THE UNRULY ANTAGONIST PeCo 10 R: Eye, D: Conc, T: Ind
+
+CLAW OF THE GLADIATOR PeCo 10 R: Touch, D: Mom, T: Ind
+
+CLOSE THE BLACK GATE PeCo 10 R: Touch, D: Mom, T: Ind
+
+WHEN FORTUNA BLINKS PeCo 10 R: Per, D: Mom, T: Ind
+
+DUST TO DUST PeCo 15 R: Voice, D: Mom, T: Ind Turns a dead body or mindless undead body to dust in two rounds. The spell doesn’t affect those undead possessed by spirits. To do this to an animal corpse requires a Perdo Animal spell.
+
+THE WOUND THAT WEEPS PeCo 15 R: Voice, D: Mom, T: Ind
+
+TRAITOR’S COIN PeCo 15 R: Touch, D: Bargain/Mom, T: Ind If the target breaks the bargain made when this spell is cast, then a hideous scar, a brand of an ancient Greek coin, appears on his forehead.
+
+FIST OF CRIPPLING PeCo 20 R: Touch, D: Mom, T: Ind
+
+INNER DARKNESS UNLEASHED PeCo 20 R: Sight, D: Mom, T: Ind
+
+A wound opens on the body of the affected target, releasing black, oozing liquid similar to oil or tar. As it flows, the black substance is gradually replaced by the victim’s normal blood flow, effectively creating a Light Wound.
+
+INVOCATION OF WEARINESS PeCo 20 R: Voice, D: Mom, T: Ind
+
+KISS OF AGING PeCo 20 R: Touch, D: Mom, T: Ind
+
+BANE OF THE DECREPIT BODY PeCo 25 R: Voice, D: Mom, T: Ind
+
+BLIND THE INSURGENT PACK PeCo 25 R: Voice, D: Mom, T: Group
+
+CURSE OF THE LEPROUS FLESH PeCo 25 R: Touch, D: Mom, T: Ind
+
+GRIP OF THE CHOKING HAND PeCo 25 R: Voice, D: Conc, T: Ind
+
+INVOCATION OF THE GIANT’S WEARINESS PeCo 25 R: Voice, D: Mom, T: Ind
+
+THE WOUND THAT WAILS PeCo 25 R: Voice, D: Mom, T: Ind
+
+TRAP FOR THE THIEF IN THE NIGHT Pe(In)Co 25 R: Voice, D: Event (Mom), T: Ind, Ritual
+
+CIRCLE OF LETHARGY PeCo 30 R: Touch, D: Ring, T: Circle
+
+EVISCERATION OF A THOUSAND KNIVES PeCo 30 R: Voice, D: Mom, T: Ind
+
+INCANTATION OF THE MILKY EYES PeCo 30 R: Voice, D: Mom, T: Ind
+
+TWIST OF THE TONGUE PeCo 30 R: Voice, D: Mom, T: Part
+
+REPOSE OF THE ETERNAL MOMENT PeCo 35 R: Touch, D: Year, T: Ind, Ritual
+
+THE HAMMER FALLS PeCo 35 R: Arc, D: Mom, T: Ind
+
+BURN HIS EYES OUT PeCo 40 R: Arc, D: Mom, T: Ind
+
+CLENCHING GRASP OF THE CRUSHED HEART PeCo 40 R: Voice, D: Mom, T: Ind
+
+THE KISS OF DEATH PeCo 45 R: Touch, D: Mom, T: Ind
+
+THE END OF HATRED PeCo 50 R: Adelphixis, D: Mom, T: Ind
+
+CURSE OF THE UNPORTENDED PLAGUE PeCo 55 R: Sight, D: Mom, T: Bound, Ritual
+
+FOLLOWER’S BANE ReCo 10 R: Road, D: Sun, T: Ind
+
+BEFUDDLED SPEAKER ReCo 5 R: Touch, D: Sun, T: Ind
+
+CURSE OF THE BABY’S BLADDER ReCo 5 R: Voice, D: Mom, T: Part
+
+CURSE OF THE UNRULY TONGUE ReCo 5 R: Voice, D: Conc, T: Ind
+
+SPASMS OF THE UNCONTROLLED HAND ReCo 5 R: Voice, D: Conc, T: Ind
+
+GIFT OF THE TORTURED BOWELS ReCo 10 R: Eye, D: Mom, T: Ind
+
+RISE OF THE FEATHERY BODY ReCo 10 R: Touch, D: Conc, T: Ind
+
+SEALING THE LIPS ReCo 10 R: Voice, D: Sun, T: Ind
+
+MARKING THE TERRITORY ReCo 15 R: Per, D: Ring, T: Scent
+
+DESPAIR OF THE QUIVERING MANACLES ReCo 15 R: Voice, D: Conc, T: Ind
+
+ENDURANCE OF THE BERSERKERS ReCo 15 R: Per, D: Conc, T: Ind
+
+A character under the influence of this spell does risk worsening wounds, but he may not notice.
+
+GIFT OF THE FROG’S LEGS ReCo 15 R: Touch, D: Mom, T: Ind
+
+LIFTING THE DANGLING PUPPET ReCo 15 R: Voice, D: Conc, T: Ind
+
+RETREAT INTO THE SHELL OF SHADOW ReCo 15 R: Per, D: Mom, T: Ind
+
+STEP SIDEWAYS ReCo 15 R: Per, D: Mom, T: Ind
+
+THE PROMENADE OF CAESAR ReCo 15 R: Touch, D: Mom, T: Unborn Child
+
+TRAP OF AMBER ReCo 15 R: Touch, D: Diam, T: Ind The caster freezes the target in place for the duration of the spell. As well as being unable to move, the target can neither speak nor use gestures in spell casting, and he takes the appropriate penalties if he does try to cast spells regardless.
+
+WIZARD’S LEAP ReCo 15 R: Per, D: Mom, T: Ind
+
+A BRIDGE WITHOUT WOOD ReCo 20 R: Touch, D: Mom, T: Ind
+
+ARACHNE’S TUITION ReCo 20 R: Eye, D: Sun, T: Ind
+
+IT WILL BE HEALTH TO YOUR FLESH, AND STRENGTH TO YOU BONES ReCo 20
+
+R: Per, D: Sun, T: Ind Special: Requires Holy Magic The target’s body acts as if unwounded and unfatigued. Wound and fatigue penalties do not apply until the spell expires, and wounds may worsen but this will not be apparent until the spell ends, when accumulated Fatigue takes effect (and may leave the target unconscious). Consecutive castings delay the end of the spell, putting off the time until the accumulated wounds take effect — but the body can only take a number of consecutive castings equal to its Size + 2. Further castings have no effect.
+
+JUMP OF THE LYNX ReCo 20 R: Per, D: Diam, T: Ind
+
+MERCURY’S WINGED SANDALS ReCo 20 R: Per, D: Conc, T: Ind
+
+REMAIN WITHIN THOSE WALLS ReCo 20 R: Touch, D: Ring, T: Arcane Circle
+
+A variant on a warding theme, this spell cast with an Arcane Circle target both imprisons people within its bounds and prevents them from crossing into the Arcane Circle.
+
+STANCE OF THE FIRM-BUTTOCKED KNIGHT ReCo 20 R: Per, D: Sun, T: Ind
+
+THE GIFT OF VIGOR ReCo 20 R: Touch, D: Mom, T: Ind
+
+THE PROTESTING ADVERSARY HELD STILL ReCo 20 R: Voice, D: Conc, T: Ind
+
+THE TIRELESS FLIGHT ReCo 20 R: Touch, D: Conc, T: Ind
+
+TOSSING THE BRAWLING BRUTE ReCo 20 R: Voice, D: Mom, T: Ind
+
+AWAKEN THE SLUMBERING CORPSE ReCo 25 R: Voice, D: Conc, T: Ind
+
+BLESSED RELIEF OF THE BENIGHTED REINS ReCo 25 R: Touch, D: Mom, T: Part
+
+DIVISION ACCORDING TO BLOOD Re(In)Co 25 R: Touch, D: Mom, T: Part
+
+SEVER THE UNWANTED LIMB ReCo 25 R: Touch, D: Mom, T: Ind
+
+STILLNESS OF THE DEAD ReCo(An) 25 R: Touch, D: Sun, T: Ind
+
+STRINGS OF THE UNWILLING MARIONETTE ReCo 25 R: Voice, D: Conc, T: Ind
+
+THAT I MAY COME UNTO YOU WITH JOY BY THE WILL OF GOD, AND MAY WITH YOU BE REFRESHED ReCo 25
+
+R: Per, D: Mom, T: Ind Special: Requires Holy Magic Your faith in God immediately restores a single lost Fatigue level, something impossible for Hermetic magic.
+
+HOLD CHUR ReCo 30 R: Voice, D: Sun, T: Ind Holds the target completely motionless for the duration of the spell. In addition, the spell closes the eyes of the target and keeps them firmly shut, so that he is unable to see for the duration of the spell.
+
+HOUSE ARREST OF THE UNRULY CHILD ReCo 30 R: Touch, D: Ring, T: Circle
+
+IT’S RAINING MEN ReCo 30 R: Voice, D: Mom, T: Group Instantly transports the targets five paces upwards into the air, after which they drop to the ground. This inflicts damage as per the rules in Ars Magica Fifth Edition, page 181.
+
+SEVEN-LEAGUE STRIDE ReCo 30 R: Per, D: Mom, T: Ind
+
+THE MISTAKEN STEP ReCo 30 R: Sight, D: Mom, T: Ind
+
+TOPPLE THE BRUTISH BAND ReCo 30 R: Voice, D: Mom, T: Group
+
+WARD AGAINST THE CURIOUS SCULLION ReCo 30 R: Touch, D: Ring, T: Circle
+
+ANIMATE THE SLUMBERING CORPSE ReCo(Me) 35 R: Voice, D: Sun, T: Ind
+
+AWAKEN THE COLOSSUS ReCo 35 R: Voice, D: Sun, T: Ind
+
+AWAKEN THE SLUMBERING DEAD ReCo 35 R: Voice, D: Conc, T: Room
+
+SEVEN LEAGUE TRAVEL CIRCLE ReCo 35 R: Touch, D: Mom, T: Circle
+
+SEVEN LEAGUES TRAVEL ReCo 35 R: Touch, D: Mom, T: Ind
+
+THE LEAP OF HOMECOMING ReCo 35 R: Per, D: Mom, T: Ind
+
+THE WALKING CORPSE ReCo(Me) 35 R: Touch, D: Year, T: Ind, Ritual Req: Mentem Turns a corpse into a nearly mindless servant that can follow your simple verbal commands faithfully but unimaginatively. Unless the corpse is preserved with Charm Against Putrefaction or the equivalent, the body decays normally, but even a skeleton can be animated.
+
+CONTROL THE DEAD TURB ReCo 40 R: Voice, D: Sun, T: Group
+
+A group of ten corpses animate and follow the caster’s verbal commands.
+
+LICKING THE BLADE ReCo 40 R: Sight, D: Mom, T: Ind
+
+RETURN TO THE FLOW ReCo 40 R: Per, D: Mom, T: Ind
+
+THE MORPHEAN GATE Re(Mu)Co(Me) 40 R: Touch, D: Mom, T: Dream, Mystery Req: Muto, Mentem The caster is transported bodily through a portal from the real world into a dream. He is transported with all his belongings and equipment, just as if transported by a Rego Corpus spell. He remains there until the dream he is in ends, he leaves by the portal he entered through, or he finds some means to escape by using a spell.
+
+CONTROL THE DEAD ARMY ReCo 45 R: Voice, D: Sun, T: Group
+
+PASSAGE TO THE PLACE PICTURED ReCo 45 R: Per, D: Mom, T: Ind, Ritual
+
+SUMMONING THE ANCESTOR SPIRIT ReCo 45 R: Arc, D: Ring, T: Ind, Ritual
+
+THE MESSENGER’S SHORTCUT ReCo(An) 45 R: Touch, D: Mom, T: Group
+
+CONTROL THE DEAD ARMY ReCo 50 R: Voice, D: Sun, T: Group
+
+THE MOBILE INFANTRY ReCo 50 R: Touch, D: Mom, T: Group
+
+THE TESSA AND DAMEN WARDS Re(In)Co 60 R: Touch, D: Fire, T: Bound, Ritual
+
+THE IMPASSABLE RIVER ReCo 60 R: Touch, D: Moon, T: Special, Ritual
+
+THE APPRENTICE’S DELIGHT CrHe 3 R: Touch, D: Diam, T: Ind
+
+CIRCLE OF ETERNAL SPRING CrHe 4 R: Touch, D: Ring, T: Circle
+
+GROW THE BOUNTIFUL FEAST CrHe 4 R: Touch, D: Ring, T: Circle
+
+CONJURE THE STURDY VINE CrHe 5 R: Voice, D: Sun, T: Ind
+
+THE HEALTHY VINE CrHe 5 R: Touch, D: Moon, T: Ind
+
+THE MAGIC FLUTE CrHe 5 R: Touch, D: Conc, T: Ind
+
+THE WELL TENDED VINE CrHe 5 R: Touch, D: Moon, T: Ind
+
+CLOTHE THE NAKED FORM CrHe 10 R: Touch, D: Sun, T: Ind
+
+THE CREATION OF VERDANT GRASSLAND CrHe 10 R: Touch D: Mom, T: Group, Ritual
+
+STATIM SESSIO CrHe 10 R: Touch, D: Sun, T: Ind
+
+CREATE THE FLOWERS OF THE MOON CrHe 15 R: Touch, D: Moon, T: Group
+
+LADDER OF IVY CrHe 15 R: Voice, D: Sun, T: Ind This spell creates a sturdy ladder of ivy that the magus or others can use to scale any wall or (low) cliff. The ivy withers at sunrise or sunset, and can reach up about twenty paces.
+
+THE CHOKEWEED INCANTATION CrHe 15 R: Voice, D: Sun, T: Ind
+
+THE GIANT’S BEANSTALK CrHe 15 R: Voice, D: Sun, T: Ind
+
+TRAP OF THE ENTWINING VINES CrHe 15 R: Voice, D: Sun, T: Group
+
+BRIDGE OF WOOD CrHe 20 R: Touch, D: Sun, T: Ind
+
+CONJURATION OF WILD THYME CrHe 20 R: Touch, D: Mom, T: Group, Ritual
+
+FILL THE CAPACIOUS SILO CrHe 20 R: Touch, D: Mom, T: Group, Ritual
+
+HEAL THY BROKEN VOICE CrHe 20 R: Touch, D: Mom, T: Ind, Ritual
+
+A badly made instrument cannot be repaired beyond the height of its playing life, so it retains any flaws it had before it was damaged. An enchanted instrument can be made whole again, but any magical enchantments lost as a result of damage are not restored.
+
+PLANT THE BOUNTIFUL FEAST CrHe 20 R: Touch, D: Mom, T: Group, Ritual
+
+SHADE THE SCORCHED EARTH CrHe 20 R: Touch, D: Mom, T: Bound, Ritual
+
+SPROUTING OUT OF SEASON CrHe 20 R: Touch, D: Sun, T: Ind
+
+THE APPLE THAT ETCHES CrHe 20 R: Touch, D: Mom, T: Group, Ritual
+
+THE CREATION OF ACORNS APLENTY CrHe 20 R: Touch D: Mom, T: Group, Ritual
+
+THE MINIATURE OF IMMORTALITY CrHe(An, Te) 20 R: Voice, D: Mom, T: Ind, Ritual
+
+THE TRAVELERS’ FORTRESS OF CLOTH CrHe 20 R: Touch, D: Sun, T: Group
+
+WALL OF THORNS CrHe 20 R: Voice, D: Sun, T: Group
+
+WEAVER’S TRAP OF THREADS CrHe 20 R: Voice, D: Sun, T: Group
+
+A huge net of thick threads grows in the indicated area, filling a space 5 paces by 5 paces by 6 feet high. With supports the nets can hang vertically, forming a wall, otherwise they act just like a fishing net. Everyone caught in the area is captured within the nets. Getting free requires a Strength stress roll against an Ease Factor of 9; or else someone who is not trapped may use an edged weapon to free a victim, which takes three rounds. Fire is exceptionally effective against the nets, but risks burning anyone caught within. The nets are not sticky, and cannot trap anyone who stumbles into them.
+
+CONJURE THE MIGHTY BARN CrHe 25 R: Touch, D: Mom, T: Ind, Ritual
+
+THE ENVENOMED THORNS CrHe 25 R: Touch, D: Sun, T: Ind
+
+WALL OF LIVING WOOD CrHe 25 R: Voice, D: Sun, T: Ind
+
+A straight wall of living oak is created, growing quickly from nearby trees, other plant growth, or fertile earth. The wall is 20 paces long, 1 pace thick, and 5 paces high. It can be scaled with an Athletics stress roll against an Ease Factor of 9.
+
+FAST GROW CrHe 30 R: Touch, D: Sun, T: Ind This spell brings a plant to full maturity in a single day or night. Note that the spell must be cast soon after sunrise or sunset for the duration to be long enough for its effect.
+
+RUNNING REPAIRS CrHe(Te) 30 R: Touch, D: Mom, T: Str, Ritual Req: Terram This ritual repairs a single damage level to a vessel, represented by the magus identifying and targeting the damaged area of the ship. This ritual may be cast on a ship that has lost multiple damage levels, but only one of those levels will be repaired. A Terram requisite is required to mend or replace bolts, nails, and other fixtures.
+
+CONJURATION OF BREAD CrHe 35 R: Touch, D: Mom, T: Group, Ritual
+
+THE BOUNTIFUL FEAST CrHe 35 R: Touch, D: Year, T: Special, Ritual
+
+FORTRESS OF OAK Cr(Mu)He(Te) 40 R: Touch, D: Mom, T: Ind, Ritual Req: Muto, Terram This ritual is normally cast on an acorn from an oak tree and it works like the spell Conjuring the Mystic Tower (Ars Magica Fifth Edition, page 153) with the exception that it utilizes a tree rather than stone. The tree springs from the ground in moments, towering to its full height of around eighty feet. The tree is still alive, but it has chambers within, complete with earthen floors and earthen hearths for fires. The magus decides the shape and design of the chambers when casting the spell. If the tree dies, the tower remains, now being a dead tree.
+
+THE CREATION OF A FOREST CrHe 40 R: Touch D: Mom, T: Group, Ritual
+
+CONJURATION OF THE SEAWORTHY COG CrHe(Te) 45 R: Touch, D: Mom, T: Ind, Ritual
+
+A Terram requisite is required to create the bolts, nails, and other fixtures.
+
+REPARATION OF THE WOUNDED VESSEL CrHe(Te) 45 R: Touch, D: Mom, T: Str, Ritual
+
+A Terram requisite is required to mend or replace bolts, nails, and other fixtures.
+
+THE WOODEN HORDE CrHe 45 R: Touch, D: Moon, T: Group
+
+A HARVEST BY MORNING CrHe 50 R: Touch, D: Sun, T: Group
+
+PROBE NATURE’S HIDDEN LORE InHe 4 R: Touch, D: Mom, T: Ind
+
+HUNT FOR THE WILD HERB InHe 5 R: Per, D: Conc, T: Smell
+
+INTUITION OF THE FOREST InHe 10 R: Touch, D: Sun, T: Group
+
+SHRIEK OF THE IMPENDING SHAFTS InHe 15 R: Per, D: Sun, T: Hearing
+
+THE CARPENTER’S KEEN EYE InHe 15 R: Voice, D: Mom, T: Group
+
+CONVERSE WITH PLANT AND TREE InHe 25 R: Touch, D: Conc, T: Ind
+
+COMPREHENDING THE MYSTIC DOORWAY InHe 30 R: Touch, D: Mom, T: Str
+
+PASS THE UNYIELDING PORTAL MuHe 5 R: Touch, D: Diam, T: Ind
+
+TRANSFORMATION OF THE THORNY STAFF MuHe 10 R: Touch, D: Sun, T: Ind
+
+PIERCING SHAFT OF WOOD Mu(Re)He 10 R: Voice, D: Mom, T: Ind
+
+AEGIS OF UNBREAKABLE WOOD MuHe 15 R: Touch, D: Sun, T: Ind.
+
+ROPE OF BRONZE MuHe(Te) 15 R: Touch, D: Sun, T: Ind Req: Terram Turns a piece of rope (made from plant material) into refined, superior bronze, which does not break under normal circumstances.
+
+THAUMATURGICAL TRANSFORMATION OF PLANTS TO IRON MuHe(Te) 20
+
+R: Touch, D: Sun, T: Ind Req: Terram Makes any plant, dead or alive, as hard as iron. Affects any amount of continuous plant material up to the size of a small tree. Sharpedged plants can become deadly when they are made this hard.
+
+GIGANTIC GROWTH MuHe 25 R: Touch, D: Sun, T: Ind
+
+HOW GOD CREATED THEM MuHe(An) 25 R: Voice, D: Mom, T: Group
+
+RAZOR THORNS MuHe(Te) 25 R: Voice, D: Diam, T: Group Req: Terram This spell causes razor-sharp thorns to spring out of every plant or plant-made product in an area within the range of the caster’s voice. These thorns deal +10 damage to up to a standard group of people (up to ten). The thorns eventually retreat, but they remain for roughly two minutes and can still act as a viable deterrent as the thorns are still just as sharp as a knife. (Base 4, +2 Voice, +1 Diameter, +2 Group) Source: Magi of Hermes, 39
+
+STIR THE SLUMBERING TREE MuHe(Me) 25 R: Touch, D: Sun, T: Ind
+
+A POCKETFUL OF SOLDIERS MuHe 30 R: Touch, D: Diam, T: Group
+
+BLADES OF GRASS, LEAVES OF CUTTING MuHe 30 R: Voice, D: Sun, T: Group
+
+BAG OF FEATHERS MuHe(An) 35
+
+R: Touch, D: Moon, T: Group Req: Animal This spell is used to lessen the load carried by expeditions, by transforming all of the food supply they must carry, excepting that required during the spell’s duration, into feathers. In Alexander’s case each type of food becomes a different color and pattern of feather, so that servants who travel with him learn to read which feather is which provision. Food in feather form does not spoil, although it often tastes slightly of chicken after it regains its original form. Note that the food does not change back when the caster wishes; without Perdo Vim magic, he must wait for the duration to end.
+
+LOCKED STOREHOUSE MuHe(Te) 45
+
+R: Touch, D: Year +1, T: Str, Ritual, Faerie Req: Terram This spell changes a building and the building’s contents into a large rock of hard igneous stone for a year and a day. The rock is typically significantly smaller than the altered building (having approximately the same mass as the building), and is buried to the depth of the building’s foundation. If there is any material containing animal products in the building (such as leather or wool), then the spell must be cast with an Animal casting requisite or the spell will not function. Over the duration of the spell, the target building and its contents age normally but do not suffer decay in any other respect; Thus no mold or water damage affect the building’s contents, but foodstuffs that have been aged for a year and a day would still be far from appetizing.
+
+AWAKEN CONSCIOUSNESS OF PLANT MuHe(Me) 55
+
+R: Voice, D: Year, T: Group, Ritual Req: Mentem This spell works exactly as the spell, Stir the Slumbering Tree (Ars Magica Fifth Edition, page 137), only it is used to awaken multiple plants at once rather than one or two at a time. Once raised, the plants have a state of consciousness that resembles that of a human. The plants can see and hear what’s going on around them and at a normal human level of perception. Such plants tend to share some mental attributes or personality traits with the caster. The plants can rearrange their leaves, stems, or branches over the course of several hours, though too slowly for people to observe the movement from second to second. The size bonus enables the spell to awaken an entire forest grove in one go.
+
+CURSE OF THE HAUNTED FOREST Mu(Pe)He 60
+
+R: Touch, D: Year, T: Group, Ritual Req: Perdo Turns a previously normal forest into a haunted and dangerous place. The trees become gnarled and hideous, and the imaginative can see menacing faces in them. The trees also become conscious and cruel; capable of sight, hearing, and limited movement. While they cannot uproot themselves, they can move their branches about, and can reach the ground in an hour or two. Only ill-tempered animals, such as boars and crows, live in these woods, and nothing in them is edible. The only knowledge of what might happen should this ritual be attempted in a faerie forest comes from ancient and disputed legends of the Order of Hermes.
+
+A SPELL TO KILL WEEDS PeHe 20 R: Touch, D: Mom, T: Group
+
+CURSE OF THE ROTTED WOOD PeHe 5 R: Touch, D: Mom, T: Ind
+
+THE COOK’S REVENGE PeHe(An) 5 R: Touch, D: Mom, T: Ind
+
+CURSE OF THE BLASTED HEATH PeHe 15 R: Touch, D: Mom, T: Part
+
+WIZARD’S AUTUMN PeHe 15 R: Touch, D: Mom, T: Group
+
+PLANT’S WITHERING BANE PeHe 20 R: Voice, D: Mom, T: Ind
+
+PRUNE PLANT Pe(Re)He 20 R: Voice, D: Mom, T: Ind Req: Rego The magus can instantly trim various parts of a plant into any shape that he wishes. The magi must specify the shape of the plant when he casts the spell. The magus cannot increase the size of the plant, nor kill a plant by over-pruning it with this spell, but he can remove or rearrange the branches and leaves in any way that he likes, just as if he where pruning it normally.
+
+THE GREAT ROT PeHe 25 R: Voice, D: Mom, T: Group Rots and destroys a large amount of dead wood, up to the amount found in a wooden house or small inn. Wooden structures creak and groan mightily for about a minute before collapsing.
+
+TREADING THE ASHEN PATH PeHe 30 R: Touch, D: Mom, T: Group
+
+TREE FALLING IN THE FOREST Pe(Re)He 35 R: Sight, D: Mom, T: Ind
+
+WILT PeHe 35 R: Voice, D: Mom, T: Part This spell causes a plant to wilt and die instantly, though it does not affect any enchantments or spells currently on the plant. Larger plants are still affected, but only parts of them at a time when the spell is cast. (Base 5, +2 Voice, +1 Part, +3 size) Source: Magi of Hermes, 39
+
+THE WIZARD’S CHEVAUCHEE PeHe 50 R: Sight, D: Mom, T: Group
+
+A USEFUL INCULCATOR OF COMMENTS ReHe 4 R: Touch, D: Mom, T: Ind
+
+WARD AGAINST FAERIES OF THE WOOD ReHe Gen R: Touch, D: Ring, T: Circle
+
+WARD AGAINST NUTRITION ReHe Gen
+
+UNNATURAL
+
+IMBALANCES
+
+OF
+
+R: Touch, D: Ring, T: Circle This ritual spell keeps supernatural magical plant diseases of a particular Realm, those originating from a supernatural source or creature with a Might score, from a small garden. It does not aid growth, or otherwise invigorate the crop. The selected base level of effect must be greater than the Might of the source of the magical plant disease, or of the disease itself if the disease has a Might score. In addition to the base effect level, the spell needs to penetrate the Magic Resistance of the magical plant disease, or more likely its source.
+
+THE CLOTHIER’S CRAFT DONE IN AN INSTANT ReHe 4 R: Touch, D: Mom, T: Ind
+
+THE DANCER’S DAME ReHe 5 R: Touch, D: Conc, T: Ind
+
+ACORNS FOR AMUSEMENT ReHe 5 R: Voice, D: Mom, T: Ind
+
+DANCE OF THE STAVES ReHe 5 R: Voice, D: Mom, T: Ind
+
+RICKETY SHACK ReHe 5 R: Voice, D: Mom, T: Ind
+
+THE MENDED TEAR ReHe 5 R: Touch, D: Mom, T: Part
+
+ENEMIES ALL AQUIVER ReHe 10 R: Touch, D: Mom, T: Group
+
+REPEL THE WOODEN SHAFTS ReHe 10 R: Voice, D: Mom, T: Ind
+
+ROUGH-HEWN SERVANT ReHe 10 R: Touch, D: Mom, T: Ind
+
+DANCE OF THE SPIDERY INK Re(Mu)He 15 R: Touch, D: Mom, T: Part
+
+DRAWING UP THE SIEGE LADDER ReHe 15 R: Voice, D: Mom, T: Group
+
+RING OF EVER BLOOM ReHe 15 R: Touch, D: Ring, T: Circle
+
+STRIKE OF THE ANGERED BRANCH ReHe 15 R: Voice, D: Conc, T: Part
+
+TANGLE OF WOOD AND THORNS ReHe 15 R: Voice, D: Conc, T: Ind
+
+THEN I WAS THE CRAFTSMAN AT HIS SIDE. I WAS FILLED WITH DELIGHT DAY AFTER DAY ReHe 15
+
+R: Touch, D: Mom, T: Ind Special: Requires Holy Magic Permanently mends a non-living product made of plant materials, sealing rips and tears and reattaching separated parts, though missing pieces are not restored.
+
+WORK OF A HUNDRED QUERNS ReHe 15 R: Touch, D: Mom, T: Group
+
+COILS OF THE ENTANGLING PLANTS ReHe 20 R: Voice, D: Conc, T: Group
+
+EMBROIDERING THE WIZARD’S ROBES ReHe 20 R: Touch, D: Mom, T: Ind
+
+EVERLASTING MUSIC ReHe(An) 20 R: Touch, D: While (being carried), T: Ind Req: Animal This spell makes a stringed, wooden instrument play music. The spell lasts until the instrument is put down, which, if it is tied to someone’s belt, might not be for a very long time. The Animal requisite is for the strings of such an instrument.
+
+FREE THE CRAWLING VINE ReHe 20 R: Per, D: Sun, T: Ind
+
+MEND THY BROKEN STRINGS ReHe 20 R: Touch, D: Mom, T: Ind
+
+THE ANIMATE ATTIRE ReHe 20 R: Voice, D: Conc, T: Ind
+
+THE ELFIN BAKER ReHe 20 R: Touch, D: Mom, T: Group
+
+TOMB OF KAINEUS ReHe 20 R: Voice, D: Mom, T: Group
+
+LORD OF THE TREES ReHe 25 R: Voice, D: Conc, T: Ind
+
+CARVED ASSASSIN ReHe 25 R: Touch, D: Sun T: Ind
+
+CONTROLLED GROWTH ReHe 25 R: Touch, D: Year, T: Ind, Ritual
+
+HALT THE PIERCING SHAFTS ReHe(Te) 25 R: Per, D: Diam, T: Ind
+
+THE MYSTICAL CARPENTER ReHe 25 R: Touch, D: Mom, T: Group
+
+THE TREACHEROUS SPEAR ReHe 25 R: Voice, D: Diam, T: Ind
+
+TREE TOP WALK ReHe 25 R: Voice, D: Conc, T: Group This spell moves the branches of nearby trees so that the magus can literally walk from one tree to the next without ever touching the ground. The trees do not uproot themselves, but they do bend in unnatural ways to help the magus reach them and walk unhindered from branch to branch. Of course, the trees’ branches still need to be strong enough to support the magus’ weight.
+
+TWIST THE LIVING TREE ReHe 25 R: Touch, D: Sun, T: Ind
+
+WARD AGAINST WOOD ReHe 25 R: Per, D: Sun, T: Ind
+
+FREEING THE STRIDING TREE ReHe 30 R: Voice, D: Conc, T: Ind
+
+PRISON FLORAL ReHe 30 R: Touch, D: Ring, T: Circle In an effort to protect his grogs, Gwidion developed this spell after discovering that many of his enchanted plants were starting to Warp under his magical effects. A circle is drawn around many of the aggressively Warped plants to help contain them and protect others from their more-bizarre effects. The spell imprisons the plant within the circle.
+
+THE UNSEEN SHIPWRIGHT ReHe(Te) 30 R: Touch, D: Mom, T: Group
+
+A Perception + Finesse roll is required against an Ease Factor set by the storyguide. The table on Covenants, page 49, is a useful guide, but a rule of thumb is that repairing a small leak or a splintered rudder is a task of average difficulty taking no more than a day for an Ease Factor of 12, while refloating a wrecked ship is almost impossible, with an Ease Factor of at least 27 (plus any modifiers that the storyguide imposes based on how long it might take a mundane shipwright to refloat the vessel).
+
+VESSEL OF THE CLOUDS ReHe 30 R: Touch, D: Sun, T: Ind
+
+A boat made of metal (or other metal object) could be made to fly using the Rego Terram base guideline of 2, +2 to affect metal. Metal is even more rigid than wood, and can bear an extra 75 points of Load in addition to itself. As before, Size modifiers lift ten times as much metal and thus ten times as much Load. The extra magnitudes have been added to this spell by analogy with the Rego Corpus guidelines.
+
+WARD AGAINST WOODLAND SPIRITS ReHe(Vi) 30 R: Touch, D: Ring, T: Circle
+
+THE HANDS OF PHERECLUS ReHe(Te) 40 R: Touch, D: Mom, T: Group
+
+CARNIVOROUS HOUSE ReHe 40 R: Touch, D: Sun T: Str
+
+THE UNEXPECTED BLOSSOM ReHe 40 R: Touch, D: Mom, T: Group
+
+CALLING THE COUNCIL OF THE TREES Re(In)He 45 R: Touch, D: Moon, T: Bound, Ritual
+
+THE INSTANT HARVEST ReHe 45 R: Touch, D: Mom, T: Group
+
+COMMAND OF THE FOREST ReHe(Me) 55 R: Touch, D: Sun, T: Group, Ritual
+
+MURDEROUS WOODLAND ReHe 55 R: Touch, D: Sun, T: Bound*, Ritual
+
+WARD AGAINST NUTRITION
+
+NATURAL
+
+IMBALANCES
+
+OF
+
+MOONBEAM CrIg 3 R: Touch, D: Conc, T: Ind Causes a gentle light, bright enough to read by, to shine down from above and illuminate the area described by your encircled arms. Lasts as long as you hold your arms in a circle.
+
+COAT OF PROMETHEUS CrIg 5 R: Touch, D: Sun, T: Ind
+
+EVENING’S COMFORT CrIg 5 R: Touch, D: Sun, T: Per
+
+PALM OF FLAME CrIg 5 R: Touch, D: Conc, T: Ind
+
+A flame leaps up in your palm, which must be upturned for the spell’s duration. The flame casts light like a torch, and can ignite very flammable items. It does no damage, and does not burn the caster.
+
+PALM OF ODOROUS FLAME CrIg 5 R: Touch, D: Conc, T: Ind
+
+A flame leaps up in your palm, which must be upturned for the spell’s duration. The flame casts light like a torch, and can ignite very flammable items. It does no damage, and does not burn the caster.
+
+REPEL WINTER’S CLUTCHES CrIg 5 R: Touch, D Conc, T: Ind
+
+SEARING TOUCH CrIg 5 R: Touch, D: Mom, T: Ind
+
+FLASH OF THE SCARLET FLAMES CrIg 15 R: Voice, D: Mom, T: Ind
+
+HEAT OF THE SEARING FORGE CrIg 10 R: Voice, D: Mom, T: Ind
+
+LAMP WITHOUT FLAME CrIg 10 R: Touch, D: Conc, T: Ind
+
+WARMTH OF THE WOOD CrIg 10 R: Touch, D: Sun, T: Part
+
+BLADE OF THE VIRULENT FLAME CrIg 15 R: Touch, D: Diam, T: Ind
+
+A brilliant red flash explodes in the air where you designate. If you target a person’s face the target needs a Stamina stress roll of 9+ to avoid temporary blindness. If the target botches the roll, he is permanently blinded. If temporarily blinded, he can try to make a simple Stamina roll of 9+ each minute to recover. The flash is equivalent to looking straight at the sun.
+
+IGNITE THE INFLAMMABLE ITEM CrIg 15 R: Voice, D: Mom, T: Ind
+
+MIEN OF HELIOS CrIg 15 R: Per, D: Diam, T: Ind
+
+TEST OF THE FLAMES CrIg 15 R: Touch, D: Ring, T: Ind
+
+THE WELCOME ADDITION OF FALSE SUNLIGHT CrIg 15 R: Touch, D: Ring, T: Ind
+
+FASTING HEARTH CrIg 20 R: Touch, D: Moon, T: Ind
+
+PILUM OF FIRE CrIg 20 R: Voice, D: Mom, T: Ind
+
+A 2-foot, thick, spear-shaped jet of fire flies from your palms, doing +15 damage to the individual it hits. (Base 10, +2 Voice) Source: Ars Magica Fifth Edition, 140
+
+ARC OF FIERY RIBBONS CrIg 25 R: Voice, D: Mom, T: Group
+
+A dozen multi-hued ribbons of flame leap from your hands and fly out as far as your voice carries, covering a 60-degree arc. All those in the arc take +10 damage. (Base 5, +2 Voice, +2 Group) Source: Ars Magica Fifth Edition, 140
+
+COAT OF FLAME Cr(Re)Ig 25 R: Voice, D: Diam, T: Ind Req: Rego The target is swathed in fire, and takes +5 damage every round while the spell is in effect. That is, the damage must be rolled against Soak twenty times during the spell. The Rego requisite ensures that the fire does not spread.
+
+THE GIFT OF MOONLIGHT CrIg 25 R: Touch, D: Moon, T: Bound, Ritual
+
+CIRCLE OF ENCOMPASSING FLAME CrIg 35 R: Voice, D: Conc, T: Ind
+
+BRILLIANCE OF THE EAGLE’S PLUMAGE CrIg 30 R: Per, D: Conc, T: Spectacle
+
+SELF IMMOLATION CrIg 30 R: Per, D: Diam, T: Ind
+
+BALL OF ABYSMAL FLAME CrIg 35 R: Voice, D: Mom, T: Ind
+
+A ball of flame shoots from your hand to strike a single target, doing +30 damage.
+
+STOCKADE OF INFERNOS CrIg 40 R: Voice, D: Conc, T: Group
+
+CONFLAGRATIVE SERVANT Cr(Re)Ig 45 R: Voice, D: Sun, T: Ind
+
+CONFLAGRATION OF LIGHT CrIg 50 R: Voice, D: Mom, T: Group
+
+DIVE OF THE DYING PHOENIX CrIg 50 R: Sight, D: Conc, T: Ind
+
+A small, flaming bird speeds from the caster to any target within sight and explodes on impact in a tremendous blast of flame, causing +30 damage and setting the target on fire as with Coat of Flame, though there is no Rego requisite to keep the flames from spreading.
+
+LAST FLIGHT OF THE PHOENIX CrIg 50 R: Touch, D: Mom, T: Ind
+
+PERCEIVE THE FIREWALKER InIg 30 R: Per, D: Conc, T: Vision
+
+TALES OF THE ASHES InIg 5 R: Touch, D: Conc T: Ind
+
+SHADOWS OF THE FIRES PAST InIg 15 R: Per, D: Mom, T: Vision
+
+VISION OF HEAT’S LIGHT InIg 20 R: Per, D: Sun, T: Vision
+
+SENSE THE HEARTS OF FIRE InIg 30 R: Per, D: Conc, T: Vision
+
+EYES OF THE FLAME InIg 35 R: Arc, D: Conc, T: Ind
+
+WORDS OF THE FLICKERING FLAME InIg 35 R: Voice, D: Conc, T: Ind
+
+THE MANY-HUED CONFLAGRATION MuIg 5 R: Voice, D: Mom, T: Ind
+
+THE SMOKELESS CAMPFIRE MuIg 5 R: Voice, D: Sun, T: Ind
+
+ENDURING FLAME MuIg 10 R: Touch, D: Sun, T: Ind
+
+A fire targeted by this spell is inextinguishable by wind or water for the spell’s duration. A fire will still burn out if it runs out of fuel while under the effect of the spell, and a candle that is the target of this spell may still be extinguished by being pinched or snuffed out. This spell was originally designed to keep a candle burning on a windy and rainy night, but it can be used on fires that are much larger in size and can even be used to allow a burning torch to be brought underwater without being extinguished. The bubbles, smoke, and turbulence caused by submerging a fire that is under the effect of this spell prevent it from being a useful method of illuminating aquatic areas.
+
+SHOW OF THE FLAMES AND SMOKE MuIg 10 R: Voice, D: Conc, T: Ind
+
+HORNET FIRE Mu(Re)Ig 10 R: Voice, D: Conc, T: Ind Req: Rego Turns a fire into a swarm of fireballs, each the size of a large insect, that fly and harass at your command. Their burning touch gives all those you indicate within 7 paces of the fire both a –3 penalty on all rolls and two extra botch dice, but they do not cause actual damage.
+
+BOREAL FLAMES Mu(Pe)Ig 15 R: Touch, D: Mom, T: Ind Req: Perdo This spell momentarily alters a fire so that rather than radiating heat, it radiates an icy cold. The colors of the target fire change from oranges and yellows to violets and blues. Any fire affected by this spell does cold damage rather than heat damage for the moment of the spell’s duration. Boreal Flames does not function on fires that are so hot that they do more than +15 damage. This spell was specifically designed to alter a casting of Pilum of Fire. Boreal Flames may be cast in conjunction with another spell; to do so the caster must make an Intelligence + Concentration roll against an Ease Factor of 15 (per Ars Magica Fifth Edition, page 82). Ranulf uses Boreal Flames in conjunction with The Patient Spell, as doing so eliminates the need for such a formidable feat of concentration.
+
+A Finesse Stress roll (Mastery of the spell reduces this to a simple roll) determines how pleasant the sound is, but the size of the fire determines how loud it is.
+
+PRISON OF FLAMES MuIg 20 R: Voice, D: Sun, T: Ind
+
+LET THIS FIRE SING YOU TO SLEEP MuIg(Im) 25 R: Voice, D: Sun, T: Part
+
+TORCH OF THE REALM-BOUND REVELER MuIg 25 R: Touch, D: Sun, T: Ind
+
+TRAPPING THE FIRE MuIg(Te) 25 R: Voice, D: Sun, T: Ind
+
+SUMMER’S BLESSING MuIg(Te) 30
+
+CONFLAGRATIOUS LANYARD MuIg(An) 30
+
+R: Touch, D: Moon, T: Ind Req: Animal This is a spell Alexander designed to avenge a personal slight. This spell transforms a large campfire into a bootlace, glove, thong, lanyard, belt, or similar leather product, for Moon Duration. When the spell’s duration expires, the campfire continues burning as a natural fire, if it has sufficient fuel and air. A person wearing the item suffers +5 Damage in the first round, and in each subsequent round provided the fire has sufficient fuel to continue burning. Alexander appears to have used this spell to burn all of his rival’s favorite clothes, by incinerating the contents of a closet. Rumors that the rival’s ship was lost at sea with all hands have never been proven.
+
+SUBLIMATION OF FLAME MuIg(Au) 30
+
+R: Voice, D: Diam, T: Ind Req: Auram This spell changes a fire elemental (or another creature made of fire) into air for a short period of time. This renders the fire elemental incapable of using many of its powers for the duration of the spell.
+
+R: Voice, D: Sun, T: Ind Req: Terram This spell turns the heat and flames of a large campfire into a small, very hard object, such as a gem or a piece of metal. If the object is broken the flame returns, but it dies if there is nothing to burn. While the spell lasts, the object is constantly emitting heat equal to a warm summer’s day; this heat warms everything within a few paces.
+
+FLAMES OF SCULPTED ICE MuIg(Aq) 35
+
+R: Voice, D: Sun, T: Ind Req: Aquam Turns a fire up to the size of a small house into ice. The ice forms beautiful sculptures of leaping flame, until it begins to melt. When the ice has melted halfway, the flames start again, but probably won’t spread, because of wet surroundings.
+
+A TIME FOR SLUMBER PeIg 5 R: Touch, D: Ring, T: Circle
+
+CHILL TOUCH OF EXPOSURE PeIg 5 R: Touch, D: Mom, T: Ind
+
+CHILL TOUCH OF EXPOSURE PeIg 5 R: Touch, D: Mom, T: Ind
+
+CLOSING THE CAMPFIRE PeIg 5 R: Touch, D: Mom, T: Ind
+
+GLOOM OF EVENING PeIg 10 R: Touch, D: Diam, T: Room
+
+LET THE SUN NOT BOTHER ME THIS DAY PeIg 10 R: Per, D: Sun, T: Ind
+
+WINTER’S ICY TOUCH PeIg 10 R: Voice, D: Mom, T: Ind
+
+A PLACE OF RECUPERATION PeIg 15 R: Touch, D: Ring, T: Circle
+
+BANISHMENT OF WARMTH PeIg 15 R: Touch, D: Ring, T: Circle
+
+EXTINGUISH THE ABHORRENT FLAME PeIg 15 R: Sight, D: Mom, T: Ind
+
+CLOAK OF DARKNESS PeIg 20 R: Sight, D: Diam, T: Part
+
+FROSTED TIMBER PeIg 20 R: Touch, D: Sun, T: Part
+
+ORB OF DARKNESS PeIg 20 R: Voice, D: Diam, T: Part
+
+QUENCH THE RAGING CONFLAGRATION PeIg 20 R: Voice, D: Mom, T: Ind
+
+SOOTHE THE RAGING FLAMES PeIg 20 R: Voice, D: Mom, T: Ind
+
+ABYSSAL TOUCH PeIg 25 R: Voice, D: Diam, T: Group
+
+CONJURATION OF THE INDUBITABLE COLD PeIg 25 R: Voice, D: Mom, T: Part
+
+WELL WITHOUT LIGHT PeIg 25 R: Touch, D: Sun, T: Str
+
+WIZARD’S ICY GRIP PeIg 30 R: Voice, D: Mom, T: Ind
+
+WIZARD’S ECLIPSE PeIg 35 R: Touch, D: Diam, T: Bound, Ritual The sun is eclipsed within the target area, making it as dark as night. The darkness begins very suddenly the superstitious are likely to panic, especially if they see that there is normal daylight just beyond the boundary of the spell.
+
+DOMAIN OF DARKNESS PeIg 45 R: Touch, D: Year, T: Bound, Ritual
+
+A brief note on the specific use of this spell that should not to be mistaken for traits or side-effects of the spell itself: The area affected by Domain of Darkness provides a haven for all creatures that shun the light. It represents Tolides’ latest attempt to establish some sort of abode in a domain of his own. Because the affected Boundary is inhabited by a practicing diabolist, and the ritual needed to cast the spell is often powered by Infernal vis, the aura of the Boundary slowly but steadily accumulates more and more traits of Infernal Warping. For example, animals that stay inside the domain for an extended period of time are likely to turn into Corrupted Beasts — repellent aberrations of nature (Realms of Power: The Infernal, page 77). One day, the affected Boundary might even become a regio of its own, which is exactly what Tolides has planned.
+
+TREMULOUS VAULT OF THE TORCH’S FLAME ReIg 5 R: Voice, D: Mom T: Ind
+
+DISCOURSE OF GLOWING TONGUES ReIg 10 R: Touch, D: Conc, T: Ind
+
+LEAP OF THE FIRE ReIg 10 R: Voice, D: Mom, T: Ind
+
+WARD AGAINST FLAME ReIg 15 R: Touch, D: Ring, T: Circle
+
+THE OBEDIENT FIRE ReIg 20 R: Voice, D: Conc, T: Ind
+
+COERCE THE SPIRIT OF FIRE ReIg 20 R: Voice, D: Conc, T: Ind
+
+COERCE THE SPIRIT OF FIRE ReIg 20 R: Voice, D: Diam, T: Ind
+
+COMMAND THE LIVING FIRE ReIg 20 R: Voice, D: Conc, T: Ind
+
+LIGHT SHAFT OF THE NIGHT ReIg 20 R: Voice, D: Conc, T: Group
+
+BURST OF THE SWEEPING FLAMES ReIg 25 R: Sight, D: Mom, T: Ind
+
+DISCRIMINATING FLAMES ReIg 25 R: Voice, D: Sun, T: Ind
+
+WARD AGAINST HEAT AND FLAMES ReIg 25 R: Touch, D: Sun, T: Ind
+
+SUMMONING THE SPIRIT OF FIRE ReIg 25 R: Arc, D: Conc, T: Ind
+
+MASTER THE AIRY SPIRIT OF FIRE ReIg 30 R: Voice, D: Moon, T: Ind
+
+PETITE PHOENIX ReIg 30 R: Voice, D: Conc, T: Ind
+
+SUMMON THE AIRY SPIRIT OF FIRE ReIg 35 R: Arc, D: Mom, T: Ind
+
+UNIFIED FLAME ReIg 35 R: Arc, D: Sun, T: Group
+
+WARD AGAINST IMMOLATION ReIg 35 R: Per, D: Diam, T: Ind
+
+SUMMON THE SPIRIT OF FIRE ReIg 40 R: Arc, D: Conc, T: Ind
+
+WARD AGAINST MUNDANE INTRUSIONS ReIg(An, Aq, Co, He) 50 R: Touch, D: Ring, T: Circle, Ritual
+
+FALSE WINDOW CrIm 5 R: Touch, D: Sun (some versions use Ring), T: Ind This spell allows the magus to trace the frame of a door or window and create a miniature that seems to show something that lies beyond the frame. A Perception + Finesse roll is required to craft a convincing illusion. The Ease Factor is 9 if the image seems to show a room, 12 if it seems to show a structure, or 15 if it seems to run to the horizon. These numbers already include the reduction for limiting the viewer’s line of sight, but could be reduced or increased by familiarity with the depicted scene.
+
+SMOKE OF ESCAPING CrIm 5 R: Touch, D: Diam, T: Ind
+
+THE STUDIOUS DOPPLEGANGER CrIm 5 R: Touch, D: Sun, T: Ind
+
+TRIGGER THE DISTANT POWER CrIm 5 R: Arc, D: Mom, T: Ind
+
+AGER BELLI Cr(Re)Im 10 R: Touch, D: Conc, T: Ind Req: Rego This illusion creates a Roman soldier. The soldier responds to the mental direction of the caster, who must maintain concentration as the soldier moves. The image contains only visual elements. This spell is used by Hermetic apprentices to play Bellum. Note that other spells can be designed that make different illusionary images. A Roman soldier is a standard image, but any Size 0 figure is allowed, including knights, club-wielding barbarians, and supernatural creatures like fauns and satyrs.
+
+FOOLING THE EYE CrIm 10 R: Sight, D: Mom, T: Part
+
+A magus using this spell creates the correct species for the swift movement of a small bright object, and casts them at the head of the target. Virtually all humans have in involuntary reflex that makes their eyes track the paths of moving objects, particularly those that might strike them. The magus uses this reflex against the victim, because when she looks where the object should be, she makes eye contact with the magus. This allows the magus to cast spells with Eye Range on the victim.
+
+PHANTASM OF THE TALKING HEAD CrIm 10 R: Voice, D: Diam, T: Ind
+
+SILENT SHOUT CrIm 10 R: Sight, D: Mom, T: Part This spell creates a burst of species, matching the caster’s voice, which strike the target in the head. This spell requires a Perception + Finesse roll against an Ease Factor of 6 to make the voice sound convincingly like that of the magus (the base Ease Factor is 9, with a –3 modifier for deep familiarity), but even if the roll fails, the target still hears the message. This spell is used on battlefields, or to instruct apprentices in the Tribunal chamber. It takes advantage of the directional nature of miniatures to prevent others from overhearing its contents.
+
+AN ENEMY AWASH IN THE PURE SIGIL OF THE MAGUS CrIm 15
+
+R: Sight, D: Conc, T: Part This spell washes the target with concentrated visible species, overloading the eyes. It requires no Finesse roll, because the species do not construct an image. In this case, the sheer number of species is being used to overload the capacity of the eye, so that the target is unable to see anything else. The spell’s name comes from its appearance, which is always based strongly on the sigil of the caster. The victim’s eyes recover two minutes after the spell is complete, or in only a round if the victim thinks to close his overburdened eyes when first struck by the spell.
+
+BOOK OF IMAGES CrIm 15 R: Touch, D: Ring, T: Ind
+
+PHANTASMAL TROUPE CrIm 15 R: Voice, D: Conc, T: Ind
+
+LOCUS OF THE LITERATUS CrIm 20 R: Touch, D: Mom, T: Ind, Ritual
+
+PHANTASMAL ANIMAL CrIm 20 R: Voice, D: Diam, T: Ind
+
+PHANTASMAL FIRE CrIm(Ig) 20 R: Voice, D: Sun, T: Ind
+
+TOLD STORY CrIm 20 R: Voice, D: Performance, T: Ind Creates the images and sounds of a story sung by the bard, which change along with the story. This spell only creates a small three-dimensional stage on which the story is told, but no true persons. Scipio can sing the story displayed on the stage without losing concentration, because of his Performance Magic (Music) Virtue.
+
+VENEFICUS ENIGMA CrIm 20 R: Touch, D: Conc, T: Ind
+
+PHANTASM OF THE HUMAN FORM CrIm 25 R: Voice, D: Sun, T: Ind
+
+THE FIRST FURROW GUIDES THE SECOND Cr(In)Im 25 R: Voice, D: Sun, T: Group
+
+THE FIRST FURROW GUIDES THE SECOND Cr(In)Im 25 R: Voice, D: Sun, T: Group
+
+CAGE OF BRONZE CrIm 30 R: Voice, D: Sun, T: Ind
+
+PHANTASMAL HORSE CrIm 30 R: Touch, D: Sun, T: Ind
+
+RAISE THE VERONESE FLAG CrIm 30 R: Voice, D: Sun, T: Group
+
+THE ONEIROPOMP’S TREASURE CrIm 30 R: Touch, D: Mom, T: Ind, Mystery, Ritual
+
+A small object (up to Size –3 — the size of a baby or a cat), is given real substance, and appears in the real world. The spell can only be used by a spiritual traveler; since he is in dream, the spell can in fact be a spontaneous ritual — but it must use real-world vis, either on the caster’s body, accessible through the Arcane Connection from dreamer to body, or brought in by a physical traveler.
+
+A copy of the object given substance appears by the side of the entranced body of the magus casting this ritual.
+
+TO MARK WITH UMBRAGE CrIm 30 R: Sight, D: Sun, T: Group
+
+ETERNAL REPETITION IN A BOTTOMLESS POOL CrIm 35 R: Arc, D: Sun, T: Ind
+
+HAUNT OF THE LIVING GHOST Cr(In)Im 35 R: Arc, D: Conc, T: Ind
+
+STORY OF LEGEND CrIm 35 R: Voice, D: Performance, T: Group This spell is similar to Told Story, but instead of creating a small stage as an Individual, this spell can create up to 100 persons or things like clouds, small dragons, and so on.
+
+DOPPELGANGER CrIm(Me) 40 R: Touch, D: Sun, T: Ind
+
+IMAGE OF THE LADY CrIm(Me) 40 R: Touch, D: Ring, T: Ind
+
+THE SHADOW OF HUMAN LIFE CrIm(Me) 40 R: Touch, D: Sun, T: Ind
+
+GARDEN OF EDEN CrIm 45 R: Voice, D: Conc, T: Part
+
+THE SHROUD CUT OF WINTER’S CLOTH CrIm(Me) 45 R: Touch, D: Year, T: Bound, Ritual
+
+DISCERN IMAGES OF TRUTH AND FALSEHOOD InIm Gen R: Per, D: Conc, T: Vision
+
+THE DISCERNING EYE InIm Gen R: Per, D: Sun, T: Vision
+
+FINGERS FOR EYES InIm 5 R: Touch, D: Diam, T: Room
+
+PRYING EYES InIm 5 R: Touch, D: Conc, T: Room You can see inside a room, as long as you can touch one of its walls. If the room is unlit or poorly lit, you can only see as much as you could if you were inside, but magical enhancements of your senses do apply. You may change your viewpoint within the room throughout the duration of the spell.
+
+SPY THE APPROACHING GROG InIm 5 R: Touch, D: Conc, T: Room
+
+A touch of a wall allows the caster to peer around the corner without entering the room. Great for sneaking down to the lab or the kitchen without being caught. This spell is designed to be cast forcelessly, as to not accidentally scry on another magus.
+
+TRAVELER’S FORESIGHT InIm 5 R: Road, D: Conc, T: Ind
+
+DISCERN OWN ILLUSIONS InIm 15 R: Per, D: Sun, T: Vision
+
+PALM OF HEARING InIm 10 R: Touch, D: Diam, T: Hearing
+
+THE BRUSHSTROKES REVEALED InIm 10 R: Touch, D: Ring, T: Circle
+
+THE COPYIST’S CRITICAL EYE InIm 10 R: Per, D: Conc, T: Vision
+
+AN EAR FOR DISTANT BELLS InIm 15 R: Per, D: Conc, T: Hearing
+
+HEARING THE SILENT CHORUS InIm 15 R: Per, D: Conc, T: Hearing
+
+PALM OF SEEING InIm 15 R: Touch, D: Diam, T: Vision The caster can see from the perspective of the target. This spell must Penetrate in order to sense creatures with Magic Resistance. Ariane has learned this spell to cast down an Intangible Tunnel.
+
+THE EAR FOR DISTANT VOICES InIm 20 R: Arc, D: Conc, T: Room
+
+THE SCRYING POOL InIm 20 R: Arc, D: Conc/Special, T: Ind, Ritual This ritual allows the caster to see an image of the target and his immediate surroundings in the surface of the pool of water in the Scrying Office (in the Basillica). The ritual is specifically designed for this pool; another similar pool cannot be used.
+
+EYES OF THE EAGLE InIm 25 R: Per, D: Sun, T: Vision
+
+SUMMONING THE DISTANT IMAGE InIm 25 R: Arc, D: Conc, T: Room
+
+TO SEE AS THOUGH A PLETHRON DISTANT InIm 25 R: Sight, D: Conc, T: Special
+
+SIGHT OF THE BLOSSOM, EARS OF THE OAK InIm 30 R: Arc, D: Sun, T: Group
+
+A PESTILENCE OF FLEAS MuIm 4 R: Voice, D: Diam, T: Ind
+
+FAERIE FLUTE MuIm 4 R: Touch, D: Sun, T: Ind
+
+THE CLANDESTINE MASK MuIm 4 R: Per, D: Sun, T: Ind
+
+VOICE OF THE LEUCROTA MuIm 4 R: Touch, D: Sun, T: Ind
+
+A VISIBLE DEMAND FOR REPAIR MuIm 5 R: Touch, D: Ring, T: Circ
+
+CONFOUND THE RIVAL SINGER MuIm 5 R: Sight, D: Conc, T: Ind
+
+A somewhat mischievous spell, Yestin devised this in order to give himself an unfair advantage over his mundane rivals. The target of the spell is a singer’s voice (or the sound produced by a single musical instrument), and the spell allows the caster to pull that voice in all manner of directions. For example, it pulls notes higher, pushes them lower, draws them out longer, or cuts them off sharply.
+
+TASTE OF THE SPICES AND HERBS MuIm 5 R: Touch, D: Sun, T: Ind
+
+A setting’s worth of food or drink tastes and smells exactly as you designate.
+
+THE FALSE DUNE MuIm 5 R: Touch, D: Ring, T: Circle Sometimes Alexander can’t just make an unnaturally cool, dark space, surrounded by a moat of scorpions, when he wants to camp. This spell changes the way his camp looks and sounds. He often makes it appear to be a sand dune or copse of trees.
+
+AURA OF BEGUILING APPEARANCE MuIm 10 R: Touch, D: Sun, T: Ind
+
+AURA OF CHILDLIKE INNOCENCE MuIm 10 R: Touch, D: Sun, T: Ind
+
+AURA OF CHILDLIKE INNOCENCE MuIm 10 R: Touch, D: Sun, T: Ind
+
+AURA OF THE ENNOBLED PRESENCE MuIm 10 R: Touch, D: Sun, T: Ind
+
+COMELINESS OF THE CRONE MuIm 10 R: Touch, D: Sun, T: Ind
+
+NOTES OF A DELIGHTFUL SOUND MuIm 10 R: Touch, D: Sun, T: Room
+
+SAFEGUARD THE CLANDESTINE CONVERSATION Mu(Re)Im 10 R: Touch, D: Ring, T: Circle
+
+AURA OF THE SIMPLE BARD MuIm 15 R: Touch, D: Sun, T: Ind
+
+DISGUISE OF THE TRANSFORMED IMAGE MuIm 15 R: Touch, D: Sun, T: Ind
+
+SIGHT OF THE WARM SURFACE MuIm 15 R: Touch, D: Conc, T: Vision
+
+THE PETRINE DECEPTION MuIm 15 R: Voice, D: Conc, T: Group
+
+BALL OF ABYSMAL MUSIC MuIm(Vi) 20 R: Voice, D: Mom, T: Ind
+
+GLOWING FOOTPRINTS OF THE THIEF MuIm 20 R: Sight, D: Conc, T: Group
+
+IMAGE PHANTOM MuIm 20 R: Touch, D: Sun, T: Ind
+
+SAFE HAVEN MuIm 20 R: Touch, D: Moon, T: Str Changes the image of a building, even one quite extravagant like a small wizard’s tower, to a that of a poor and small hut.
+
+LIVING FIRE MuIm 25 R: Voice, D: Fire, T: Ind This spell alters the image, sound, and smell of campfire or bonfire to something the caster chooses, such as a dancing woman or a dragon’s head. The real flame is not changed, so you won’t be burned by the parts of the image that extend outside of it, like the flaming breath of the dragon’s head.
+
+OGRE’S STENCH MuIm 30 R: Voice, D: Sun, T: Group You change the targets’ smell (up to 100 people) in such a disgusting and awful way that they and every person near them must make Stamina rolls against an Ease Factor of 6 or act with a –3 penalty to all rolls. If they botch, they throw up.
+
+A HOUSE ALREADY ABANDONED MuIm 35 R: Touch, D: Moon, T: Str
+
+BLESSING THE MERCHANT’S LINEAGE MuIm35 R: Touch, D: Until (Baptism), T: Bloodline, Ritual
+
+SERVANT OF FIRE MuIm(Ig, Me) 45 R: Voice, D: Fire, T: Ind Req: Ignem, Mentem This Glamour spell (see page 101 in Houses of Hermes: Mystery Cults) turns a normal fire into a human servant. He has a simple intellect and is good for only simple tasks, but has no possibility of learning or free will. The servant must eat a lot of wood or other flammable materials, otherwise the fire will burn out, ending the spell. As long as the servant eats enough, however, the spell continues. This spell has a minor side effect from experimentation that makes the servant sing instead of speaking normally.
+
+DISPEL THE PHANTOM IMAGE PeIm Gen R: Voice, D: Mom, T: Ind
+
+TASTE OF THE DULLED TONGUE PeIm 5 R: Touch, D: Sun, T: Ind
+
+HIDING IN THE CROWD PeIm 10 R: Per, D: Sun, T: Ind
+
+ILLUSION OF COOL FLAMES PeIm 10 R: Voice, D: Sun, T: Ind
+
+A source of heat, such as a fire, seems to lose its heat and drop to the surrounding temperature. It still, however, has its normal beneficial and harmful effects (that is, glowing coals still cook meat or burn a person’s hand, though they do not feel hot).
+
+QUELL THE SCENT PeIm 10 R: Touch, D: Sun, T: Ind
+
+SNATCHED VOICE PeIm 10 R: Touch, D: Diam, T: Ind
+
+CHAMBER OF MUFFLED PASSING PeIm 15 R: Touch, D: Diam, T: Room
+
+HIDING THE ILL-BRED BARD PeIm 15 R: Per, D: Sun, T: Ind
+
+INVISIBILITY OF THE STANDING WIZARD PeIm 15 R: Touch, D: Sun, T: Ind
+
+AMBUSH ON THE DESERTED ROAD PeIm 20 R: Touch, D: Ring, T: Circle
+
+EARS OF A GRATEFUL FATHER PeIm 20 R: Touch, D: Conc, T: Group
+
+VEIL OF INVISIBILITY PeIm 20 R: Touch, D: Sun, T: Ind
+
+REMOVAL OF THE CONSPICUOUS SIGIL PeIm 20 R: Touch, D: Sun, T: Part
+
+SILENCE OF THE SMOTHERED SOUND PeIm 20 R: Voice, D: Sun, T: Ind
+
+CHAMBER OF INVISIBILITY PeIm 25 R: Touch, D: Sun, T: Group
+
+CIRCLE OF UNDISTURBED REST Pe(Re)Im 25
+
+R: Touch, D: Ring, T: Circle Req: Rego Created in conjunction with Be Rid the Tell Tale Smoke, this large circle spell is meant to be used around an encampment. The circle prevents iconic and echoic species from leaving the circle, making the encampment undetectable. Perfect for ensuring privacy in unfamiliar territories, it does leave the camp as a silent black area; this is normally enough at night, when everything is dark, and Conscientia does not see the need for additional illusions.
+
+INVISIBLE ARMS Pe(Cr)Im 25
+
+R: Per, D: Sun, T: Part Req: Creo The caster’s original arms are made invisible, but the illusion of another pair of arms is created to replace them. If he wishes, the magus may use these fake arms in a normal way while his invisible arms pick pockets or cast a spell. This may require a Concentration roll depending on the fake actions; anything much more complex than swinging them while walking requires a roll.
+
+THE LOST CITY Pe(Re)Im 45
+
+R: Touch, D: Sun, T: Bound*, Ritual Req: Rego Makes the wall, and everything within it, invisible, no matter what the residents of the island do. The residents can see the contents of the island, so long as they do not step outside the Boundary. Enemies who still reach the walls are able to see the contents of the island normally once the Boundary has been crossed. * Remember to add further magnitudes to increase Boundary size.
+
+COLOR EXPLOSION ReIm 15 R: Voice, D: Diam, T: Ind
+
+RESTORE THE MOVED IMAGE ReIm Gen R: Voice, D: Mom, T: Ind
+
+ILLUSION OF THE SHIFTED IMAGE ReIm 10 R: Voice, D: Sun, T: Ind
+
+WIZARD’S SIDESTEP ReIm 10 R: Per, D: Sun, T: Ind
+
+COERCE THE SPIRIT OF ILLUSION ReIm 20 R: Voice, D: Diam, T: Ind.
+
+THE CAPTIVE VOICE ReIm 25 R: Voice, D: Sun, T: Part
+
+CONFUSION OF THE INSANE VIBRATIONS ReIm 30 R: Touch, D: Conc, T: Vision
+
+IMAGE FROM THE WIZARD TORN Re(In)Im 30 R: Per, D: Conc, T: Ind
+
+SUMMON THE SPIRIT OF ILLUSION ReIm 40 R: Arc, D: Conc, T: Ind
+
+ILLUSION OF THE MISPLACED CASTLE ReIm 50 R: Voice, D: Sun, T: Bound, Ritual
+
+BY HIS WORKS CrMe 5 R: Per, D: Conc, T: Ind Refreshes a specific memory within the mind of the caster; as long as some fragment of it remains, this spell will restore it. Once refreshed, the caster can hold the perfected memory as long he concentrates. Studying the memory effectively creates a new one which does not fade when the spell expires. This spell was created to allow Quaesitors to perfectly recall spell sigils they encounter. The spell can be used to recall other details of a brief event, like faces or voices. This spell is often used to double- check identification. (Base 4, +1 Concentration) Source: Houses of Hermes – True Lineages, 73
+
+PALM OF SPEAKING CrMe 5 R: Touch, D: Diam, T: Ind
+
+WHISPERING FINGERS CrMe 5 R: Touch, D: Conc, T: Ind
+
+WORDS OF THE UNBROKEN SILENCE CrMe 10 R: Sight, D: Mom, T: Ind
+
+ALL HEADS TURN CrMe 15 R: Touch, D: Mom, T: Room Normally cast as Lucia enters a room, this spell subtly draws the attention of all those in the room towards the caster.
+
+CATCHING THE EYE CrMe 15 R: Sight, D: Mom, T: Ind
+
+HEART OF THE LION CrMe 15 R: Eye, D: Sun, T: Ind
+
+LOOK AT ME CrMe 15 R: Sight, D: Mom, T: Ind This spell creates a thought in the imagination of the target, causing him to look directly at the caster even if the caster has not been previously noticed by the target. This glance is sufficient to make eye contact. If concentrating on another task, the target may make a Stamina + Concentration roll against an Ease Factor of 6 to resist. This spell is most often cast with no voice or gestures as a subtle way of attracting someone’s attention.
+
+MEET ME AT MIDNIGHT CrMe 15 R: Eye, D: Sun, T: Ind
+
+PANIC OF THE TREMBLING HEART CrMe 15 R: Eye, D: Sun, T: Ind
+
+RISING IRE CrMe 15 R: Eye; D: Sun, T: Ind Makes the target furious at someone or something of your choice. A stress roll of 9+ using an appropriate Personality Trait (like Calm) can hold the anger in check, but it is felt strongly regardless of the roll. (Base 4, +1 Eye, +2 Sun) Source: Ars Magica Fifth Edition, 148
+
+RISING PASSION CrMe 15 R: Eye; D: Sun, T: Ind
+
+THE WELCOME STRANGER CrMe 15 R: Eye, D: Diam, T: Ind
+
+A MOMENT’S REFLECTION CrMe 20 R: Voice, D: Mom, T: Ind
+
+CONSTRUCT THE MEMORY PALACE CrMe 20 R: Touch, D: Mom, T: Ind, Ritual
+
+CONVINCE A MAN HE HAS AN ENEMY CrMe 20 R: Touch, D: Moon, T: Ind
+
+CREATION OF AN UNDESERVED REPUTATION CrMe 20 R: Eye, D: Sun, T: Ind
+
+CREATION OF THE SIMILE CrMe 20 R: Eye, D: Sun, T: Ind
+
+DEFEND ME CrMe 20 R: Eye, D: Conc, T: Group Plants the suggestion into the mind of the target group that Lucia must be defended from harm. In most cases this is even enough to prompt enemies to come to her defense. Those under the spell must make a Personality Check against Ease Factor 9 to take any detrimental action against Lucia. Her Venus’ Blessing Virtue provides a –3 penalty to any such rolls.
+
+ENHANCE THE MEMORY PALACE CrMe 20 R: Per, D: Moon, T: Ind
+
+GOSSIP OF THE MARKETPLACE Cr(Re)Me 20 R: Eye, D: Sun, T: Ind
+
+GOSSIP OF THE MARKETPLACE Cr(Re)Me 20 R: Eye, D: Sun, T: Ind
+
+MEMORY OF THE DISTANT DREAM CrMe 20 R: Eye; D: Sun, T: Ind
+
+ORPHEUS’ BALLAD CrMe 20 R: Voice, D: Mom, T: Group
+
+PAINS OF THE PERPETUAL WORRY CrMe 20 R: Eye; D: Moon, T: Ind
+
+SCENT OF THE PREDATOR CrMe 20 R: Per, D: Sun, T: Scent
+
+THE FAR-SPEAKING VOICE CrMe 20 R: Arc, D: Diam, T: Ind
+
+THE ROAR THAT INDUCES TERROR CrMe 20 R: Per, D: Diam, T: Sound
+
+THE SUBTLE BURN OF DESIRE CrMe 20 R: Eye, D: Moon, T: Ind
+
+A NIGHT’S PASSION CrMe 25 R: Touch, D: Moon, T: Ind
+
+HUMAN FIGMENT OF THE WAKING MIND CrMe 25 R: Eye, D: Conc, T: Ind
+
+MEMORY PALACE OF THE SAGE CrMe 25 R: Per, D: Mom, T: Ind, Ritual
+
+MY NEW BEST FRIEND Cr(Mu)Me 25 R: Eye, D: Sun, T: Ind
+
+ROBED IN ANGELIC BEAUTY CrMe(Im) 25 R: Voice, D: Conc, T: Group
+
+THE GOOD WITNESS CrMe 25 R: Touch, D: Sun, T: Ind
+
+THE OB OF MOT CrMe 25 R: Veil, D: Conc, T: Group Special: Requires Canaanite Magic Virtue This spell allows those about the caster to speak with a specific person in the world of the dead — to them it appears that the caster is speaking with the voice of the dead person. The caster is effectively acting as a temporary container or vessel for the dead spirit, and botches of this spell might cause the caster to become possessed by a malevolent spirit.
+
+TO SING OF GOOD MEAT AND DRINK CrMe 25 R: Voice, D: Conc, T: Room
+
+WEIGHT OF A THOUSAND HELLS CrMe 25 R: Eye; D: Moon, T: Ind
+
+THE UNWELCOMING ROOM CrMe 30 R: Line, D: Conc, T: Room
+
+GIFT OF REASON CrMe 35 R: Touch, D: Mom, T: Ind, Ritual Permanently increases the target’s Intelligence by 1 point, to no higher than 0.
+
+RAISING THE AUXILIARIES FOR A DAY CrMe 35 R: Voice, D: Sun, T: Group, Ritual
+
+THE IRRESISTIBLE PRESSGANG CrMe 35 R: Touch, D: Year, T: Group, Ritual
+
+A group of men are granted a Loyal +4 Personality Trait, with the object of this fanatical loyalty being the caster. This spell is both a powerful and a continuing mystical effect, and the targets will accumulate a total of 5 Warping Points by its end.
+
+MISSIVE OF MEMORY CrMe 40 R: Arc, D: Moon, T: Ind
+
+THE DISTRACTED TURB CrMe 45 R: Voice, D: Diam, T: Group
+
+A Personality Check against Ease Factor 6 is required to hold firm to the physical threat at hand rather than be distracted by these faeries. Appropriate Personality Trait should be agreed with the storyguide.
+
+INSTANT LOYALTY OF THE REBELLIOUS TURB CrMe 50 R: Voice, D: Year, T: Group, Ritual
+
+ANAT’S SEARCH IN THE MIRY ABYSS InMe 20 R: Veil, D: Diam, T: Ind
+
+BREATH OF THE SLEEPER InMe 5 R: Touch, D: Mom, T: Ind
+
+SIGHT OF THE TRANSPARENT MOTIVE InMe 10 R: Eye; D: Mom, T: Ind
+
+KNOW THE MOON’S INFLUENCE InMe 15 R: Sight, D: Mom, T: Ind
+
+PERCEPTION OF THE CONFLICTING MOTIVES InMe 15 R: Eye, D: Mom, T: Ind
+
+FROSTY BREATH OF THE SPOKEN LIE InMe 20 R: Eye, D: Conc, T: Ind
+
+PERCEIVE THE EYES OF KNIVES InMe 20 R: Touch, D: Mom, T: Room
+
+POSING THE SILENT QUESTION InMe 20 R: Eye, D: Mom, T: Ind
+
+REVEAL THE LINGERING SPIRIT InMe 20 R: Per, D: Conc, T: Vision
+
+THE FACTOR’S ROLL CALL InMe 20 R: Eye, D: Mom, T: Ind
+
+MUSIC OF THE UNWANTED ATTENTION InMe 25 R: Per, D: Mom, T: Hearing
+
+THOUGHTS WITHIN BABBLE InMe 25 R: Per, D: Conc, T: Hearing
+
+FAMILIAL SECRETS InMe 30 R: Per, D: Mom, T: Bloodline, Faerie
+
+BETRAYING WHISPERS OF THE JEALOUS MIND InMe 30 R: Per, D: Conc, T: Hearing
+
+BORROW THE EYES OF ANOTHER InMe 30 R: Arc; D: Conc; T: Ind
+
+BORROW THE EYES OF ANOTHER InMe 30 R: Arc; D: Conc; T: Ind
+
+EAR OF TRUTH InMe 30 R: Per, D: Conc, T: Hearing The caster can tell if he is hearing the truth or not. If a speaker’s Magic Resistance blocks the enhanced sense, the caster is aware of it as an absence. Many Quaesitors develop a high level of mastery of this spell and use it with the Acute Sense ability to great effect. (Base 10, +1 Concentration, +3 Hearing) Source: Houses of Hermes – True Lineages, 73
+
+FUNDING THE BLACKMAILER’S PURSE InMe 30 R: Eye, D: Mom, T: Ind
+
+PEERING INTO THE MORTAL MIND InMe 30 R: Eye, D: Mom, T: Ind
+
+REVELATION OF A HUNDRED SINFUL THOUGHTS InMe 30 R: Eye, D: Mom, T: Ind
+
+SCENT OF LOOSE PURSES InMe 30 R: Touch, D: Sun, T: Smell
+
+STENCH OF HATE InMe 30 R: Touch, D: Sun, T: Smell
+
+THOUGHTS WITHIN BABBLE InMe 30 R: Per, D: Sun, T: Hearing
+
+THOUGHTS WITHIN SPEECH InMe 30 R: Eye, D: Mom, T: Ind
+
+TREAD OF FELLOW TRAVELERS InMe 30 R: Road, D: Diam, T: Group, Faerie
+
+OATH BREAKER’S CONFESSION InMe 35 R: Eye, D: Bargain/Mom, T: Ind, Faerie
+
+OPINIONS OF THE MASSES InMe 35
+
+R: Per, D: Conc, T: Hearing When this spell is cast, the magus chooses a specific question. For the duration of the spell, the caster will hear a voice answering this question from each mind that he comes in contact with. The thoughts of minds that have dwelled heavily on the magus’s question are perceived as clear voices, the thoughts of minds that have given the matter little thought are perceived as loud whispers. Minds that have never considered the issue (and minds that are protected by Magic Resistance that the spell failed to penetrate) do not make any sound at all. Lambert has on occasion, by use of this spell, heard the opinions of spirits and invisible creatures to which he would have otherwise have been oblivious.
+
+THE PRIVATE SPEECH OF EROS AND PSYCHE In(Cr)Me 60
+
+R: Adelphixis, D: Year, T: Ind, Ritual Req: Creo Special: Orphic Magic For one year after this spell is cast, the magos may, at will, speak mentally with the target, and vice versa. This communication is not impeded by distance, and may not be revoked by either party without somehow canceling the spell.
+
+RECOLLECTION LIVED MuMe 4
+
+MEMORIES
+
+NEVER
+
+OF
+
+R: Eye, D: Sun, T: Ind Changes the target’s memory of a detail into a similar, though different, memory. The target is no more sure of this manufactured memory than of the authentic one, so he may discover strange fabrications to be false.
+
+QUITE
+
+RECOLLECTION LIVED MuMe 4
+
+MEMORIES
+
+NEVER
+
+QUITE
+
+OF
+
+R: Eye, D: Sun, T: Ind As the spell listed in Ars Magica Fifth Edition, page 149.
+
+ABSENT MIND OF THE SCHOLAR MuMe 10 R: Touch, D: Sun, T: Ind
+
+DISTRACTION OF THE MAGPIE MuMe 10 R: Eye, D: Sun, T: Ind
+
+AVOIDING THE BLAME MuMe 15 R: Eye, D: Sun, T: Ind
+
+CLARION CALL OF THE WARHORSE MuMe 15 R: Per, D: Diam, T: Sound
+
+ENCHANTMENT OF THE PEDESTRIAN PIGEON MuMe 15 R: Eye, D: Moon, T: Ind
+
+SEED OF BETRAYAL MuMe 15 R: Eye, D: Moon, T: Ind
+
+SEED OF BETRAYAL MuMe 15 R: Eye, D: Moon, T: Ind
+
+THE GENEROUS PATRON MuMe 15 R: Voice, D: Sun, T: Ind
+
+MY OLD AND DEAR FRIEND MuMe 20 R: Eye, D: Sun, T: Ind
+
+REMEMBERED MESSAGES MuMe 20 R: Touch, D: Sun, T: Bound*, Ritual
+
+THE LUCID DREAMER Mu(In)Me 20 R: Per, D: Dream, T: Dream, Mystery Req: Intellego The magus lies down to sleep and casts this spell, slipping easily into dreaming sleep — except that his conscious spirit appears in the dream and may move and interact freely. He may wake any time he wishes (and may settle again for normal sleep, if he so desires).
+
+THE UNBIDDEN TASK MuMe 25 R: Eye, D: Moon, T: Ind
+
+THE UNBIDDEN TASK MuMe 25 R: Eye, D: Moon, T: Ind
+
+APOLLO’S FEARFUL GAZE MuMe 30 R: Voice, D: Sun, T: Ind
+
+BLISSFUL MESSENGER MuMe 30 R: Touch, D: Until, T: Ind, Faerie, Ritual
+
+A Tytalus maga who had need of sending agents to areas where they might be subject to investigation by Mentem spells convinced Lambert’s mater to allow Lambert to study the Lab Text for this spell as an apprentice. Lambert then used the spell for the benefit of the Tytalus who compensated Lambert’s mater for the service. The vis cost of performing the ritual, and the rarity of people willing to trust a Gifted magus sufficiently to allow their memories to be altered, prevents this from being a frequently used tool. (Base 5, +1 Touch, +4 Until) Source: Magi of Hermes, 65
+
+FALSE PROPHECY MuMe 30 R: Arc, D: Moon, T: Ind
+
+MIND OF THE BEAST MuMe(An) 30 R: Eye, D: Sun, T: Ind
+
+THE PATH TO LEMNOS Mu(In)Me 30 R: Touch, D: Dream, T: Dream, Mystery Req: Intellego The magus touches a dreaming sleeper, and the target dream changes to include the caster’s spirit; the caster slips into a trance while in the dream.
+
+DONNING THE MASK OF ANOTHER MuMe 35 R: Touch, D: Year, T: Ind, Ritual
+
+LOST IN THE MEMORY MuMe 35 R: Eye, D: Moon, T: Ind
+
+PAST OF ANOTHER MuMe 35 R: Eye, D: Year, T: Ind, Ritual
+
+VISIONS OF OLYMPUS MuMe 35 R: Touch, D: Diam, T: Group
+
+INMOST COMPANION MuMe(An) 40
+
+FAMILY GATHERING Mu(In)Me 40
+
+R: Pers, D: Conc T: Bloodline, Faerie Req: Intellego This spell alters the perceptions of the caster and all of those people who are descended from him or her. The affected people think themselves to be in a large, comfortable, well-lit room sitting around a table sufficiently large to seat every member of the bloodline, rather than at their actual locations. Those affected by the spell perceive their relatives to be with them in this room. The room itself is heavily influenced by the caster’s wizard’s sigil.
+
+R: Eye, D: Sun, T: Ind Req: Animal The target’s mind is made physical as a bird. This bird normally stays close to the target’s body, but need not. If the target has Magic Resistance, it protects both his body and mind, as normal. No matter how far it travels, the target’s mind controls his body, as well as the bird’s, as normal. In particular, it can see through both target also dies, as his mind has been killed. (Base 25, +1 Eye, +2 Sun) Source: Ars Magica Fifth Edition, 149
+
+SWORDS OF SILVER AND MOONLIGHT MuMe(Te) 40
+
+R: Eye, D: Sun, T: Ind Req: Terram This spell makes the metal accouterments of a ghost solid. Many ghosts are able to affect the world with a single, favored object, but this spell allows them to use their entire kit. Weapons that are a composite of wood and metal work normally for the ghost, but only the metal parts may strike a mortal. Hard-pressed Tremere magi sometimes cast this spell upon the ghosts of dead shield grogs. Eye contact must be made with the ghost. (Base 25, +1 Eye, +2 Sun) Source: Houses of Hermes – True Lineages, 140
+
+THE ROAD TO LEMNOS Mu(In)Me 40
+
+R: Touch, D: Dream, T: Dream, Mystery Req: Intellego The magus touches a dreaming sleeper (or the magus, as in The Lucid Dreamer), and the target dream changes to include the spirits of a touched group of travelers (possibly including the caster). The travelers’ bodies lie in a trance while in the dream.
+
+VISION OF THE HAUNTING SPIRITS MuMe(Im) 40 R: Touch, D: Sun, T: Room
+
+REWRITING THE MIND MuMe 45 R: Voice, D: Year, T: Ind, Ritual
+
+SPECTRAL QUINREME MuMe(He) 50 R: Eye, D: Moon, T: Str
+
+NORDIC TRIUMPH MuMe(He, Te) 65 R: Touch, D: Moon, T: Str, Ritual Req: Herbam, Terram This ritual is cast while on board a ship, which the spell transforms into a dragonprowed longship, and the crew are transformed into fierce Viking warriors who view the caster as their chieftain. The spell does not give the crew any Abilities they did not already have, but it makes them think and act as if they are Viking warriors, including acting as a trained group in combat.
+
+ARMING THE LEGION OF THE DEAD MuMe(Te) 70 R: Touch, D: Moon T: Group, Ritual
+
+LAY TO REST THE HAUNTING SPIRIT PeMe Gen R: Voice, D: Mom, T: Ind
+
+SCRAPING RAZOR OF MEMORY PeMe 4 R: Pers, D: Mom, T: Ind
+
+DISTRACTION OF THE WEAKENED MIND PeMe 5 R: Eye, D: Mom, T: Ind
+
+I WAS NEVER HERE PeMe 5 R: Eye, D: Mom, T: Ind
+
+THE BLINDED SENTRY PeMe 5 R: Touch, D: Mom, T: Ind
+
+THE BLINDED SENTRY PeMe 5 R: Touch, D: Mom, T: Ind
+
+TIP OF THE TONGUE PeMe 5 R: Eye, D: Diam, T: Ind
+
+TRUST OF CHILDLIKE FAITH PeMe 10 R: Eye, D: Diam, T: Ind
+
+AGNOSIA PeMe 10 R: Eye, D: Sun T: Ind This spell destroys familiarity with a category of object represented by a single noun. The victim of this spell cannot recognize instances of the thing, although she is that aware such things exist. If confronted with a representative object, the victim cannot identify or use it. This spell does not destroy Abilities, so if the character is placed in a position where she uses an object without conscious monitoring, her Abilities return. This can be alarming for the spell’s target, since she cannot consciously use the tool to repeat her inadvertent actions.
+
+BREAKING THE CAPTAIN’S BATON PeMe 10 R: Voice, D: Mom, T: Ind
+
+SLAP OF ABSENT MAGIC PeMe 10 R: Touch, D: Diam, T: Ind
+
+CALM THE MOTION OF THE HEART PeMe 15 R: Voice, D: Mom, T: Ind
+
+ENCHANTMENT OF DETACHMENT PeMe 15 R: Eye, D: Sun, T: Ind
+
+LOSS OF BUT A MOMENT’S MEMORY PeMe 15 R: Eye, D: Mom, T: Ind
+
+THE TWICE-GIFTED COIN PeMe 15 R: Touch, D: Mom, T: Ind
+
+ALL VOWS FORGOTTEN PeMe 20 R: Eye, D: Sun, T: Ind
+
+CALM MIND OF RESOLUTE BEHAVIOR PeMe 20 R: Per, D: Diam, T: Ind
+
+DISSOLVING THE WALL OF SHIELDS PeMe 20 R: Voice, D: Mom, T: Group
+
+LOSS OF A LASTING DAY’S MEMORY PeMe 20 R: Eye, D: Mom, T: Ind
+
+BLESSING OF CHILDLIKE BLISS PeMe 25 R: Eye, D: Sun, T: Ind
+
+PASSION’S LOST FEELING PeMe 25 R: Eye, D: Conc, T: Ind
+
+THE INVISIBLE PREDATOR PeMe 30 R: Per, D: Sun, T: Spectacle
+
+THE STULTIFIED PEASANT PeMe 30 R: Eye, D: Sun, T: Ind
+
+EMBRACE OF BOETHIUS PeMe(Co, Vi) 35 R: Touch, D: Mom, T: Part, Ritual
+
+HEIGHTEN THE MIND PeMe 35 R: Voice, D: Moon, T: Ind
+
+STOLEN MOMENTS PeMe 35 R: Eye, D: Conc, T: Ind
+
+THE EVER-WATCHFUL TURB PeMe 35 R: Touch, D: Moon, T: Group
+
+BLACK WHISPER PeMe 40 R: Touch, D: Moon, T: Ind
+
+BLINDNESS OF INVOLUNTARY OBSTINACY PeMe 40 R: Sight, D: Conc, T: Group
+
+CLOSED MOUTH OF THE NIGHTWALKER PeMe 40 R: Per, D: Sun, T: Spectacle
+
+MIND CLEANSED OF TREACHERY PeMe 45 R: Eye, D: Bargain/Mom, T: Ind, Faerie
+
+THE CLEAN SLATE PeMe 50 R: Touch, D: Year, T: Ind
+
+POISONING THE WILL PeMe 65 R: Touch, D: Moon, T: Bound, Ritual
+
+THE CALL TO SLUMBER ReMe 10 R: Voice D: Mom, T: Ind
+
+FORTIFICATION OF THE MEMORY PALACE ReMe Gen R: Per, D: Moon, T: Ind
+
+RING OF WARDING AGAINST SPIRITS ReMe Gen R: Touch, D: Ring, T: Circle
+
+HYPNOTIC GAZE ReMe 5 R: Eye D: Mom, T: Ind
+
+SLAP OF AWAKENING ReMe 5 R: Touch, D: Mom, T: Ind
+
+TOUCH OF FALLING FEATHERS ReMe 10 R: Touch, D: Diam, T: Ind
+
+SNAP OF AWAKENING ReMe 10 R: Voice, D: Mom, T: Ind
+
+CONFUSION OF THE NUMB WILL ReMe 15 R: Eye, D: Sun, T: Ind
+
+COERCE THE SPIRITS OF THE NIGHT ReMe 20 R: Voice, D: Conc, T: Ind
+
+AURA OF RIGHTFUL AUTHORITY ReMe 20 R: Eye, D: Sun, T: Ind
+
+CALL THE DREAM ReMe 20 R: Touch, D: Sun, T: Ind
+
+COERCE GHOSTS ReMe 20 R: Voice, D: Diam, T: Ind.
+
+COERCE THE SPIRIT OF ANGER ReMe 20 R: Voice, D: Conc, T: Ind
+
+COOL THE LOVER’S ARDOR ReMe 20 R: Eye, D: Sun, T: Ind
+
+ENCHANTMENT OF MY LOVER’S EYE ReMe 20 R: Eye, D: Sun, T: Ind
+
+LAY YOUR BURDENS ON ME ReMe 20 R: Eye, D: Sun, T: Ind
+
+SCENT OF PEACEFUL SLUMBER ReMe 20 R: Voice, D: Mom, T: Room
+
+SEARCHING THE HAYSTACK FOR A NEEDLE ReMe 20 R: Eye, D: Sun, T: Ind
+
+SINISTER ROAD ReMe 20 R: Road, D: Moon, T: Ind
+
+THE RESOLUTE RESEARCHER ReMe 20
+
+MIND
+
+OF
+
+THE
+
+TIRELESS
+
+R: Per, D:Sun, T: Ind This spell is designed for a magus to cast upon himself at the start of a day’s work in the laboratory. Andreas of House Bonisagus, frustrated at his constant lapses of concentration, and finding it difficult to maintain focus on his research, came up with this effect in an effort to make his work days more productive. The target of the spell finds his mind resolutely fixed on the task in hand, and does not waver from it. Opinion is sharply divided on the merits of this spell, with the majority of magi considering it little more than a dangerous self-delusion, which warps the mind of the magus, making him dependent and weak-willed. If this spell is used on a daily basis, a magus should select the Addled laboratory routine (see Covenants).
+
+TRUST ME ReMe 20 R: Eye, D: Sun, T: Ind Occasionally a Quaesitor may need to question mundanes directly, typically grogs and companions. This spell can be used to make the process less effort and more productive. The effect simply creates a counter-balancing force on the subject’s mind. The Gift itself is not affected in any way, only the subject’s mind is. The spell is as powerful as Aura of Rightful Authority, but more subtle. The spell only acts to level the subject’s attitude to the caster, not make them obedient or unnaturally well-disposed. Since the affected person retains free will, this effect does not count as scrying. Questioning using Aura of Rightful Authority does count as scrying.
+
+AURA OF INCONSEQUENCE ReMe 25 R: Touch, D: Sun, T: Spec
+
+IMPRISON A GHOST IN A VESSEL ReMe 25 R: Voice, D: Sun, T: Ind
+
+SINGLEMINDEDNESS WIZARD ReMe 25
+
+OF
+
+THE
+
+CONCENTRATING
+
+R: Per, D: Sun, T: Ind The caster receives a +3 to all Concentration rolls for the Duration of this spell, but automatically fails any Intelligence roll which does not involve Concentration.
+
+VOICES FROM HOLLOW SPACES ReMe 25 R: Voice, D: Ring, T: Ind.
+
+AURA OF REGAL AUTHORITY ReMe 30 R: Per, D: Diam, T: Spectacle
+
+BURNING ISSUE OF THE DAY ReMe 30 R: Eye, D: Sun, T: Group
+
+DANCING MANIA ReMe 30 R: Voice, D: Conc, T: Ind
+
+ENDLESS LAUGHTER ReMe 30 R: Voice, D: Conc, T: Ind
+
+RAISE THE SIEGE ReMe 30 R: Arc, D: Sun, T: Ind
+
+THE MANIA OF OTHERS ReMe 30 R: Touch, D: Moon, T: Ind
+
+THE PENITENT’S CONFESSION ReMe 30 R: Eye, D: Conc, T: Ind
+
+VISIONS OF THE INFERNAL TERRORS ReMe 30 R: Voice, D: Sun, T: Ind
+
+HIBERNATION OF THE SLUMBERING TURB Re(Cr)Me 35 R: Per, D: Year, T: Texture, Ritual
+
+SLAVE OF CHARITY ReMe 35 R: Eye, D: Sun, T: Ind
+
+CALL TO ARMS Re(In)Me(Co) 35 R: Arc, D: Event (Mom), T: Room, Ritual Req: Intellego, Corpus Special: Requires ability to use Event duration This Ritual wakes all of the grogs (or any other predefined group) in one room of the covenant if the condition described at the time of casting occurs within the walls of the covenant.
+
+FORCING THE UNDECIDED’S DECISION ReMe 35 R: Eye, D: Sun, T: Ind
+
+THE VISAGE OF MOT ReMe 35 R: Veil, D: Conc, T: Ind, Ritual Special: Requires Canaanite Magic Virtue This spell summons the ghost of a specific person in the world of the dead. The caster must either have an Arcane Connection to, or otherwise be able to sense, the target, and the target must be in the world of the dead; that is, neither alive nor in Heaven.
+
+VEIL OF HAUNTING TERROR ReMe 35 R: Road, D: Moon, T: Group
+
+VOICES FROM HOLLOW SPACES ReMe 35 R: Voice, D: Ring, T: Ind
+
+ENSLAVE THE MORTAL MIND ReMe 40 R: Eye; D: Sun, T: Ind
+
+EXTRACTING THE FALSE CONFESSION ReMe 40 R: Arc, D: Mom, T: Ind
+
+INCANTATION OF SUMMONING THE DEAD ReMe 40 R: Arc, D: Conc, T: Ind, Ritual
+
+INCANTATION OF SUMMONING THE DEAD ReMe 40 R: Arc, D: Conc, T: Ind, Ritual
+
+SUMMONING THE SPIRIT OF ANGER ReMe 40 R: Arc, D: Conc, T: Ind
+
+SUMMON THE SPIRIT OF MAN ReMe 40 R: Arc, D: Conc, T: Ind
+
+THE FACE IN THE MIRROR ReMe 40 R: Eye, D: Moon, T: Ind
+
+THE SHROUDED GLEN ReMe 40 R: Touch, D: Year, T: Bound, Ritual Enchants the Boundary in which the ritual is cast so that anyone moving through it is subtly diverted, effectively keeping some place within it from being discovered accidentally. Anyone not actively searching for the hidden place never finds it. Those actively searching can find the place by making a Perception stress roll of 12+ (allowed once per day). If the surrounding terrain is more difficult to search than the average forest, the Ease Factor increases. Likewise, the Ease Factor drops if the terrain is more open than a forest, and completely open terrain is unsuitable for this spell. Once a searcher spots the hidden place, the spell does not prevent approach. Those who are present for the ritual are unaffected by the spell. This spell mimics the properties of many faerie forests.
+
+EXCHANGE OF THE TWO MINDS ReMe 55 R: Touch, D: Year, T: Group, Ritual
+
+CALL THE FALLEN EAGLES FROM THE MIST ReMe 65 R: Touch, D: Moon, T: Group, Ritual
+
+A spell used on ancient battlefields to call up the pagan dead. This spell grants control of the dead, but if ordered to directly oppose their reason for remaining on Earth, they occasionally break the magus’s control. Roman legionnaires asked to attack Rome, for example, might break control.
+
+A NETWORK REMINISCENT OF ROME CrTe 20 R: Touch, D: Mom, T: Ind, Ritual
+
+THE POOR PERFORMER’S REWARD CrTe 4 R: Touch, D: Sun, T: Ind
+
+BREATH OF THE GLASSWORKER CrTe 15 R: Touch, D: Sun, T: Ind
+
+SEAL THE EARTH CrTe 15 R: Voice, D: Sun, T: Group
+
+SWORD FROM THE UNSEEN SCABBARD CrTe 15 R: Touch, D: Diam, T: Ind
+
+A SYSTEM OF NARROW CANALS CrTe 20 R: Touch, D: Mom, T: Ind, Ritual
+
+BASALT CAGE CrTe 20 R: Touch, D: Mom, T: Ind, Ritual This ritual creates a large cage made out of basalt stone with a single gate (also made of basalt) that can be opened and shut. The cage is large enough to hold ten man-sized creatures. Individuals in the cage may find it difficult to escape, if the gate is somehow locked or barred. However, the main purpose of the ritual is to create a cage which is subsequently enchanted as an item with the effect The Entrapped Flame.
+
+CANALS THAT ACCOMMODATE SEAGOING VESSELS CrTe 20 R: Touch, D: Mom, T: Ind, Ritual
+
+CREATION OF THE WALLS OF SIMPLE COTTAGES CrTe 20 R: Touch, D: Mom, T: Ind, Ritual.
+
+EFFICIENT & PERMANENT WALL OF PROTECTING STONE CrTe 20
+
+R: Touch, D: Mom, T: Ind, Ritual Creates a wall from a single piece of unmortared stone, which gives it far greater durability than conventional walls, unless the caster has a sigil which degrades its composition. Vis is used to prevent the wall disappearing after the spell ends.
+
+PERMANENT WALL OF PROTECTING STONE CrTe 20 R: Touch, D: Mom, T: Ind, Ritual
+
+SCULPT THE STONE MACHINE CrTe 20 R: Touch, D: Mom, T: Ind, Ritual
+
+SEAL THE BREACH CrTe 20 R: Touch, D: Mom, T: Ind, Ritual This ritual conjures a section of wall in a shape marked out during the casting of the spell. It is designed to knit together with adjoining sections of existing fortifications to repair already standing walls. The spell is enough to repair a single section of wall collapsed through mining or artillery assault (restoring up to five damage levels).
+
+SUBSTANCE OVER FORM Cr(Mu)Te(Me) 20 R: Touch, D: Mom, T: Ind, Mystery, Ritual Req: Muto, Mentem This spell can only be cast in a dream by a physical traveler and the caster must use real-world vis for the ritual. The target object may appear unchanged for now, but it has a reality that extends beyond dream, so that if a physical traveler leaves a dream bearing the object, it travels with him and appears in the real world. If the spell is cast without real-world vis, the object vanishes as it is brought into the real world. (Base 15, +1 Touch) Source: The Mysteries, 108
+
+THE RICHES OF CARTHAGE CrTe 20 R: Touch, D: Mom, T: Ind, Ritual
+
+THE SHATTERED GOBLET CrTe 20 R: Touch, D: Mom, T: Group, Ritual
+
+THE THIRSTY DAGGER CrTe 20 R: Touch, D: Mom, T: Ind, Ritual
+
+TOUCH OF MIDAS CrTe 20 R: Touch, D: Mom, T: Ind, Ritual This spell creates a roughly spherical lump of gold about six inches across. This weighs about 80 pounds, and is enough money to keep a peasant family in comfort for about 300 years.
+
+ARMS OF NEPTUNE CrTe 25 R: Touch, D: Diam, T: Group
+
+FORM THE HERMETIC BOUNDARY CrTe 25 R: Touch, D: Moon, T: Ind
+
+WALL OF PROTECTING STONE CrTe 25 R: Voice, D: Sun, T: Ind
+
+AN EXPANSIVE & PROTECTING STONE CrTe 30
+
+PERMANENT
+
+WALL
+
+OF
+
+R: Touch, D: Mom, T: Ind, Ritual As Permanent Wall of Protecting Stone, earlier, but with four additional magnitudes spent on size. This creates one million cubic paces of stone, which is sufficient for a wall 30 paces high, 2 paces thick, and just under 9.5 miles in length.
+
+CREATION OF A LEGION OF APPOINTED COTTAGES CrTe 30 R: Touch, D: Mom, T: Ind, Ritual
+
+CREATION OF A WELL-APPOINTED TOWN CrTe 30 R: Touch, D: Mom, T: Ind, Ritual
+
+SILVERY SCALES OF THE KNIGHT CrTe(An) 30 R: Touch, D: Sun, T: Ind
+
+THE WEALTH OF CROESUS CrTe 30 R: Touch, D: Mom, T: Group, Ritual
+
+A SIMPLE METHOD FOR RAPID VALLATION CrTe 35 R: Voice, D: Sun, T: Ind
+
+BRING FORTH THE LORD OF KNIVES CrTe 35 R: Touch, D: Diam, T: Ind
+
+CONJURING THE MYSTIC TOWER CrTe 35 R: Touch, D: Mom, T: Ind, Ritual
+
+CRAFT THE MECHANISM Cr(In)Te 35 R: Touch, D: Mom, T: Group, Ritual
+
+DUPLICATE THE MECHANISM Cr(In)Te 35 R: Touch, D: Mom, T: Group, Ritual
+
+NECESSARY MONOLITH CrTe 35 R: Voice, D: Sun, T: Ind
+
+THE QUARRYMAN’S GIFT OF (STONE) CrTe 35 R: Touch, D: Mom, T: Ind, Ritual
+
+THE RICHES THAT ARE RIGHTFULLY MINE(D) CrTe 35 R: Touch, D: Mom, T: Group, Ritual
+
+A copy of this spell resides at the Great Library of Durenmar, but it is infamous for causing inflationary troubles. Given the recent rulings in many Tribunals, a covenant of ten magi would only be permitted to distribute 20 pounds of such silver per year, so that it would take 30 years to exhaust the silver created by even a single casting of the spell. Therefore, while there is nothing to stop a magus from learning this spell in the Great Library, he would surely earn the instant suspicion and attention of the Quaesitores if he did so.
+
+THE WEDDING RING OF GAEA CrTe 35 R: Touch, D: Mom, T: Ind, Ritual
+
+CONJURING THE HOUSE OF GOD CrTe 45 R: Touch, D: Mom, T: Ind, Ritual
+
+THE LABORATORY OF BONISAGUS CrTe(Vi) 45 R: Touch, D: Mom, T: Group, Ritual
+
+HEIGHTS OF THE GREAT TOWER CrTe 50 R: Touch, D: Mom, T: Ind, Ritual
+
+CONJURING THE GREAT TOWER CrTe 55 R: Touch, D: Mom, T: Ind, Ritual
+
+TEAR THE EARTH ASUNDER CrTe 65 R: Touch, D: Mom, T: Ind, Ritual
+
+THE MINER’S KEEN EYE InTe 20 R: Per, D: Conc, T: Vision
+
+PROBE FOR PURE SILVER InTe 4 R: Per, D: Mom, T: Smell
+
+EYES OF THE EONS InTe 10 R: Voice, D: Mom, T: Ind
+
+EYES OF THE TREACHEROUS TERRAIN InTe 15 R: Per, D: Conc, T: Vision
+
+SENSE THE TRUE PATH InTe 15 R: Arc, D: Conc, T: Ind
+
+TRAIL OF EMBER InTe 20 R: Arc, D: Mom, T: Ind
+
+LINKS OF STONE InTe 25 R: Arc, D: Mom, T: Ind
+
+THE WISDOM OF SLEEP InTe(Vi) 25 R: Touch, D: Mom, T: Ind
+
+TRACKS OF THE FAERIE GLOW InTe 25 R: Per, D: Conc, T: Vision
+
+COMMUNE WITH THE FIRE SOUL InTe 30 R: Touch, D: Conc, T: Ind
+
+LISTEN TO THE BELLS InTe 30 R: Touch, D: Diam, T: Ind
+
+STONE TELL OF THE MIND THAT SITS InTe 30 R: Touch, D: Conc, T: Ind
+
+SENSE THE FEET THAT TREAD THE EARTH InTe 30 R: Touch, D: Conc, T: Part
+
+LOVE’S UNFAITHFUL WITNESS InTe 35 R: Touch, D: Conc, T: Ind
+
+SPEECH OF THE WARDING RING InTe 35 R: Touch, D: Sun, T: Ind
+
+DREAM OF THE MIND THAT SITS InTe 45 R: Touch, D: Sun, T: Ind
+
+TELL OF THE FORGED InTe 45 R: Touch, D: Sun, T: Ind
+
+DREAM OF THE ARTIFICE InTe 50 R: Touch, D: Sun, T: Ind
+
+DREAM OF THE FORGED InTe 55 R: Touch, D: Sun, T: Ind, Ritual
+
+CONJURE THE OCEAN’S BREATH MuTe 15 R: Touch, D: Moon, T: Part
+
+A WINDOW OF SINGULAR DIRECTION MuTe 10 R: Touch, D: Ring, T: Ind
+
+BLUNTING THE IRON’S BITE MuTe 10 R: Voice, D: Diam, T: Ind
+
+THE CRYSTAL DART Mu(Re)Te 10 R: Voice, D: Mom, T: Ind
+
+SUPPLE IRON AND RIGID ROPE MuTe 10 R: Touch, D: Sun, T: Ind
+
+HIDING THE MYSTIC KEY MuTe(He) 15 R: Touch, D: Conc, T: Part
+
+ROCK OF VISCID CLAY MuTe 15 R: Touch, D: Sun, T: Part
+
+ARMATURA VITREA MuTe 20 R: Voice, D: Diam, T: Ind
+
+EDGE OF THE RAZOR MuTe 20 R: Touch, D: Sun, T: Ind
+
+EARTH THAT BREAKS NO MORE MuTe 20 R: Touch, D: Sun, T: Part
+
+INK OF NOBLEST METALS MuTe(Aq) 20 R: Voice, D: Diam, T: Ind
+
+OBJECT OF INCREASED SIZE MuTe 20 R: Touch, D: Sun, T: Ind
+
+THE WEIGHTLESS MENHIR MuTe 20 R: Touch, D: Sun, T: Ind
+
+HARDNESS OF ADAMANTINE MuTe 25 R: Touch, D: Sun, T: Ind
+
+SHORT STEP OF THE GHOST MuTe(Au) 25 R: Touch, D: Mom, T: Part
+
+RAPID EXCAVATIONS MuTe(Aq) 30 R: Voice, D: Sun, T: Part
+
+SCATTERING LIKE LIGHT MuTe(Im) 30 R: Voice, D: Mom, T: Ind
+
+TEETH OF THE EARTH MOTHER MuTe 35 R: Voice, D: Sun, T: Group
+
+MINIATURIST OF VENICE MuTe 40 R: Touch, D: Sun, T: Group
+
+TRANSMUTATION OF FIRE MuTe(He, Ig) 40 R: Voice, D: Sun, T: Part
+
+SOLIDITY OF STONE MuTe 45 R: Touch, D: Moon, T: Ind
+
+SHATTERING TOUCH PeTe 5 R: Touch, D: Mom, T: Ind
+
+FIST OF SHATTERING PeTe 10 R: Voice, D: Mom, T: Ind
+
+RUSTED DECAY OF TEN-SCORE YEARS PeTe 10 R: Voice, D: Mom, T: Ind
+
+SAVING THE APPRENTICE’S TIME PeTe 10 R: Touch, D: Mom, T: Room
+
+PIT OF THE GAPING EARTH PeTe 15 R: Voice, D: Mom, T: Part
+
+UNDOING THE STONEMASON’S HANDIWORK PeTe 15 R: Voice, D: Mom, T: Part
+
+BROKEN WORD BROKEN SWORD PeTe 20 R: Touch, D: Bargain/Mom, T: Ind
+
+CARVE DOMAIN PeTe 20 R: Touch, D: Mom, T: Part Carve Domain destroys a channel of up to 10,000 cubic feet of earth. This can be used, among other things, as a defensive emplacement, to channel a river, to expand irrigation, or to develop a makeshift moat. A Finesse roll is required for more-complex designs. (Base 3, +1 Touch, +1 Part, +3 Size) Source: Magi of Hermes, 31
+
+OBLITERATION OF THE METALLIC BARRIER Pe(Re)Te 20 R: Touch, D: Mom, T: Ind
+
+STONE TO FALLING DUST PeTe 20 R: Sight, D: Mom, T: Ind
+
+A MIGHTIER CHANNEL PeTe 25 R: Touch, D: Mom, T: Part
+
+END OF THE MIGHTY CASTLE PeTe 25 R: Voice, D: Mom, T: Str
+
+A single stone structure, such as a castle keep or manor house, crumbles to dust and small pebbles. Anyone inside at the time takes +10 damage from falling and having stones land on them, possibly more if the structure is particularly large.
+
+GLEAM OF THE FRESHLY-POLISHED GLASS PeTe 25 R: Touch, D: Moon, T: Room
+
+FLAWS OF THE WEAPONSMITH PeTe 30 R: Voice, D: Mom, T: Group
+
+HAUBERK OF SUBLIME LIGHTNESS PeTe 30 R: Touch, D: Sun, T: Ind
+
+SUDDEN WELL PeTe 30 R: Voice, D: Mom, T: Part This spell creates a shaft 10 feet square and 100 feet deep. The shaft is not reinforced, so it collapses swiftly after it is created.
+
+CASCADE OF ROCKS PeTe 40 R: Sight, D: Mom, T: Part
+
+THE HIDDEN WARREN PeTe 40 R: Touch, D: Mom, T: Part
+
+THE FATE OF CARTHAGE PeTe 45 R: Arc, D: Mom, T: Bound, Ritual
+
+WARD AGAINST FAERIES OF THE MOUNTAIN ReTe Gen R: Touch, D: Ring, T: Circle
+
+THE REWARD DELIVERED ReTe 4 R: Touch, D: Mom, T: Ind
+
+SCRIBE THE PERFECT CIRCLE Re(Cr)Te 4 R: Touch, D: Mom, T: Ind
+
+A magus wishing to scribe a perfect circle for a circle spell may trace the circle drawn by this spell.
+
+SCRIBE THE PERFECT CIRCLE Re(Cr)Te 4 R: Touch, D: Mom, T: Ind
+
+THE INVISIBLE GLASS-WORKER ReTe 4 R: Touch, D: Mom, T: Ind
+
+THE POET’S BUST ReTe 5 R: Touch, D: Mom, T: Ind This spell changes a block of stone into a carved bust. The caster must touch both the targeted stone block and the person who is the subject of the bust.
+
+THE UNSEEN ARM ReTe 5 R: Voice, D: Conc, T: Ind As the spell listed in Ars Magica Fifth Edition, page 155.
+
+UNSEEN ARM ReTe 5 R: Voice, D: Conc, T: Ind Slowly moves a nonliving thing, like a mug, instrument, or small pouch of coins; it cannot oppose intentional resistance. Magi use this spell to manipulate things at a distance, but the spell cannot be used to pull something from a person’s hand or to move something that is held. Casting requisites of an appropriate Form for the target are required.
+
+THE WIZARD’S PARRY ReTe 5 R: Touch, D: Mom, T: Ind
+
+DISARM THE WARRIOR ReTe 10 R: Voice, D: Mom, T: Ind
+
+INVISIBLE SLING OF VILANO ReTe 10 R: Touch, D: Mom, T: Ind
+
+THE KEY OF THEODORUS ReTe 10 R: Touch, D: Mom, T: Part
+
+TRACKLESS STEP ReTe 10 R: Touch, D: Special, T: Part
+
+WIELDING THE INVISIBLE SLING ReTe 10 R: Voice, D: Mom, T: Ind
+
+THE SWORDSMITH’S ART ReTe 10 R: Touch, D: Mom, T: Ind
+
+THE UNSEEN PORTER ReTe 10 R: Voice, D: Conc, T: Ind
+
+THE WELL-TRODDEN PATH ReTe 10 R: Touch, D: Conc, T: Part
+
+A traveler using this spell does not suffer undue delay for traveling over poor roads. Traveling at speed to cover more ground in the day still costs the stated Long-Term Fatigue level. City & Guild, page 85, provides more detail on travel speeds. Targets affected by this spell use speeds close to the top end of the applicable travel speeds.
+
+AUTODICTATION ReTe15 R: Voice, D: Ring, T: Ind
+
+FORAS VIM ReTe 15 R: Voice, D Mom, T: Group An easily fast-cast defense against other magi, this spell shoots a choking cloud of dust and gravel at its targets. Those within the cloud are blinded by the dust and grit, and find it difficult to breathe. Casting a spell while in the cloud requires a Stamina + Concentration roll against an Ease Factor of 12. This spell also has uses in detecting invisible opponents. Conscientia has been meaning to get around to mastering this spell so that she can fast cast it ever since she created it. Maybe next season ...
+
+GIFT OF THE ONEIROPOMP Re(Mu)Te(Me) 15 R: Touch, D: Mom, T: Dream, Mystery
+
+HAND OF THE ANTIQUARIAN ReTe 15 R: Touch, D: Sun, T: Ind
+
+HANDS OF THE GRASPING EARTH Re(Mu)Te 15 R: Voice, D: Diam, T: Part
+
+OMINOUS EVITATION OF THE WEIGHTY STONE ReTe 15 R: Voice, D: Conc, T: Ind
+
+RETRIEVE THE BLOODIED ARROW ReTe 15 R: Voice, D: Mom, T: Ind
+
+THE ARMORER’S ART ReTe 15 R: Touch, D: Mom, T: Ind
+
+THE EARTH’S CARBUNCLE Re(Mu)Te 15 R: Voice, D: Mom, T: Part
+
+THE INSTANT RING FORT ReTe 15 R: Touch, D: Mom, T: Part
+
+THE SPELL OF WROUGHT IRON ReTe 15 R: Touch, D: Mom, T: Group
+
+THE SPELL OF WROUGHT IRON ReTe 15 R: Touch, D: Mom, T: Group
+
+TILLED SOIL ReTe 15 R: Voice, D: Mom, T: Part This spell instantly tills an amount of soil equal to that of 1000 cubic paces, making it perfect for planting crops or just soft enough to lie down upon comfortably.
+
+COERCE THE SPIRIT OF EARTH ReTe 20 R: Voice, D: Diam, T: Ind
+
+CREST OF THE EARTH WAVE ReTe 20 R: Voice, D: Mom, T: Part
+
+INVISIBLE HAND OF THE THIEF ReTe 20 R: Voice, D: Mom, T: Ind
+
+PERFECTION OF THE WELL-DESIGNED CHAMBER Re(Cr)Te(He) 20 R: Touch, D: Mom, T: Str
+
+A room so perfected counts for the Ceremonial bonus options of Hermetic Geometry. The magical perfection is momentary, and then slowly fades as the building structure decays naturally over time; for Ceremonial purposes most buildings remain perfected for a day or so before they settle slightly and lapse. The specified room becomes regular: right-angled with straight sides, or perfectly circular (most real buildings are not particularly straight). If this is not possible because the room is highly irregular, then the spell fails. If there is any doubt, a Perception + Artes Liberales (geometry) roll against an Ease Factor of 12 or higher resolves the issue. (Difficulty depends upon the irregularities that need perfecting, however, if the Ease Factor would be less than 12 (Hard) the spell will perfect the target without guidance.)
+
+SWORD WARD ReTe 20 R: Personal, D: Diam, T: Ind Wards the caster against metal weapons. (Base 5, +1 Diameter, +2 affect Metal) Source: Through the Aegis, 78
+
+THE FORGIVING EARTH ReTe 20 R: Voice, D: Sun, T: Part
+
+THE PERFECTED STRUCTURE Re(Cr)Te(He) 20 R: Touch, D: Mom, T: Str
+
+A building so perfected counts for the Ceremonial bonus options of Hermetic Geometry. It is also stronger and more stable against tremors and storms, and has a pleasing air to those beholding it, or living and working within. The magical perfection is momentary, and then slowly fades as the building structure decays naturally over time; for Ceremonial purposes most buildings remain perfected for a day or so before they settle slightly and lapse.
+
+THE PHANTOM BLACKSMITH ReTe 20 R: Touch, D: Mom, T: Group
+
+THE TREMERE TRENCH ReTe 20 R: Voice, D: Mom, T: Part
+
+THE UNERRING LANCE ReTe 20 R: Touch, D: Diam, T: Ind
+
+UNYIELDING EARTH ReTe 20 R: Voice, D: Sun, T: Part
+
+A SEASON’S INNING ReTe(Aq) 25 R: Touch, D: Mom, T: Bound, Ritual Req: Aquam Some waterways, especially those near estuaries, are surrounded by marshland. However, there are techniques for building up and draining the land. This can take many seasons of work, with a large team of laborers working in very difficult conditions. The draining of marshland through the digging of drainage channels and the building of dykes is known as inning. This ritual allows the magus to drain an area 300 by 300 paces to the point that it is dry and stable, as though a season had been spent inning the land. The Aquam requisite is used to move the standing water outside the spell boundary, which makes the inning work easier than normal.
+
+ABRADING STONES ReTe 25 R: Voice, D: Diam, T: Part
+
+CREEPING EARTH ReTe 25 R: Touch, D: Moon, T: Part
+
+FOLLOW THE ROUTE I COMMAND ReTe 25 R: Touch, D: Mom, T: Part
+
+MOLD THE EARTH WITHIN SIGHT ReTe 25 R: Sight, D: Mom, T: Part
+
+NATURE’S KINDEST SEAT ReTe 25 R: Touch, D: Sun, T: Group
+
+THE HEART THAT COULD MOVE STONE ReTe 25 R: Touch, D: Diam, T: Str
+
+THE PRODIGAL RETURNS ReTe 25 R: Sight, D: Conc, T: Ind
+
+CIRCULAR WALL OF SHIELDS ReTe 30 R: Touch, D: Sun, T: Group
+
+CRYSTAL RAIN ReTe 30 R: Sight, D: Mom, T: Group This spell causes a vast cloud of sharp shards of glass fly to a point in the sky, and then fall to the earth. From a distance, as the light refracts through the plunging glass, it looks like a curious sort of localized rain. The area covered by the falling glass is about 10 paces across, and anyone in (or passing through) the area takes +10 damage. If a wound is caused, blood from the victim falls onto the earth.
+
+DENY THEM THE BRIDGE ReTe 30 R: Touch, D: Conc, T: Str
+
+A Perception + Finesse Stress roll is required against a base Ease Factor of 9. Larger bridges, up to the maximum size manageable with this variant, increase the Ease Factor by +3. Failing the roll means one check for damage as per City & Guild, page 77, for each point by which the casting roll failed.
+
+EARTH SHOCK ReTe 30 R: Voice, D: Mom, T: Part Shakes the ground in a 100 pace radius. All affected by this spell must make a Quickness – Encumbrance stress roll of 10+ or fall. Apply these modifiers: standing still, +2; on solid stone, +2; moving slowly, +0; on earth, +0; running, –2; standing on a narrow bridge, –6.
+
+GLASS BROOM ReTe 30 R: Sight, D: Conc, T: Group This spell moves a lot of glass objects around. The spell can be used to move around glass created by The Shattered Goblet. It can also be used to move other glass around.
+
+MASTER THE AIRY SPIRIT OF EARTH ReTe 30 R: Voice, D: Moon, T: Ind
+
+THE EARTH SPLIT ASUNDER ReTe 30 R: Voice, D: Spec, T: Part
+
+A CAREFUL REMOVAL OF A PERFECT LANDSCAPE ReTe 35 R: Touch, D: Moon, T: Bound*, Ritual
+
+CREEPING CHASM ReTe 35 R: Voice, D: Mom, T: Part
+
+RAPACIOUS HAND OF THE HIGHWAYMAN ReTe 35 R: Voice, D: Mom, T: Ind
+
+SUMMON THE AIRY SPIRIT OF EARTH ReTe 35 R: Arc, D: Mom, T: Ind
+
+THE SECOND REMOVE OF THE GIANT’S DANCE ReTe 35 R: Touch, D: Moon, T: Str, Ritual
+
+STEERING A VAST STONE DISH ReTe 40 R: Touch, D: Ring, T: Circle
+
+SUMMON THE SPIRIT OF EARTH ReTe 40 R: Arc, D: Conc, T: Ind
+
+THE FIELD OF MILLSTONES ReTe 40 R: Voice, D: Diam, T: Part
+
+AWAKEN SLEEPING GIANT! ReTe(Ig) 45 R: Touch, D: Mom, T: Part, Ritual
+
+CARGO OF ANGEL’S WINGS ReTe(He) 45 R: Arc, D: Mom, T: Ind
+
+PORTAGE OF THE EAGLES ReTe 45 R: Touch, D: Mom, T: Group
+
+DIVERTING THE RIVER ReTe 50 R: Voice, D: Diam, T: Part
+
+PITSDIM’S DOWNFALL ReTe 50 R: Arc, D: Diam, T: Part
+
+THE AMBULATORY LABORATORY ReTe 50 R: Touch, D: Mom, T: Room
+
+A version of this spell with Arcane Connection Range is also believed to exist; with this more powerful variant a magus may summon the contents of a remote lab into the chamber he occupies. It is not unheard of for a nefarious magus to steal an entire lab in this fashion!
+
+SCORN OF APHRODITE’S TEARS ReTe(Ig) 70 R: Touch, D: Mom, T: Ind, Ritual
+
+HERMES’ PORTAL ReTe 75 R: Arc, D: Year, T: Ind, Ritual Creates a magical portal through which people, animals, and objects can travel almost instantaneously. The ritual must be cast twice, simultaneously at two different locations, and after the rituals are performed, there is a magical connection between them. The magi conducting each ritual must have an Arcane Connection (such as a clod of dirt) to the other location when they are conducting the ritual. The portal is activated by some command word or ritual determined when the portal is enchanted. Inanimate things and unwilling creatures may be transmitted if someone else says the command word, and pushes the subject through.
+
+FAERIE CHAINS OF THE FAMILIAR SLAVE CrVi Gen R: Touch, D: Until, T: Ind, Ritual
+
+FANNING THE INFERNAL FLAMES CrVi Gen R: Voice, D: Sun, T: Ind
+
+FEEDING THE FONT OF THE COVENANT CrVi Gen R: Touch, D: Mom, T: Bound, Ritual
+
+RESTORE THE FADED THREADS CrVi Gen R: Touch, D: Diam, T: Circle
+
+SHELL OF FALSE DETERMINATIONS CrVi Gen R: Touch, D: Mom, T: Ind, Ritual
+
+SHELL OF OPAQUE MYSTERIES CrVi Gen R: Touch, D: Mom, T: Ind, Ritual
+
+STRATIFYING THE SUBTLE REALITIES Cr(Mu)Vi Gen R: Touch, D: Mom, T: Bound, Ritual
+
+THE HEADY RUSH OF MAGIC CrVi 5 R: Per, D: Mom, T: Ind
+
+FADING STAR OF EVENING CrVi 15 R: Touch, D: Mom, T: Ind
+
+KISS OF THE ENIGMA CrVi 15 R: Touch, D: Mom, T: Ind
+
+THE PHANTOM GIFT CrVi 15 R: Voice, D: Sun, T: Ind
+
+PLUCKING THE HAIR FROM THE BILLY GOAT’S CHIN CrVi 20
+
+R: Voice, D: Sun, T: Ind This spell creates a temporary Arcane Connection to a specific demon within range of the caster’s voice, allowing him to penetrate its Magic Resistance more easily with additional spells. This connection is intangible, a sort of conduit rather than a physical object, and so it cannot be fixed in the laboratory and does not itself convey any Penetration bonus. Thus, forcing a demon to teach the magus its True Name is even better.
+
+MERCURY’S BLESSING CrVi 25 R: Touch, D: Year, T: Ind, Ritual
+
+PENETRATE THE REGIO SKIN Cr(Re)Vi 25 R: Touch, D: Mom, T: Ind, Ritual
+
+BLESSING OF MERCURY CrVi 30 R: Touch, D: Year, T: Ind, Ritual
+
+THE ENIGMA’S GIFT CrVi 30 R: Voice, D: Mom, T: Ind
+
+ENDURANCE OF THE WITCH MOON Cr(Mu)Vi 35
+
+R: Voice, D: Mom, T: Ind Req: Muto Similar to the common spell The Enigma’s Gift (Ars Magica Fifth Edition, page 157), this spell causes the target to gain four Warping Points. However, in the case of characters with a specific response to Warping, the effect of these points is to force the target to undergo the Witch Moon just as if the affected target were a member of the Folk Witch hedge tradition, as described in Hedge Magic: Revised Edition, page 42. Enduring the Witch Moon is automatic. This replaces the normal effects of gaining two or more Warping Points, which for Hermetic magi is a roll for Twilight. This effect is inspired by observing the Witch Moon endured by a subject Folk Witch.
+
+SUTURE GAIA’S WOUND CrVi(He) 45
+
+R: Touch, D: Mom, T: Bound, Ritual Req: Herbam This spell repairs the damage done by the Great Pestilence to the aura and the Herbam Form in a specific area. It does not prevent future impairments from the sentient fungus.
+
+CONSECRATION OF MERCURY’S HOUSE CrVi 55
+
+R: Touch, D: Mom, T: Str, Ritual This momentary ritual opens a temple shell to habitation by Mercury. This creates a level 1 Magic aura within the temple precinct (which may be then swamped by a larger aura of a different sort). As this is a momentary Creo ritual, once the ritual has been cast the aura remains and cannot be dispelled. If the temple already has a Magic aura the existing aura is not increased by the casting of this spell.
+
+THE GREAT DISCORD CrVi 55 R: Touch, D: Moon, T: Bound, Ritual The whole parish is tainted by magic, and for the spell duration everyone in the parish suffers from the social penalties of The Gift: husbands and wives bicker and feud, brawls erupt in the fields, and animals flee from their masters. The parish is paralyzed by the social breakdown, and by the end of the spell several parishioners may have been murdered. The parish immediately gains a reputation for being cursed, and it can take years for harmony to be restored. Also, as the parish animals have fled and the fields have been only erratically tended, it is likely that the parish will suffer from famine and starvation in the following year. (Base 3, +1 Touch, +3 Moon, +4 Boundary, +4 size) Source: The Church, 42
+
+TRANSFORMATION OF FLESH TO SPIRIT CrVi(Co) 60 R: Touch, D: Mom, T: Str, Ritual
+
+THE NERIUSIAN PORTAL CrVi 65 R: Touch, D: Sun, T: Circle, Ritual
+
+WIZARD’S INITIATION CrVi(Co) 75 R: Touch, D: Mom, T: Ind, Ritual
+
+SCALES OF THE MAGICAL WEIGHT InVi 5 R: Touch, D: Mom, T: Ind
+
+THE INVISIBLE EYE REVEALED InVi Gen R: Per, D: Conc, T: Touch
+
+SENSE OF MAGICAL POWER InVi 2 R: Touch, D: Mom, T: Ind
+
+SENSE THE WEIGHT OF DIVINE POWER InVi 3 R: Touch, D: Mom, T: Ind
+
+SENSE THE NATURE OF VIS InVi 5 R: Touch, D: Mom, T: Ind
+
+EYES FOR THE PRINCE InVi 15 R: Per, D: Conc, T: Vision
+
+SENSE THE HOUR InVi 10 R: Touch, D: Mom, T: Ind
+
+A COMPARISON OF THE POSITIONS OF THE FIXED STARS InVi 15
+
+R: Touch, D: Mom, T: Ind Special: Requires Celestial Magic This spell charts the course of the light emanating from the fixed stars. It then compares the angles between these lines, to provide a unique pair of numbers, representing the array. This is the Ptolemaic coordinate for the caster’s position, provided that the caster knows the array at origin. A magus is unable to hold coordinates in her mind with sufficient precision to represent a circle less than 1000 paces across. Notebooks or devices with coordinates in them allow greater precision.
+
+BITTER TASTE OF BETRAYAL InVi 15 R: Per, D: Sun, T: Taste
+
+COMMUNE WITH MERCURY InVi 20 R: Per, D: Conc, T: Ind, Ritual
+
+DETECT THE GIFT InVi 20 R: Per, D: Conc, T: Touch
+
+NUMBNESS OF THE GIFT InVi 20 R: Per, D: Conc, T: Touch
+
+NUMBNESS OF THE GIFT InVi 20 R: Per, D: Conc, T: Touch
+
+NUMBNESS OF THE GIFT InVi 20 R: Per, D: Conc, T: Touch
+
+PIERCING THE FAERIE VEIL InVi 20 R: Per, D: Conc, T: Vision.
+
+SEEKING THE THREAD OF POWER InVi 20 R: Touch, D: Conc, T: Ind
+
+SIGHT OF THE ASTROLOGICAL HOUR InVi 20 R: Sight, D: Mom, T: Ind
+
+THIS HEART OF DARKNESS InVi 20 R: Touch, D: Mom, T: Room
+
+VIEWING THE HERBAM MIASMA InVi(He) 20 R: Per, D: Conc, T: Vision
+
+REVEAL THE MAGICAL DECEPTION InVi 25 R: Per, D: Conc, T: Touch
+
+A SONG OF ALL THESE FAERIE PLACES In(Cr)Vi(Im) 25 R: Touch, D: Conc, T: Group
+
+A SONG OF ALL THESE INFERNAL PLACES In(Cr)Vi(Im) 25 R: Touch, D: Conc, T: Group
+
+A SONG OF ALL THESE MAGICAL PLACES In(Cr)Vi(Im) 25 R: Touch, D: Conc, T: Group
+
+SCENT OF THE GIFT InVi 25 R: Per, D: Conc, T: Smell
+
+STENCH OF MAGIC InVi 25 R: Per, D: Conc, T: Smell
+
+DIVINE HEAVEN’S ASPECT InVi 30 R: Arc, D: Mom, T: Ind
+
+FLESH CRAWLS AT THE INTANGIBLE TOUCH InVi 30 R: Per, D: Diam, T: Touch
+
+IMPRESSION OF THE FADED SIGIL InVi 30 R: Per, D: Mom, T: Touch
+
+ODOR OF LINGERING MAGIC InVi 30 R: Per, D: Conc, T: Smell
+
+REVEAL THE LURKING WATCHERS InVi 30 R: Per, D: Conc, T: Vision
+
+SEE THE LIGHT OF MAGIC InVi 30 R: Per, D: Diam, T: Vision
+
+SENSE OF THE LINGERING MAGIC InVi 30 R: Per, D: Conc, T: Hearing
+
+SULFUROUS WHISPERS InVi 30 R: Arc, D: Conc, T: Ind
+
+TO SEE WHAT BINDS THIS MAGICAL PLACE InVi 30 R: Per, D: Diam, T: Vision
+
+SIGHT OF THE ACTIVE MAGICS InVi 40 R: Per, D: Conc, T: Vision
+
+SIGHT OF THE LAZY PARENS InVi 40 R: Per, D: Sun, T: Vision
+
+EYES FOR THE LURKING ASSASSIN InVi 45 R: Per, D: Diam, T: Vision
+
+SIGHT OF THE SIGIL InVi 50 R: Per, D: Conc, T: Vision
+
+DAY OF COMMUNION MuVi Gen R: Voice, D: Sun, T: Group.
+
+FACILITATE THE STIFLED (FORM) SPELL MuVi Gen R: Touch, D: Mom, T: Ind
+
+GROUP WIZARD’S BOOST (FORM) MuVi Gen R: Touch, D: Mom, T: Group
+
+HARNESSING THE ESSENTIAL POWER OF (FORM) MuVi Gen R: Touch, D: Mom, T: Ind
+
+MIRROR OF OPPOSITION (FORM) MuVi Gen R: Voice, D: Mom, T: Ind
+
+PASSING THE REINS OF CORPUS MuVi Gen R: Touch, D: Mom, T: Ind
+
+SHROUD MAGIC MuVi Gen R: Touch, D: Mom, T: Ind This spell allows a magus to suppress or alter the sigil in a spell that is currently being cast. The spell to be shrouded can be up to double the Shroud’s level. (Base effect, +1 Touch) Source: Ars Magica Fifth Edition, 159
+
+SYNTHEMATA OF (X) MuVi Gen R: Per, D: Mom, T: Ind, Mystery The spell is unique to one named being, and the spell level must equal or exceed its Might. The synthemata spell affects the caster so that the caster adds the synthemata level to the Penetration Total of any spell cast (or begun) immediately after the synthemata spell. (Base named being’s Might) Source: The Mysteries, 86
+
+THE LASTING SYNTHEMATA OF (X) MuVi Gen R: Per, D: Diam, T: Ind, Mystery
+
+THE SORCERER’S FORK MuVi Gen R: Touch, D: Mom, T: Ind
+
+THE WICKED JAR MuVi Gen R: Voice, D: Sun, T: Ind This spell changes a demon with Might no greater than (the level of this spell – 10) so that it is bound to a physical object, usually a hollowed jar or pot made of clay and sealed. The effect is similar to the Goetic Art of Binding: the demon becomes part of the object for as long as the spell is active, and is only released if the object is broken or the effect ends.
+
+WIZARD’S BOOST (FORM) MuVi Gen R: Touch, D: Mom, T: Ind
+
+WIZARD’S COMMUNION MuVi Gen R: Voice, D: Mom, T: Group
+
+WIZARD’S EXPANSION (FORM) MuVi Gen R: Voice, D: Mom, T: Ind
+
+WIZARD’S REACH (FORM) MuVi Gen R: Voice, D: Mom, T: Ind
+
+WIZARD’S VIGIL MuVi Gen R: Voice, D: Sun, T: Group This spell functions as Wizard’s Communion, except that the longer duration allows it to be used with Ritual spells. For the purposes of its effect, treat it as a Wizard’s Communion of two magnitudes lower. (Base Effect, +2 Sun) Source: atlas-games.com/arsmagica/arm5errata
+
+WIZARD’S COMMUNION MuVi 5 R: Voice, D: Mom, T: Group
+
+WIZARD’S COMMUNION MuVi 10 R: Voice, D: Mom, T: Group
+
+CLEAR BREATH OF THE CONSUMMATE LIAR MuVi(Me) 20 R: Per, D: Conc, T: Ind
+
+WIZARD’S COMMUNION MuVi 20 R: Voice, D: Mom, T: Group
+
+WIZARD’S VIGIL MuVi 40 R: Voice, D: Sun, T: Group
+
+BIND THE DEVIL’S HANDS PeVi Gen R: Touch, D: Sun, T: Room
+
+CIRCLE OF CLARITY PeVi Gen R: Touch, D: Mom, T: Circle
+
+CUTTING THE CORDS PeVi Gen R: Touch, D: Mom, T: Ind, Ritual
+
+DEMON’S ETERNAL OBLIVION PeVi Gen R: Voice, D: Mom, T: Ind
+
+DISENCHANT PeVi Gen R: Touch, D: Mom, T: Ind, Ritual You make a Hermetic magic item lose all its powers permanently if the level of this spell + a stress die (no botch) equals or exceeds the highest level of the enchantments in the item. The enchantment is utterly destroyed, as is all of the vis that was used in the magic item. The object left is in all ways a mundane item, but could be invested with enchantments again at a later time.
+
+DREADFUL BANE OF THE FAE PeVi Gen R: Voice, D: Mom, T: Ind
+
+EARLY PUNISHMENT FOR THE SINFUL WITCH Pe(Mu)Vi(Ig) Gen R: Voice, D: Mom, T: Ind
+
+EXORCISE THE FILTHY SPIRIT PeVi Gen R: Voice, D: Mom, T: Ind
+
+FUMIGANT OF MINOR DEMONS PeVi Gen R: Touch, D: Mom, T: Bound*, Ritual
+
+A variant of Demon’s Eternal Oblivion (Ars Magica Fifth Edition, page 160) designed to destroy all of the minor infernal spirits on the island. The demons affected have a Might equal to the spell’s level –25, lower if the Boundary is larger.
+
+IMPEDE THE IMPERTINENT INTERLOPER PeVi Gen R: Touch, D: Ring, T: Circle
+
+MASKING THE ODOR OF MAGIC PeVi Gen R: Touch, D: Sun, T: Ind
+
+REMOVING THE HEARTH’S KEYSTONE PeVi Gen R: Touch, D: Mom, T: Ind
+
+REVOKE THE PROTECTION OF BONISAGUS PeVi Gen R: Voice, D: Mom, T: Ind
+
+REVOKE THE PROTECTION OF (FORM) PeVi Gen R: Voice, D: Diam, T: Ind
+
+REVOKE THE PROTECTION OF (REALM) PeVi Gen R: Voice, D: Diam, T: Ind
+
+SAP THE GRIFFON’S STRENGTH PeVi Gen R: Voice, D: Mom, T: Ind
+
+SHATTERING THE MALICIOUS (RUNE) PeVi Gen R: Voice, D: Mom, T: Ind
+
+SULEIMAN’S WRATH JINNI PeVi Gen
+
+ON
+
+THE OATH-FORSAKEN
+
+R: Voice, D: Mom, T: Ind This spell weakens and possibly destroys a creature with Magic Might. If the spell penetrates the creature’s Magic Resistance, the creature loses Might equal to the spell’s level. A creature with zero Might is permanently destroyed. The creature must be sensed by the caster to be a valid target; the caster may have to employ other magic to perceive a spirit before using this spell.
+
+THE HEATHEN WITCH REBORN PeVi Gen R: Voice, D: Mom, T: Ind
+
+THE HEATHEN WITCH REBORN PeVi Gen R: Voice, D: Mom, T: Ind
+
+THE ROOSTER’S CROW PeVi Gen R: Per, D: Mom, T: Sound
+
+UNRAVELLING THE FABRIC OF (FORM) PeVi Gen R: Voice, D: Mom, T: Ind
+
+WIND OF MUNDANE SILENCE PeVi Gen R: Voice, D: Mom, T: Room
+
+LASH OF THE CHASTENED SERVANT PeVi 5 R: Voice, D: Sun, T: Ind
+
+NAILS OF IRON PeVi 5 R: Touch, D: Mom, T: Ind
+
+BREAK THE SHIELD PeVi 10 R: Touch, D: Mom, T: Ind
+
+CHASTISE THE UNRULY FIEND PeVi 10 R: Voice, D: Mom, T: Ind
+
+A black tentacle, similar to a writhing whip, lashes out from the caster’s palm to hit the targeted Infernal creature, reducing its Infernal Might score by 10 points. Brought close to destruction, a demon can be punished, and forced to obey, or at least to take the caster seriously. Note that the caster must be able to perceive or sense a demon to target it, and the spell must penetrate its Magic Resistance to take effect. (Base effect, +2 Voice, free cosmetic effect) Source: Magi of Hermes, 133
+
+DREADFUL BANE OF THE FAE PeVi 10 R: Voice, D: Mom, T: Ind
+
+LASH THE WAYWARD SPIRIT PeVi 10 R: Voice, D: Mom, T: Ind
+
+BELITTLE THE FEROCIOUS WARLOCK PeVi 20 R: Sight, D: Diam, T: Ind
+
+PARALYSIS OF THE GIFT PeVi 20 R: Touch, D: Diam, T: Ind
+
+REVOKE THE PROTECTION OF BONISAGUS PeVi 20 R: Voice, D: Mom, T: Ind
+
+SEVER THE CONNECTION PeVi 20 R: Touch, D: Mom, T: Ind
+
+BREAKING THE SHIELD PeVi 25 R: Sight, D: Mom, T: Ind
+
+STRIPPING THE SUPERFLUOUS REALITIES Pe(Mu)Vi 30 R: Touch, D: Mom, T: Bound, Ritual
+
+SNIPPING THE THREAD OF POWER PeVi 35 R: Touch, D: Mom, T: Ind
+
+ADJURATION OF THE HELL-SWORN SPIRIT ReVi Gen R: Arc, D: Mom, T: Ind
+
+AEGIS OF THE HEARTH ReVi Gen R: Touch, D: Year, T: Bound, Ritual
+
+ARCANE SEAL ReVi Gen R: Touch, D: Sun, T: Ind This spell can be cast on a magical tunnel created by an Intangible Tunnel-style of effect, but it may only be cast by the magus who originally cast the Intangible Tunnel effect, because this spell uses the “suppress own spell” guideline (see Ars Magica Fifth Edition, page 161).
+
+BREAK THE SIEGE ReVi Gen R: Voice, D: Sun, T: Ind
+
+CIRCULAR WARD AGAINST DEMONS ReVi Gen R: Touch, D: Ring, T: Circle
+
+CIRCULAR WARD AGAINST FAERIE SPIRITS ReVi Gen R Touch, D Ring, T Circle
+
+CIRCULAR WARD AGAINST MAGICAL SPIRITS ReVi Gen R: Touch, D: Ring, T: Circle
+
+DOMINANCE OVER THE INFERNAL ReVi Gen R: Touch, D: Year, T: Bound, Ritual
+
+GUTTERING OF THE HOME-FIRES ReVi Gen R: Touch, D: Diam, T: Ind
+
+INVOKE THE PACT OF ZELOS ReVi Gen R: Arc, D: Mom, T: Ind, Ritual
+
+MAINTAINING THE DEMANDING SPELL ReVi Gen R: Touch, D: Diam, T: Ind
+
+OPENING THE INTANGIBLE TUNNEL ReVi Gen R: Arc, D: Conc, T: Ind
+
+A magus who magically recognizes the tunnel (through The Invisible Eye Revealed or a similar spell) may cast spells through the tunnel back at you, and he need not concentrate on keeping the tunnel open. If this magus is the target of the spell, he is considered to be touching you. Otherwise, his effective range to you is his range to the target of the tunneling spell.
+
+QUIET THE CURSING TONGUE ReVi Gen R: Voice, D: Sun, T: Ind
+
+SUPPRESSING THE WIZARD’S HANDIWORK ReVi Gen R: Touch, D: Conc, T: Ind
+
+SUSTAIN A SPELL OF (FORM) ReVi(Form) Gen R: Touch, D: Mom, T: Ind, Ritual, Mystery (Spell Binding) Req: (Form) Cast on a container, the ritual spell binds to another spell (of the requisite Form) cast in the next round, allowing a (Form) spirit to be forced into the container where it must sustain the second spell indefinitely (See Legends of Hermes, Initiation of Spell Binding) (Base effect) Source: Legends of Hermes, 65
+
+THE CURSÈD DAY ReVi Gen R: Arc, D: Sun, T: Ind
+
+THE EVIL EYE ReVi Gen R: Sight, D: Diam, T: Ind Sometimes a magus cannot acquire an Arcane Connection to his quarry. This spell opens a tunnel between the magus and any target within Sight Range. The advantage of this is that it lowers the effective range between the magus and the target — which means that lower magnitude effects can be used on the target, which should increase the effective Penetration Total. Effects cast through The Evil Eye tunnel can be up to one magnitude greater than the magnitude of The Evil Eye spell.
+
+THE MASTER’S MESSAGE ReVi Gen R: Touch, D: Moon, T: Ind
+
+THE MINUTE OF RECKONING ReVi Gen R: Arc, D: Diam, T: Ind
+
+THE PATIENT SPELL ReVi Gen R: Touch, D: Conc, T: Ind
+
+TIE THE THREADS THAT BIND ReVi Gen R: Touch, D: Mom, T: Group, Ritual
+
+WATCHING WARD ReVi Gen R: Touch, D: Spec, T: Ind, Ritual Watching Ward puts another spell on a given target on hold until that spell is triggered by a simple condition, which is determined when this ritual is cast. The target of the Watching Ward must be present for the entire casting ritual. When the conditions you specify come to pass, the suspended spell takes effect.
+
+WIZARD’S SIEGE ReVi Gen R: Arc, D: Moon, T: Ind
+
+WRAPPINGS OF METAPHYSICAL IRON ReVi Gen R: Touch, D: Sun, T: Ind
+
+CLEANSE THE VERMINOUS VIS ReVi 15 R: Touch, D: Mom, T: Ind
+
+DISTILLATION OF THE PUREST STREAM ReVi 15 R: Touch, D: Mom, T: Ind
+
+GATHER THE ESSENCE OF THE BEAST ReVi 15 R: Touch, D: Mom, T: Ind
+
+COMMAND THE VILE SPIRIT ReVi 20 R: Voice, D: Conc, T: Ind
+
+SWIFT WINGS OF TIMELESS DAYS ReVi 20 R: Per, D: Mom, T: Ind
+
+DIVIDE THE GATHERED ESSENCE ReVi 25 R: Touch, D: Mom, T: Group
+
+A DAY’S GRACE ReVi 30 R: Touch D: Hours T: Ind Using this spell, the caster is able to suppress one other spell he casts at the same time as this spell for a Duration counted in Celestial Hours (see The Mysteries Revised Edition, page 49).
+
+SUBSUME THE APPARENT DOMINION ReVi 50 R: Touch, D: Year, T: Room, Ritual
+
+MAGNA CLAUSTRA ReVi 95 R: Touch, D: Year, T: Bound, Ritual The Magna Claustra (Latin: Great Barrier) protects an area from the Great Pestilence, providing the Penetration Total of the spell exceeds 60.
+
+THE EDGE OF REASON CrAe(Co) 20 R: Sight, D: Moon, T: Ind
+
+THE INVISIBLE REVEALED InAe 20 R: Per, D: Conc, T: Vision
+
+SENSE OF THE MOON’S PRESENCE InAe 20 R: Per, D: Sun, T: Vision
+
+THE FALL CrAe 35 R: Voice, D: Mom, T: Ind Creates an amount of aether with the density of earth that travels 50 paces in an arc during the round in which the spell is cast. If this aether is aimed at an individual, a Perception + Finesse roll is made against the target’s Defense roll. If successful, the target takes +30 damage.
+
+THE UNSEEN BARRIER CrAe 35 R: Touch, D: Conc, T: Individual
+
+AETHERIC FIRE MuAe(Ig) 35 R: Sight, D: Conc, T: Ind Req: Ignem This spell gives the target intangible aether the unnatural quality of heat. The default quality makes the aether noticeably warm, but does no damage. However, this effect increases the intensity of the heat such that it does +10 damage to those within the area of effect.
+
+HOLD THE SKY IN THRALL PeAe 145 R: Sight, D: Mom, T: Ind, Ritual
+
+HEDGE OUT THE CREATURES OF LUNAR FIRE ReAe 5 R: Touch, D: Ring, T: Circle
+
