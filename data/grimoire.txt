@@ -3897,7 +3897,9 @@ The caster traces out a design on a piece of cloth, and a piece of thread follow
 
 (Base 15, +1 Touch) Source: Magi of Hermes, 58
 
-EVERLASTING MUSIC ReHe(An) 20 R: Touch, D: While (being carried), T: Ind Req: Animal This spell makes a stringed, wooden instrument play music. The spell lasts until the instrument is put down, which, if it is tied to someone’s belt, might not be for a very long time. The Animal requisite is for the strings of such an instrument.
+EVERLASTING MUSIC ReHe(An) 20 R: Touch, D: While (being carried), T: Ind Req: Animal 
+
+This spell makes a stringed, wooden instrument play music. The spell lasts until the instrument is put down, which, if it is tied to someone’s belt, might not be for a very long time. The Animal requisite is for the strings of such an instrument.
 
 (Base 3, +1 Touch, +1 While, +1 Animal requisite, +1 complexity) Source: Magi of Hermes, 124
 
@@ -6584,7 +6586,9 @@ This spell is designed for a magus to cast upon himself at the start of a day’
 
 179
 
-TRUST ME ReMe 20 R: Eye, D: Sun, T: Ind Occasionally a Quaesitor may need to question mundanes directly, typically grogs and companions. This spell can be used to make the process less effort and more productive. The effect simply creates a counter-balancing force on the subject’s mind. The Gift itself is not affected in any way, only the subject’s mind is. The spell is as powerful as Aura of Rightful Authority, but more subtle. The spell only acts to level the subject’s attitude to the caster, not make them obedient or unnaturally well-disposed. Since the affected person retains free will, this effect does not count as scrying. Questioning using Aura of Rightful Authority does count as scrying.
+TRUST ME ReMe 20 R: Eye, D: Sun, T: Ind 
+
+Occasionally a Quaesitor may need to question mundanes directly, typically grogs and companions. This spell can be used to make the process less effort and more productive. The effect simply creates a counter-balancing force on the subject’s mind. The Gift itself is not affected in any way, only the subject’s mind is. The spell is as powerful as Aura of Rightful Authority, but more subtle. The spell only acts to level the subject’s attitude to the caster, not make them obedient or unnaturally well-disposed. Since the affected person retains free will, this effect does not count as scrying. Questioning using Aura of Rightful Authority does count as scrying.
 
 (Base 5, +1 Eye, +2 Sun) Source: Houses of Hermes – True Lineages, 73
 
