@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import json
+import json
 import re
 
 
@@ -11,7 +12,7 @@ def main():
     for line in lines:
         if line.startswith("#"):
             continue
-        match = re.match("[A-Z ]+", line)
+        match = re.search(r"^([A-Z][A-Z]+)(\s[A-Z]+)*\b", line)
         if match:
             print(line)
 
